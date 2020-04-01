@@ -30,6 +30,8 @@ def main():
             totaldf = pd.concat([totaldf, df], axis=1)
     totaldf['mean'] = totaldf.mean(numeric_only=True, axis=1)
     totaldf['max'] = totaldf.max(numeric_only=True, axis=1)
+    totaldf['outbreak'] = totaldf['max'].apply(lambda x: True if x>10 else False)
+
     totaldf.to_csv('../../processed_data/05_daily_cases.csv')
 
 main()
