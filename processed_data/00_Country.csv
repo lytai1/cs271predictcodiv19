@@ -1,508 +1,537 @@
-,Country,GDP,PPP,population density,population density.1,daily cases
-0,Afghanistan,True,True,True,True,
-1,Albania,True,True,True,True,
-2,Algeria,True,True,True,True,
-3,Angola,True,True,True,True,
-4,Antigua and Barbuda,True,True,True,True,
-5,Argentina,True,True,True,True,
-6,Armenia,True,True,True,True,
-7,Aruba,True,True,True,True,
-8,Australia,True,True,True,True,True
-9,Austria,True,True,True,True,
-10,Azerbaijan,True,True,True,True,
-11,The Bahamas,True,True,,,
-12,Bahrain,True,True,True,True,
-13,Bangladesh,True,True,True,True,
-14,Barbados,True,True,True,True,
-15,Belarus,True,True,True,True,
-16,Belgium,True,True,True,True,True
-17,Belize,True,True,True,True,
-18,Benin,True,True,True,True,
-19,Bhutan,True,True,True,True,
-20,Bolivia,True,True,,,
-21,Bosnia and Herzegovina,True,True,True,True,
-22,Botswana,True,True,True,True,
-23,Brazil,True,True,True,True,True
-24,Brunei Darussalam,True,True,True,True,
-25,Bulgaria,True,True,True,True,
-26,Burkina Faso,True,True,True,True,
-27,Burundi,True,True,True,True,
-28,Cabo Verde,True,True,True,True,
-29,Cambodia,True,True,True,True,True
-30,Cameroon,True,True,True,True,
-31,Canada,True,True,True,True,True
-32,Central African Republic,True,True,True,True,
-33,Chad,True,True,True,True,
-34,Chile,True,True,True,True,
-35,China,True,True,True,True,
-36,Colombia,True,True,True,True,True
-37,Comoros,True,True,True,True,
-38,Democratic Republic of the Congo,True,True,True,True,
-39,Republic of Congo,True,True,,,
-40,Costa Rica,True,True,True,True,
-41,Côte d'Ivoire,True,True,True,True,
-42,Croatia,True,True,True,True,
-43,Cyprus,True,True,True,True,
-44,Czech Republic,True,True,,,
-45,Denmark,True,True,True,True,
-46,Djibouti,True,True,True,True,
-47,Dominica,True,True,True,True,
-48,Dominican Republic,True,True,True,True,
-49,Ecuador,True,True,True,True,
-50,Egypt,True,True,True,True,
-51,El Salvador,True,True,True,True,
-52,Equatorial Guinea,True,True,True,True,
-53,Eritrea,True,True,True,True,
-54,Estonia,True,True,True,True,
-55,Eswatini,True,True,True,True,
-56,Ethiopia,True,True,True,True,
-57,Fiji,True,True,True,True,
-58,Finland,True,True,True,True,True
-59,France,True,True,True,True,True
-60,Gabon,True,True,True,True,
-61,The Gambia,True,True,,,
-62,Georgia,True,True,True,True,
-63,Germany,True,True,True,True,True
-64,Ghana,True,True,True,True,
-65,Greece,True,True,True,True,
-66,Grenada,True,True,True,True,
-67,Guatemala,True,True,True,True,
-68,Guinea,True,True,True,True,
-69,Guinea-Bissau,True,True,True,True,
-70,Guyana,True,True,True,True,
-71,Haiti,True,True,True,True,
-72,Honduras,True,True,True,True,
-73,Hong Kong SAR,True,True,,,
-74,Hungary,True,True,True,True,
-75,Iceland,True,True,True,True,
-76,India,True,True,True,True,True
-77,Indonesia,True,True,True,True,
-78,Islamic Republic of Iran,True,True,,,
-79,Iraq,True,True,True,True,
-80,Ireland,True,True,True,True,
-81,Israel,True,True,True,True,
-82,Italy,True,True,True,True,True
-83,Jamaica,True,True,True,True,
-84,Japan,True,True,True,True,True
-85,Jordan,True,True,True,True,
-86,Kazakhstan,True,True,True,True,
-87,Kenya,True,True,True,True,
-88,Kiribati,True,True,True,True,
-89,Korea,True,True,,,
-90,Kosovo,True,True,,,
-91,Kuwait,True,True,True,True,
-92,Kyrgyz Republic,True,True,,,
-93,Lao P.D.R.,True,True,,,
-94,Latvia,True,True,True,True,
-95,Lebanon,True,True,True,True,
-96,Lesotho,True,True,True,True,
-97,Liberia,True,True,True,True,
-98,Libya,True,True,True,True,
-99,Lithuania,True,True,True,True,
-100,Luxembourg,True,True,True,True,
-101,Macao SAR,True,True,,,
-102,Madagascar,True,True,True,True,
-103,Malawi,True,True,True,True,
-104,Malaysia,True,True,True,True,True
-105,Maldives,True,True,True,True,
-106,Mali,True,True,True,True,
-107,Malta,True,True,True,True,
-108,Marshall Islands,True,True,True,True,
-109,Mauritania,True,True,True,True,
-110,Mauritius,True,True,True,True,
-111,Mexico,True,True,True,True,True
-112,Micronesia,True,True,True,True,
-113,Moldova,True,True,,,
-114,Mongolia,True,True,True,True,
-115,Montenegro,True,True,True,True,
-116,Morocco,True,True,True,True,
-117,Mozambique,True,True,True,True,
-118,Myanmar,True,True,True,True,
-119,Namibia,True,True,True,True,
-120,Nauru,True,True,True,True,
-121,Nepal,True,True,True,True,True
-122,Netherlands,True,True,True,True,
-123,New Zealand,True,True,True,True,
-124,Nicaragua,True,True,True,True,
-125,Niger,True,True,True,True,
-126,Nigeria,True,True,True,True,
-127,North Macedonia,True,True,True,True,
-128,Norway,True,True,True,True,
-129,Oman,True,True,True,True,
-130,Pakistan,True,True,True,True,
-131,Palau,True,True,True,True,
-132,Panama,True,True,True,True,
-133,Papua New Guinea,True,True,True,True,
-134,Paraguay,True,True,True,True,
-135,Peru,True,True,True,True,
-136,Philippines,True,True,True,True,True
-137,Poland,True,True,True,True,
-138,Portugal,True,True,True,True,
-139,Puerto Rico,True,True,True,True,
-140,Qatar,True,True,True,True,
-141,Romania,True,True,True,True,
-142,Russia,True,True,,,True
-143,Rwanda,True,True,True,True,
-144,Samoa,True,True,True,True,
-145,San Marino,True,True,True,True,
-146,São Tomé and Príncipe,True,True,,,
-147,Saudi Arabia,True,True,True,True,
-148,Senegal,True,True,True,True,
-149,Serbia,True,True,True,True,
-150,Seychelles,True,True,True,True,
-151,Sierra Leone,True,True,True,True,
-152,Singapore,True,True,True,True,True
-153,Slovak Republic,True,True,,,
-154,Slovenia,True,True,True,True,
-155,Solomon Islands,True,True,True,True,
-156,Somalia,True,True,True,True,
-157,South Africa,True,True,True,True,
-158,South Sudan,True,True,True,True,
-159,Spain,True,True,True,True,True
-160,Sri Lanka,True,True,True,True,True
-161,St. Kitts and Nevis,True,True,,,
-162,St. Lucia,True,True,,,
-163,St. Vincent and the Grenadines,True,True,,,
-164,Sudan,True,True,True,True,
-165,Suriname,True,True,True,True,
-166,Sweden,True,True,True,True,True
-167,Switzerland,True,True,True,True,
-168,Syria,True,True,,,
-169,Taiwan Province of China,True,True,,,
-170,Tajikistan,True,True,True,True,
-171,Tanzania,True,True,,,
-172,Thailand,True,True,True,True,True
-173,Timor-Leste,True,True,True,True,
-174,Togo,True,True,True,True,
-175,Tonga,True,True,True,True,
-176,Trinidad and Tobago,True,True,True,True,
-177,Tunisia,True,True,True,True,
-178,Turkey,True,True,True,True,
-179,Turkmenistan,True,True,True,True,
-180,Tuvalu,True,True,True,True,
-181,Uganda,True,True,True,True,
-182,Ukraine,True,True,True,True,
-183,United Arab Emirates,True,True,True,True,True
-184,United Kingdom,True,True,True,True,
-185,United States,True,True,,,
-186,Uruguay,True,True,True,True,
-187,Uzbekistan,True,True,True,True,
-188,Vanuatu,True,True,True,True,
-189,Venezuela,True,True,,,
-190,Vietnam,True,True,,,True
-191,Yemen,True,True,True,True,
-192,Zambia,True,True,True,True,
-193,Zimbabwe,True,True,True,True,
-194,Africa,,,True,True,
-195,African Group,,,True,True,
-196,African Union,,,True,True,
-197,African Union: Central Africa,,,True,True,
-198,African Union: Eastern Africa,,,True,True,
-199,African Union: Northern Africa,,,True,True,
-200,African Union: Southern Africa,,,True,True,
-201,African Union: Western Africa,,,True,True,
-202,"African, Caribbean and Pacific (ACP) Group of States",,,True,True,
-203,American Samoa,,,True,True,
-204,Andean Community,,,True,True,
-205,Andorra,,,True,True,
-206,Anguilla,,,True,True,
-207,Asia,,,True,True,
-208,Asia-Pacific Economic Cooperation (APEC),,,True,True,
-209,Asia-Pacific Group,,,True,True,
-210,Association of Southeast Asian Nations (ASEAN),,,True,True,
-211,Australia/New Zealand,,,True,True,
-212,BRIC,,,True,True,
-213,BRICS,,,True,True,
-214,Bahamas,,,True,True,
-215,Belt-Road Initiative (BRI),,,True,True,
-216,Belt-Road Initiative: Africa,,,True,True,
-217,Belt-Road Initiative: Asia,,,True,True,
-218,Belt-Road Initiative: Europe,,,True,True,
-219,Belt-Road Initiative: Latin America and the Caribbean,,,True,True,
-220,Belt-Road Initiative: Pacific,,,True,True,
-221,Bermuda,,,True,True,
-222,Black Sea Economic Cooperation (BSEC),,,True,True,
-223,Bolivarian Alliance for the Americas (ALBA),,,True,True,
-224,Bolivia (Plurinational State of),,,True,True,
-225,"Bonaire, Sint Eustatius and Saba",,,True,True,
-226,British Virgin Islands,,,True,True,
-227,Caribbean,,,True,True,
-228,Caribbean Community and Common Market (CARICOM),,,True,True,
-229,Cayman Islands,,,True,True,
-230,Central America,,,True,True,
-231,Central Asia,,,True,True,
-232,Central European Free Trade Agreement (CEFTA),,,True,True,
-233,Central and Southern Asia,,,True,True,
-234,Channel Islands,,,True,True,
-235,China (and dependencies),,,True,True,
-236,"China, Hong Kong SAR",,,True,True,
-237,"China, Macao SAR",,,True,True,
-238,"China, Taiwan Province of China",,,True,True,
-239,Commonwealth of Independent States (CIS),,,True,True,
-240,Commonwealth of Nations,,,True,True,
-241,Commonwealth: Africa,,,True,True,
-242,Commonwealth: Asia,,,True,True,
-243,Commonwealth: Caribbean and Americas,,,True,True,
-244,Commonwealth: Europe,,,True,True,
-245,Commonwealth: Pacific,,,True,True,
-246,Congo,,,True,True,
-247,Cook Islands,,,True,True,
-248,Countries with Access to the Sea,,,True,True,
-249,Countries with Access to the Sea: Africa,,,True,True,
-250,Countries with Access to the Sea: Asia,,,True,True,
-251,Countries with Access to the Sea: Europe,,,True,True,
-252,Countries with Access to the Sea: Latin America and the Caribbean,,,True,True,
-253,Countries with Access to the Sea: Northern America,,,True,True,
-254,Countries with Access to the Sea: Oceania,,,True,True,
-255,Cuba,,,True,True,
-256,Curaçao,,,True,True,
-257,Czechia,,,True,True,
-258,Dem. People's Republic of Korea,,,True,True,
-259,Denmark (and dependencies),,,True,True,
-260,ECE: North America-2,,,True,True,
-261,ECE: UNECE-52,,,True,True,
-262,ECLAC: Latin America,,,True,True,
-263,ECLAC: The Caribbean,,,True,True,
-264,ESCAP region: East and North-East Asia,,,True,True,
-265,ESCAP region: North and Central Asia,,,True,True,
-266,ESCAP region: Pacific,,,True,True,
-267,ESCAP region: South and South-West Asia,,,True,True,
-268,ESCAP region: South-East Asia,,,True,True,
-269,ESCAP: ADB Developing member countries (DMCs),,,True,True,
-270,ESCAP: ADB Group A (Concessional assistance only),,,True,True,
-271,ESCAP: ADB Group B (OCR blend),,,True,True,
-272,ESCAP: ADB Group C (Regular OCR only),,,True,True,
-273,ESCAP: ASEAN,,,True,True,
-274,ESCAP: Central Asia,,,True,True,
-275,ESCAP: ECO,,,True,True,
-276,ESCAP: HDI groups,,,True,True,
-277,ESCAP: Landlocked countries (LLDCs),,,True,True,
-278,ESCAP: Least Developed Countries (LDCs),,,True,True,
-279,ESCAP: Pacific island dev. econ.,,,True,True,
-280,ESCAP: SAARC,,,True,True,
-281,ESCAP: WB High income econ.,,,True,True,
-282,ESCAP: WB Low income econ.,,,True,True,
-283,ESCAP: WB Lower middle income econ.,,,True,True,
-284,ESCAP: WB Upper middle income econ.,,,True,True,
-285,ESCAP: WB income groups,,,True,True,
-286,ESCAP: high HDI,,,True,True,
-287,ESCAP: high income,,,True,True,
-288,ESCAP: income groups,,,True,True,
-289,ESCAP: low HDI,,,True,True,
-290,ESCAP: low income,,,True,True,
-291,ESCAP: lower middle HDI,,,True,True,
-292,ESCAP: lower middle income,,,True,True,
-293,ESCAP: other Asia-Pacific countries/areas,,,True,True,
-294,ESCAP: upper middle HDI,,,True,True,
-295,ESCAP: upper middle income,,,True,True,
-296,ESCWA: Arab countries,,,True,True,
-297,ESCWA: Arab least developed countries,,,True,True,
-298,ESCWA: Gulf Cooperation Council countries,,,True,True,
-299,ESCWA: Maghreb countries,,,True,True,
-300,ESCWA: Mashreq countries,,,True,True,
-301,ESCWA: member countries,,,True,True,
-302,East African Community (EAC),,,True,True,
-303,Eastern Africa,,,True,True,
-304,Eastern Asia,,,True,True,
-305,Eastern Europe,,,True,True,
-306,Eastern European Group,,,True,True,
-307,Eastern and South-Eastern Asia,,,True,True,
-308,Economic Community of Central African States (ECCAS),,,True,True,
-309,Economic Community of West African States (ECOWAS),,,True,True,
-310,Economic Cooperation Organization (ECO),,,True,True,
-311,Eurasian Economic Community (Eurasec),,,True,True,
-312,Europe,,,True,True,
-313,Europe (48),,,True,True,
-314,Europe and Northern America,,,True,True,
-315,European Community (EC: 12),,,True,True,
-316,European Free Trade Agreement (EFTA),,,True,True,
-317,European Union (EU: 15),,,True,True,
-318,European Union (EU: 28),,,True,True,
-319,Falkland Islands (Malvinas),,,True,True,
-320,Faroe Islands,,,True,True,
-321,France (and dependencies),,,True,True,
-322,French Guiana,,,True,True,
-323,French Polynesia,,,True,True,
-324,Gambia,,,True,True,
-325,Gibraltar,,,True,True,
-326,Greater Arab Free Trade Area (GAFTA),,,True,True,
-327,Greenland,,,True,True,
-328,Group of 77 (G77),,,True,True,
-329,Group of Eight (G8),,,True,True,
-330,Group of Seven (G7),,,True,True,
-331,Group of Twenty (G20) - member states,,,True,True,
-332,Guadeloupe,,,True,True,
-333,Guam,,,True,True,
-334,Gulf Cooperation Council (GCC),,,True,True,
-335,High-income countries,,,True,True,
-336,Holy See,,,True,True,
-337,Iran (Islamic Republic of),,,True,True,
-338,Isle of Man,,,True,True,
-339,Kyrgyzstan,,,True,True,
-340,LLDC: Africa,,,True,True,
-341,LLDC: Asia,,,True,True,
-342,LLDC: Europe,,,True,True,
-343,LLDC: Latin America,,,True,True,
-344,Land-locked Countries,,,True,True,
-345,Land-locked Countries (Others),,,True,True,
-346,Land-locked Developing Countries (LLDC),,,True,True,
-347,Lao People's Democratic Republic,,,True,True,
-348,Latin America and the Caribbean,,,True,True,
-349,Latin American Integration Association (ALADI),,,True,True,
-350,Latin American and Caribbean Group (GRULAC),,,True,True,
-351,"League of Arab States (LAS, informal name: Arab League)",,,True,True,
-352,Least developed countries,,,True,True,
-353,Least developed: Africa,,,True,True,
-354,Least developed: Asia,,,True,True,
-355,Least developed: Latin America and the Caribbean,,,True,True,
-356,Least developed: Oceania,,,True,True,
-357,Less developed regions,,,True,True,
-358,"Less developed regions, excluding China",,,True,True,
-359,"Less developed regions, excluding least developed countries",,,True,True,
-360,Less developed: Africa,,,True,True,
-361,Less developed: Asia,,,True,True,
-362,Less developed: Latin America and the Caribbean,,,True,True,
-363,Less developed: Oceania,,,True,True,
-364,Liechtenstein,,,True,True,
-365,Low-income countries,,,True,True,
-366,Lower-middle-income countries,,,True,True,
-367,Martinique,,,True,True,
-368,Mayotte,,,True,True,
-369,Melanesia,,,True,True,
-370,Micronesia (Fed. States of),,,True,True,
-371,Middle Africa,,,True,True,
-372,Middle-income countries,,,True,True,
-373,Monaco,,,True,True,
-374,Montserrat,,,True,True,
-375,More developed regions,,,True,True,
-376,More developed: Asia,,,True,True,
-377,More developed: Europe,,,True,True,
-378,More developed: Northern America,,,True,True,
-379,More developed: Oceania,,,True,True,
-380,Netherlands (and dependencies),,,True,True,
-381,New Caledonia,,,True,True,
-382,New EU member states (joined since 2004),,,True,True,
-383,New Zealand (and dependencies),,,True,True,
-384,Niue,,,True,True,
-385,No income group available,,,True,True,
-386,Non-Self-Governing Territories,,,True,True,
-387,North American Free Trade Agreement (NAFTA),,,True,True,
-388,North Atlantic Treaty Organization (NATO),,,True,True,
-389,Northern Africa,,,True,True,
-390,Northern Africa and Western Asia,,,True,True,
-391,Northern America,,,True,True,
-392,Northern Europe,,,True,True,
-393,Northern Mariana Islands,,,True,True,
-394,Oceania,,,True,True,
-395,Oceania (excluding Australia and New Zealand),,,True,True,
-396,Organisation for Economic Co-operation and Development (OECD),,,True,True,
-397,Organization for Security and Co-operation in Europe (OSCE),,,True,True,
-398,Organization of American States (OAS),,,True,True,
-399,Organization of Petroleum Exporting countries (OPEC),,,True,True,
-400,Organization of the Islamic Conference (OIC),,,True,True,
-401,Polynesia,,,True,True,
-402,Republic of Korea,,,True,True,
-403,Republic of Moldova,,,True,True,
-404,Russian Federation,,,True,True,
-405,Réunion,,,True,True,
-406,"SIDS Atlantic, and Indian Ocean, Mediterranean and South China Sea (AIMS)",,,True,True,
-407,SIDS Caribbean,,,True,True,
-408,SIDS Pacific,,,True,True,
-409,Saint Barthélemy,,,True,True,
-410,Saint Helena,,,True,True,
-411,Saint Kitts and Nevis,,,True,True,
-412,Saint Lucia,,,True,True,
-413,Saint Martin (French part),,,True,True,
-414,Saint Pierre and Miquelon,,,True,True,
-415,Saint Vincent and the Grenadines,,,True,True,
-416,Sao Tome and Principe,,,True,True,
-417,Shanghai Cooperation Organization (SCO),,,True,True,
-418,Sint Maarten (Dutch part),,,True,True,
-419,Slovakia,,,True,True,
-420,Small Island Developing States (SIDS),,,True,True,
-421,South America,,,True,True,
-422,South Asian Association for Regional Cooperation (SAARC),,,True,True,
-423,South-Eastern Asia,,,True,True,
-424,Southern Africa,,,True,True,
-425,Southern African Development Community (SADC),,,True,True,
-426,Southern Asia,,,True,True,
-427,Southern Common Market (MERCOSUR),,,True,True,
-428,Southern Europe,,,True,True,
-429,State of Palestine,,,True,True,
-430,Sub-Saharan Africa,,,True,True,
-431,Syrian Arab Republic,,,True,True,
-432,Tokelau,,,True,True,
-433,Turks and Caicos Islands,,,True,True,
-434,UN-ECE: member countries,,,True,True,
-435,UNFPA Regions,,,True,True,
-436,UNFPA: Arab States (AS),,,True,True,
-437,UNFPA: Asia and the Pacific (AP),,,True,True,
-438,UNFPA: East and Southern Africa (ESA),,,True,True,
-439,UNFPA: Eastern Europe and Central Asia (EECA),,,True,True,
-440,UNFPA: Latin America and the Caribbean (LAC),,,True,True,
-441,UNFPA: West and Central Africa (WCA),,,True,True,
-442,UNICEF PROGRAMME REGIONS,,,True,True,
-443,UNICEF Programme Regions: East Asia and Pacific (EAPRO),,,True,True,
-444,UNICEF Programme Regions: Eastern Caribbean,,,True,True,
-445,UNICEF Programme Regions: Eastern and Southern Africa (ESARO),,,True,True,
-446,UNICEF Programme Regions: Europe and Central Asia (CEECIS),,,True,True,
-447,UNICEF Programme Regions: Latin America,,,True,True,
-448,UNICEF Programme Regions: Latin America and Caribbean (LACRO),,,True,True,
-449,UNICEF Programme Regions: Middle East and North Africa (MENARO),,,True,True,
-450,UNICEF Programme Regions: South Asia (ROSA),,,True,True,
-451,UNICEF Programme Regions: West and Central Africa (WCARO),,,True,True,
-452,UNICEF REGIONS,,,True,True,
-453,UNICEF Regions: East Asia and Pacific,,,True,True,
-454,UNICEF Regions: Eastern Europe and Central Asia,,,True,True,
-455,UNICEF Regions: Eastern and Southern Africa,,,True,True,
-456,UNICEF Regions: Europe and Central Asia,,,True,True,
-457,UNICEF Regions: Latin America and Caribbean,,,True,True,
-458,UNICEF Regions: Middle East and North Africa,,,True,True,
-459,UNICEF Regions: North America,,,True,True,
-460,UNICEF Regions: South Asia,,,True,True,
-461,UNICEF Regions: Sub-Saharan Africa,,,True,True,
-462,UNICEF Regions: West and Central Africa,,,True,True,
-463,UNICEF Regions: Western Europe,,,True,True,
-464,UNITED NATIONS Regional Groups of Member States,,,True,True,
-465,United Kingdom (and dependencies),,,True,True,
-466,United Nations Economic Commission for Africa (UN-ECA),,,True,True,
-467,United Nations Economic Commission for Latin America and the Caribbean (UN-ECLAC),,,True,True,
-468,United Nations Economic and Social Commission for Asia and the Pacific (UN-ESCAP) Regions,,,True,True,
-469,United Nations Member States,,,True,True,
-470,United Republic of Tanzania,,,True,True,
-471,United States Virgin Islands,,,True,True,
-472,United States of America,,,True,True,
-473,United States of America (and dependencies),,,True,True,
-474,Upper-middle-income countries,,,True,True,
-475,Venezuela (Bolivarian Republic of),,,True,True,
-476,Viet Nam,,,True,True,
-477,WB region: East Asia and Pacific (excluding high income),,,True,True,
-478,WB region: Europe and Central Asia (excluding high income),,,True,True,
-479,WB region: Latin America and Caribbean (excluding high income),,,True,True,
-480,WB region: Middle East and North Africa (excluding high income),,,True,True,
-481,WB region: South Asia (excluding high income),,,True,True,
-482,WB region: Sub-Saharan Africa (excluding high income),,,True,True,
-483,WHO Regions,,,True,True,
-484,WHO: African region (AFRO),,,True,True,
-485,WHO: Americas (AMRO),,,True,True,
-486,WHO: Eastern Mediterranean Region (EMRO),,,True,True,
-487,WHO: European Region (EURO),,,True,True,
-488,WHO: South-East Asia region (SEARO),,,True,True,
-489,WHO: Western Pacific region (WPRO),,,True,True,
-490,Wallis and Futuna Islands,,,True,True,
-491,West African Economic and Monetary Union (UEMOA),,,True,True,
-492,Western Africa,,,True,True,
-493,Western Asia,,,True,True,
-494,Western Europe,,,True,True,
-495,Western European and Others Group (WEOG),,,True,True,
-496,Western Sahara,,,True,True,
-497,World,,,True,True,
-498,World Bank Regional Groups (developing only),,,True,True,
-499,Hong Kong,,,,,True
-500,Macau,,,,,True
-501,Mainland China,,,,,True
-502,South Korea,,,,,True
-503,Taiwan,,,,,True
-504,US,,,,,True
-505,Ivory Coast,,,,,True
-506,UK,,,,,True
+,Country,GDP,PPP,population density,population density.1,daily cases,lat lng,lat lng
+0,Afghanistan,True,True,True,True,,True,True
+1,Africa,,,True,True,,,
+2,African Group,,,True,True,,,
+3,African Union,,,True,True,,,
+4,African Union: Central Africa,,,True,True,,,
+5,African Union: Eastern Africa,,,True,True,,,
+6,African Union: Northern Africa,,,True,True,,,
+7,African Union: Southern Africa,,,True,True,,,
+8,African Union: Western Africa,,,True,True,,,
+9,"African, Caribbean and Pacific (ACP) Group of States",,,True,True,,,
+10,Albania,True,True,True,True,,True,True
+11,Algeria,True,True,True,True,,True,True
+12,American Samoa,,,True,True,,True,True
+13,Andean Community,,,True,True,,,
+14,Andorra,,,True,True,,True,True
+15,Angola,True,True,True,True,,True,True
+16,Anguilla,,,True,True,,,
+17,Antigua And Barbuda,,,,,,True,True
+18,Antigua and Barbuda,True,True,True,True,,,
+19,Argentina,True,True,True,True,,True,True
+20,Armenia,True,True,True,True,,True,True
+21,Aruba,True,True,True,True,,True,True
+22,Asia,,,True,True,,,
+23,Asia-Pacific Economic Cooperation (APEC),,,True,True,,,
+24,Asia-Pacific Group,,,True,True,,,
+25,Association of Southeast Asian Nations (ASEAN),,,True,True,,,
+26,Australia,True,True,True,True,True,True,True
+27,Australia/New Zealand,,,True,True,,,
+28,Austria,True,True,True,True,,True,True
+29,Azerbaijan,True,True,True,True,,True,True
+30,BRIC,,,True,True,,,
+31,BRICS,,,True,True,,,
+32,Bahamas,,,True,True,,,
+33,"Bahamas, The",,,,,,True,True
+34,Bahrain,True,True,True,True,,True,True
+35,Bangladesh,True,True,True,True,,True,True
+36,Barbados,True,True,True,True,,True,True
+37,Belarus,True,True,True,True,,True,True
+38,Belgium,True,True,True,True,True,True,True
+39,Belize,True,True,True,True,,True,True
+40,Belt-Road Initiative (BRI),,,True,True,,,
+41,Belt-Road Initiative: Africa,,,True,True,,,
+42,Belt-Road Initiative: Asia,,,True,True,,,
+43,Belt-Road Initiative: Europe,,,True,True,,,
+44,Belt-Road Initiative: Latin America and the Caribbean,,,True,True,,,
+45,Belt-Road Initiative: Pacific,,,True,True,,,
+46,Benin,True,True,True,True,,True,True
+47,Bermuda,,,True,True,,True,True
+48,Bhutan,True,True,True,True,,True,True
+49,Black Sea Economic Cooperation (BSEC),,,True,True,,,
+50,Bolivarian Alliance for the Americas (ALBA),,,True,True,,,
+51,Bolivia,True,True,,,,True,True
+52,Bolivia (Plurinational State of),,,True,True,,,
+53,"Bonaire, Sint Eustatius and Saba",,,True,True,,,
+54,Bosnia And Herzegovina,,,,,,True,True
+55,Bosnia and Herzegovina,True,True,True,True,,,
+56,Botswana,True,True,True,True,,True,True
+57,Brazil,True,True,True,True,True,True,True
+58,British Virgin Islands,,,True,True,,,
+59,Brunei,,,,,,True,True
+60,Brunei Darussalam,True,True,True,True,,,
+61,Bulgaria,True,True,True,True,,True,True
+62,Burkina Faso,True,True,True,True,,True,True
+63,Burma,,,,,,True,True
+64,Burundi,True,True,True,True,,True,True
+65,Cabo Verde,True,True,True,True,,True,True
+66,Cambodia,True,True,True,True,True,True,True
+67,Cameroon,True,True,True,True,,True,True
+68,Canada,True,True,True,True,True,True,True
+69,Caribbean,,,True,True,,,
+70,Caribbean Community and Common Market (CARICOM),,,True,True,,,
+71,Cayman Islands,,,True,True,,True,True
+72,Central African Republic,True,True,True,True,,True,True
+73,Central America,,,True,True,,,
+74,Central Asia,,,True,True,,,
+75,Central European Free Trade Agreement (CEFTA),,,True,True,,,
+76,Central and Southern Asia,,,True,True,,,
+77,Chad,True,True,True,True,,True,True
+78,Channel Islands,,,True,True,,,
+79,Chile,True,True,True,True,,True,True
+80,China,True,True,True,True,,True,True
+81,China (and dependencies),,,True,True,,,
+82,"China, Hong Kong SAR",,,True,True,,,
+83,"China, Macao SAR",,,True,True,,,
+84,"China, Taiwan Province of China",,,True,True,,,
+85,Colombia,True,True,True,True,True,True,True
+86,Commonwealth of Independent States (CIS),,,True,True,,,
+87,Commonwealth of Nations,,,True,True,,,
+88,Commonwealth: Africa,,,True,True,,,
+89,Commonwealth: Asia,,,True,True,,,
+90,Commonwealth: Caribbean and Americas,,,True,True,,,
+91,Commonwealth: Europe,,,True,True,,,
+92,Commonwealth: Pacific,,,True,True,,,
+93,Comoros,True,True,True,True,,True,True
+94,Congo,,,True,True,,,
+95,Congo (Brazzaville),,,,,,True,True
+96,Congo (Kinshasa),,,,,,True,True
+97,Cook Islands,,,True,True,,True,True
+98,Costa Rica,True,True,True,True,,True,True
+99,Countries with Access to the Sea,,,True,True,,,
+100,Countries with Access to the Sea: Africa,,,True,True,,,
+101,Countries with Access to the Sea: Asia,,,True,True,,,
+102,Countries with Access to the Sea: Europe,,,True,True,,,
+103,Countries with Access to the Sea: Latin America and the Caribbean,,,True,True,,,
+104,Countries with Access to the Sea: Northern America,,,True,True,,,
+105,Countries with Access to the Sea: Oceania,,,True,True,,,
+106,Croatia,True,True,True,True,,True,True
+107,Cuba,,,True,True,,True,True
+108,Curaçao,,,True,True,,True,True
+109,Cyprus,True,True,True,True,,True,True
+110,Czech Republic,True,True,,,,,
+111,Czechia,,,True,True,,True,True
+112,Côte D’Ivoire,,,,,,True,True
+113,Côte d'Ivoire,True,True,True,True,,,
+114,Dem. People's Republic of Korea,,,True,True,,,
+115,Democratic Republic of the Congo,True,True,True,True,,,
+116,Denmark,True,True,True,True,,True,True
+117,Denmark (and dependencies),,,True,True,,,
+118,Djibouti,True,True,True,True,,True,True
+119,Dominica,True,True,True,True,,True,True
+120,Dominican Republic,True,True,True,True,,True,True
+121,ECE: North America-2,,,True,True,,,
+122,ECE: UNECE-52,,,True,True,,,
+123,ECLAC: Latin America,,,True,True,,,
+124,ECLAC: The Caribbean,,,True,True,,,
+125,ESCAP region: East and North-East Asia,,,True,True,,,
+126,ESCAP region: North and Central Asia,,,True,True,,,
+127,ESCAP region: Pacific,,,True,True,,,
+128,ESCAP region: South and South-West Asia,,,True,True,,,
+129,ESCAP region: South-East Asia,,,True,True,,,
+130,ESCAP: ADB Developing member countries (DMCs),,,True,True,,,
+131,ESCAP: ADB Group A (Concessional assistance only),,,True,True,,,
+132,ESCAP: ADB Group B (OCR blend),,,True,True,,,
+133,ESCAP: ADB Group C (Regular OCR only),,,True,True,,,
+134,ESCAP: ASEAN,,,True,True,,,
+135,ESCAP: Central Asia,,,True,True,,,
+136,ESCAP: ECO,,,True,True,,,
+137,ESCAP: HDI groups,,,True,True,,,
+138,ESCAP: Landlocked countries (LLDCs),,,True,True,,,
+139,ESCAP: Least Developed Countries (LDCs),,,True,True,,,
+140,ESCAP: Pacific island dev. econ.,,,True,True,,,
+141,ESCAP: SAARC,,,True,True,,,
+142,ESCAP: WB High income econ.,,,True,True,,,
+143,ESCAP: WB Low income econ.,,,True,True,,,
+144,ESCAP: WB Lower middle income econ.,,,True,True,,,
+145,ESCAP: WB Upper middle income econ.,,,True,True,,,
+146,ESCAP: WB income groups,,,True,True,,,
+147,ESCAP: high HDI,,,True,True,,,
+148,ESCAP: high income,,,True,True,,,
+149,ESCAP: income groups,,,True,True,,,
+150,ESCAP: low HDI,,,True,True,,,
+151,ESCAP: low income,,,True,True,,,
+152,ESCAP: lower middle HDI,,,True,True,,,
+153,ESCAP: lower middle income,,,True,True,,,
+154,ESCAP: other Asia-Pacific countries/areas,,,True,True,,,
+155,ESCAP: upper middle HDI,,,True,True,,,
+156,ESCAP: upper middle income,,,True,True,,,
+157,ESCWA: Arab countries,,,True,True,,,
+158,ESCWA: Arab least developed countries,,,True,True,,,
+159,ESCWA: Gulf Cooperation Council countries,,,True,True,,,
+160,ESCWA: Maghreb countries,,,True,True,,,
+161,ESCWA: Mashreq countries,,,True,True,,,
+162,ESCWA: member countries,,,True,True,,,
+163,East African Community (EAC),,,True,True,,,
+164,Eastern Africa,,,True,True,,,
+165,Eastern Asia,,,True,True,,,
+166,Eastern Europe,,,True,True,,,
+167,Eastern European Group,,,True,True,,,
+168,Eastern and South-Eastern Asia,,,True,True,,,
+169,Economic Community of Central African States (ECCAS),,,True,True,,,
+170,Economic Community of West African States (ECOWAS),,,True,True,,,
+171,Economic Cooperation Organization (ECO),,,True,True,,,
+172,Ecuador,True,True,True,True,,True,True
+173,Egypt,True,True,True,True,,True,True
+174,El Salvador,True,True,True,True,,True,True
+175,Equatorial Guinea,True,True,True,True,,True,True
+176,Eritrea,True,True,True,True,,True,True
+177,Estonia,True,True,True,True,,True,True
+178,Eswatini,True,True,True,True,,,
+179,Ethiopia,True,True,True,True,,True,True
+180,Eurasian Economic Community (Eurasec),,,True,True,,,
+181,Europe,,,True,True,,,
+182,Europe (48),,,True,True,,,
+183,Europe and Northern America,,,True,True,,,
+184,European Community (EC: 12),,,True,True,,,
+185,European Free Trade Agreement (EFTA),,,True,True,,,
+186,European Union (EU: 15),,,True,True,,,
+187,European Union (EU: 28),,,True,True,,,
+188,Falkland Islands (Islas Malvinas),,,,,,True,True
+189,Falkland Islands (Malvinas),,,True,True,,,
+190,Faroe Islands,,,True,True,,True,True
+191,Fiji,True,True,True,True,,True,True
+192,Finland,True,True,True,True,True,True,True
+193,France,True,True,True,True,True,True,True
+194,France (and dependencies),,,True,True,,,
+195,French Guiana,,,True,True,,True,True
+196,French Polynesia,,,True,True,,True,True
+197,Gabon,True,True,True,True,,True,True
+198,Gambia,,,True,True,,,
+199,"Gambia, The",,,,,,True,True
+200,Georgia,True,True,True,True,,True,True
+201,Germany,True,True,True,True,True,True,True
+202,Ghana,True,True,True,True,,True,True
+203,Gibraltar,,,True,True,,True,True
+204,Greater Arab Free Trade Area (GAFTA),,,True,True,,,
+205,Greece,True,True,True,True,,True,True
+206,Greenland,,,True,True,,True,True
+207,Grenada,True,True,True,True,,True,True
+208,Group of 77 (G77),,,True,True,,,
+209,Group of Eight (G8),,,True,True,,,
+210,Group of Seven (G7),,,True,True,,,
+211,Group of Twenty (G20) - member states,,,True,True,,,
+212,Guadeloupe,,,True,True,,True,True
+213,Guam,,,True,True,,True,True
+214,Guatemala,True,True,True,True,,True,True
+215,Guinea,True,True,True,True,,True,True
+216,Guinea-Bissau,True,True,True,True,,True,True
+217,Gulf Cooperation Council (GCC),,,True,True,,,
+218,Guyana,True,True,True,True,,True,True
+219,Haiti,True,True,True,True,,True,True
+220,High-income countries,,,True,True,,,
+221,Holy See,,,True,True,,,
+222,Honduras,True,True,True,True,,True,True
+223,Hong Kong,,,,,True,True,True
+224,Hong Kong SAR,True,True,,,,,
+225,Hungary,True,True,True,True,,True,True
+226,Iceland,True,True,True,True,,True,True
+227,India,True,True,True,True,True,True,True
+228,Indonesia,True,True,True,True,,True,True
+229,Iran,,,,,,True,True
+230,Iran (Islamic Republic of),,,True,True,,,
+231,Iraq,True,True,True,True,,True,True
+232,Ireland,True,True,True,True,,True,True
+233,Islamic Republic of Iran,True,True,,,,,
+234,Isle Of Man,,,,,,True,True
+235,Isle of Man,,,True,True,,,
+236,Israel,True,True,True,True,,True,True
+237,Italy,True,True,True,True,True,True,True
+238,Ivory Coast,,,,,True,,
+239,Jamaica,True,True,True,True,,True,True
+240,Japan,True,True,True,True,True,True,True
+241,Jordan,True,True,True,True,,True,True
+242,Kazakhstan,True,True,True,True,,True,True
+243,Kenya,True,True,True,True,,True,True
+244,Kiribati,True,True,True,True,,True,True
+245,Korea,True,True,,,,,
+246,"Korea, North",,,,,,True,True
+247,"Korea, South",,,,,,True,True
+248,Kosovo,True,True,,,,True,True
+249,Kuwait,True,True,True,True,,True,True
+250,Kyrgyz Republic,True,True,,,,,
+251,Kyrgyzstan,,,True,True,,True,True
+252,LLDC: Africa,,,True,True,,,
+253,LLDC: Asia,,,True,True,,,
+254,LLDC: Europe,,,True,True,,,
+255,LLDC: Latin America,,,True,True,,,
+256,Land-locked Countries,,,True,True,,,
+257,Land-locked Countries (Others),,,True,True,,,
+258,Land-locked Developing Countries (LLDC),,,True,True,,,
+259,Lao P.D.R.,True,True,,,,,
+260,Lao People's Democratic Republic,,,True,True,,,
+261,Laos,,,,,,True,True
+262,Latin America and the Caribbean,,,True,True,,,
+263,Latin American Integration Association (ALADI),,,True,True,,,
+264,Latin American and Caribbean Group (GRULAC),,,True,True,,,
+265,Latvia,True,True,True,True,,True,True
+266,"League of Arab States (LAS, informal name: Arab League)",,,True,True,,,
+267,Least developed countries,,,True,True,,,
+268,Least developed: Africa,,,True,True,,,
+269,Least developed: Asia,,,True,True,,,
+270,Least developed: Latin America and the Caribbean,,,True,True,,,
+271,Least developed: Oceania,,,True,True,,,
+272,Lebanon,True,True,True,True,,True,True
+273,Lesotho,True,True,True,True,,True,True
+274,Less developed regions,,,True,True,,,
+275,"Less developed regions, excluding China",,,True,True,,,
+276,"Less developed regions, excluding least developed countries",,,True,True,,,
+277,Less developed: Africa,,,True,True,,,
+278,Less developed: Asia,,,True,True,,,
+279,Less developed: Latin America and the Caribbean,,,True,True,,,
+280,Less developed: Oceania,,,True,True,,,
+281,Liberia,True,True,True,True,,True,True
+282,Libya,True,True,True,True,,True,True
+283,Liechtenstein,,,True,True,,True,True
+284,Lithuania,True,True,True,True,,True,True
+285,Low-income countries,,,True,True,,,
+286,Lower-middle-income countries,,,True,True,,,
+287,Luxembourg,True,True,True,True,,True,True
+288,Macao SAR,True,True,,,,,
+289,Macau,,,,,True,True,True
+290,Macedonia,,,,,,True,True
+291,Madagascar,True,True,True,True,,True,True
+292,Mainland China,,,,,True,,
+293,Malawi,True,True,True,True,,True,True
+294,Malaysia,True,True,True,True,True,True,True
+295,Maldives,True,True,True,True,,True,True
+296,Mali,True,True,True,True,,True,True
+297,Malta,True,True,True,True,,True,True
+298,Marshall Islands,True,True,True,True,,True,True
+299,Martinique,,,True,True,,True,True
+300,Mauritania,True,True,True,True,,True,True
+301,Mauritius,True,True,True,True,,True,True
+302,Mayotte,,,True,True,,True,True
+303,Melanesia,,,True,True,,,
+304,Mexico,True,True,True,True,True,True,True
+305,Micronesia,True,True,True,True,,,
+306,Micronesia (Fed. States of),,,True,True,,,
+307,"Micronesia, Federated States Of",,,,,,True,True
+308,Middle Africa,,,True,True,,,
+309,Middle-income countries,,,True,True,,,
+310,Moldova,True,True,,,,True,True
+311,Monaco,,,True,True,,True,True
+312,Mongolia,True,True,True,True,,True,True
+313,Montenegro,True,True,True,True,,True,True
+314,Montserrat,,,True,True,,,
+315,More developed regions,,,True,True,,,
+316,More developed: Asia,,,True,True,,,
+317,More developed: Europe,,,True,True,,,
+318,More developed: Northern America,,,True,True,,,
+319,More developed: Oceania,,,True,True,,,
+320,Morocco,True,True,True,True,,True,True
+321,Mozambique,True,True,True,True,,True,True
+322,Myanmar,True,True,True,True,,,
+323,Namibia,True,True,True,True,,True,True
+324,Nauru,True,True,True,True,,,
+325,Nepal,True,True,True,True,True,True,True
+326,Netherlands,True,True,True,True,,True,True
+327,Netherlands (and dependencies),,,True,True,,,
+328,New Caledonia,,,True,True,,True,True
+329,New EU member states (joined since 2004),,,True,True,,,
+330,New Zealand,True,True,True,True,,True,True
+331,New Zealand (and dependencies),,,True,True,,,
+332,Nicaragua,True,True,True,True,,True,True
+333,Niger,True,True,True,True,,True,True
+334,Nigeria,True,True,True,True,,True,True
+335,Niue,,,True,True,,,
+336,No income group available,,,True,True,,,
+337,Non-Self-Governing Territories,,,True,True,,,
+338,North American Free Trade Agreement (NAFTA),,,True,True,,,
+339,North Atlantic Treaty Organization (NATO),,,True,True,,,
+340,North Macedonia,True,True,True,True,,,
+341,Northern Africa,,,True,True,,,
+342,Northern Africa and Western Asia,,,True,True,,,
+343,Northern America,,,True,True,,,
+344,Northern Europe,,,True,True,,,
+345,Northern Mariana Islands,,,True,True,,True,True
+346,Norway,True,True,True,True,,True,True
+347,Oceania,,,True,True,,,
+348,Oceania (excluding Australia and New Zealand),,,True,True,,,
+349,Oman,True,True,True,True,,True,True
+350,Organisation for Economic Co-operation and Development (OECD),,,True,True,,,
+351,Organization for Security and Co-operation in Europe (OSCE),,,True,True,,,
+352,Organization of American States (OAS),,,True,True,,,
+353,Organization of Petroleum Exporting countries (OPEC),,,True,True,,,
+354,Organization of the Islamic Conference (OIC),,,True,True,,,
+355,Pakistan,True,True,True,True,,True,True
+356,Palau,True,True,True,True,,True,True
+357,Panama,True,True,True,True,,True,True
+358,Papua New Guinea,True,True,True,True,,True,True
+359,Paraguay,True,True,True,True,,True,True
+360,Peru,True,True,True,True,,True,True
+361,Philippines,True,True,True,True,True,True,True
+362,Poland,True,True,True,True,,True,True
+363,Polynesia,,,True,True,,,
+364,Portugal,True,True,True,True,,True,True
+365,Puerto Rico,True,True,True,True,,True,True
+366,Qatar,True,True,True,True,,True,True
+367,Republic of Congo,True,True,,,,,
+368,Republic of Korea,,,True,True,,,
+369,Republic of Moldova,,,True,True,,,
+370,Reunion,,,,,,True,True
+371,Romania,True,True,True,True,,True,True
+372,Russia,True,True,,,True,True,True
+373,Russian Federation,,,True,True,,,
+374,Rwanda,True,True,True,True,,True,True
+375,Réunion,,,True,True,,,
+376,"SIDS Atlantic, and Indian Ocean, Mediterranean and South China Sea (AIMS)",,,True,True,,,
+377,SIDS Caribbean,,,True,True,,,
+378,SIDS Pacific,,,True,True,,,
+379,Saint Barthélemy,,,True,True,,,
+380,Saint Helena,,,True,True,,,
+381,"Saint Helena, Ascension, And Tristan Da Cunha",,,,,,True,True
+382,Saint Kitts And Nevis,,,,,,True,True
+383,Saint Kitts and Nevis,,,True,True,,,
+384,Saint Lucia,,,True,True,,True,True
+385,Saint Martin (French part),,,True,True,,,
+386,Saint Pierre and Miquelon,,,True,True,,,
+387,Saint Vincent And The Grenadines,,,,,,True,True
+388,Saint Vincent and the Grenadines,,,True,True,,,
+389,Samoa,True,True,True,True,,True,True
+390,San Marino,True,True,True,True,,True,True
+391,Sao Tome And Principe,,,,,,True,True
+392,Sao Tome and Principe,,,True,True,,,
+393,Saudi Arabia,True,True,True,True,,True,True
+394,Senegal,True,True,True,True,,True,True
+395,Serbia,True,True,True,True,,True,True
+396,Seychelles,True,True,True,True,,True,True
+397,Shanghai Cooperation Organization (SCO),,,True,True,,,
+398,Sierra Leone,True,True,True,True,,True,True
+399,Singapore,True,True,True,True,True,True,True
+400,Sint Maarten,,,,,,True,True
+401,Sint Maarten (Dutch part),,,True,True,,,
+402,Slovak Republic,True,True,,,,,
+403,Slovakia,,,True,True,,True,True
+404,Slovenia,True,True,True,True,,True,True
+405,Small Island Developing States (SIDS),,,True,True,,,
+406,Solomon Islands,True,True,True,True,,True,True
+407,Somalia,True,True,True,True,,True,True
+408,South Africa,True,True,True,True,,True,True
+409,South America,,,True,True,,,
+410,South Asian Association for Regional Cooperation (SAARC),,,True,True,,,
+411,South Georgia And South Sandwich Islands,,,,,,True,True
+412,South Korea,,,,,True,,
+413,South Sudan,True,True,True,True,,True,True
+414,South-Eastern Asia,,,True,True,,,
+415,Southern Africa,,,True,True,,,
+416,Southern African Development Community (SADC),,,True,True,,,
+417,Southern Asia,,,True,True,,,
+418,Southern Common Market (MERCOSUR),,,True,True,,,
+419,Southern Europe,,,True,True,,,
+420,Spain,True,True,True,True,True,True,True
+421,Sri Lanka,True,True,True,True,True,True,True
+422,St. Kitts and Nevis,True,True,,,,,
+423,St. Lucia,True,True,,,,,
+424,St. Vincent and the Grenadines,True,True,,,,,
+425,State of Palestine,,,True,True,,,
+426,Sub-Saharan Africa,,,True,True,,,
+427,Sudan,True,True,True,True,,True,True
+428,Suriname,True,True,True,True,,True,True
+429,Swaziland,,,,,,True,True
+430,Sweden,True,True,True,True,True,True,True
+431,Switzerland,True,True,True,True,,True,True
+432,Syria,True,True,,,,True,True
+433,Syrian Arab Republic,,,True,True,,,
+434,São Tomé and Príncipe,True,True,,,,,
+435,Taiwan,,,,,True,True,True
+436,Taiwan Province of China,True,True,,,,,
+437,Tajikistan,True,True,True,True,,True,True
+438,Tanzania,True,True,,,,True,True
+439,Thailand,True,True,True,True,True,True,True
+440,The Bahamas,True,True,,,,,
+441,The Gambia,True,True,,,,,
+442,Timor-Leste,True,True,True,True,,True,True
+443,Togo,True,True,True,True,,True,True
+444,Tokelau,,,True,True,,,
+445,Tonga,True,True,True,True,,True,True
+446,Trinidad And Tobago,,,,,,True,True
+447,Trinidad and Tobago,True,True,True,True,,,
+448,Tunisia,True,True,True,True,,True,True
+449,Turkey,True,True,True,True,,True,True
+450,Turkmenistan,True,True,True,True,,True,True
+451,Turks And Caicos Islands,,,,,,True,True
+452,Turks and Caicos Islands,,,True,True,,,
+453,Tuvalu,True,True,True,True,,True,True
+454,UK,,,,,True,,
+455,UN-ECE: member countries,,,True,True,,,
+456,UNFPA Regions,,,True,True,,,
+457,UNFPA: Arab States (AS),,,True,True,,,
+458,UNFPA: Asia and the Pacific (AP),,,True,True,,,
+459,UNFPA: East and Southern Africa (ESA),,,True,True,,,
+460,UNFPA: Eastern Europe and Central Asia (EECA),,,True,True,,,
+461,UNFPA: Latin America and the Caribbean (LAC),,,True,True,,,
+462,UNFPA: West and Central Africa (WCA),,,True,True,,,
+463,UNICEF PROGRAMME REGIONS,,,True,True,,,
+464,UNICEF Programme Regions: East Asia and Pacific (EAPRO),,,True,True,,,
+465,UNICEF Programme Regions: Eastern Caribbean,,,True,True,,,
+466,UNICEF Programme Regions: Eastern and Southern Africa (ESARO),,,True,True,,,
+467,UNICEF Programme Regions: Europe and Central Asia (CEECIS),,,True,True,,,
+468,UNICEF Programme Regions: Latin America,,,True,True,,,
+469,UNICEF Programme Regions: Latin America and Caribbean (LACRO),,,True,True,,,
+470,UNICEF Programme Regions: Middle East and North Africa (MENARO),,,True,True,,,
+471,UNICEF Programme Regions: South Asia (ROSA),,,True,True,,,
+472,UNICEF Programme Regions: West and Central Africa (WCARO),,,True,True,,,
+473,UNICEF REGIONS,,,True,True,,,
+474,UNICEF Regions: East Asia and Pacific,,,True,True,,,
+475,UNICEF Regions: Eastern Europe and Central Asia,,,True,True,,,
+476,UNICEF Regions: Eastern and Southern Africa,,,True,True,,,
+477,UNICEF Regions: Europe and Central Asia,,,True,True,,,
+478,UNICEF Regions: Latin America and Caribbean,,,True,True,,,
+479,UNICEF Regions: Middle East and North Africa,,,True,True,,,
+480,UNICEF Regions: North America,,,True,True,,,
+481,UNICEF Regions: South Asia,,,True,True,,,
+482,UNICEF Regions: Sub-Saharan Africa,,,True,True,,,
+483,UNICEF Regions: West and Central Africa,,,True,True,,,
+484,UNICEF Regions: Western Europe,,,True,True,,,
+485,UNITED NATIONS Regional Groups of Member States,,,True,True,,,
+486,US,,,,,True,,
+487,Uganda,True,True,True,True,,True,True
+488,Ukraine,True,True,True,True,,True,True
+489,United Arab Emirates,True,True,True,True,True,True,True
+490,United Kingdom,True,True,True,True,,True,True
+491,United Kingdom (and dependencies),,,True,True,,,
+492,United Nations Economic Commission for Africa (UN-ECA),,,True,True,,,
+493,United Nations Economic Commission for Latin America and the Caribbean (UN-ECLAC),,,True,True,,,
+494,United Nations Economic and Social Commission for Asia and the Pacific (UN-ESCAP) Regions,,,True,True,,,
+495,United Nations Member States,,,True,True,,,
+496,United Republic of Tanzania,,,True,True,,,
+497,United States,True,True,,,,True,True
+498,United States Virgin Islands,,,True,True,,,
+499,United States of America,,,True,True,,,
+500,United States of America (and dependencies),,,True,True,,,
+501,Upper-middle-income countries,,,True,True,,,
+502,Uruguay,True,True,True,True,,True,True
+503,Uzbekistan,True,True,True,True,,True,True
+504,Vanuatu,True,True,True,True,,True,True
+505,Venezuela,True,True,,,,True,True
+506,Venezuela (Bolivarian Republic of),,,True,True,,,
+507,Viet Nam,,,True,True,,,
+508,Vietnam,True,True,,,True,True,True
+509,WB region: East Asia and Pacific (excluding high income),,,True,True,,,
+510,WB region: Europe and Central Asia (excluding high income),,,True,True,,,
+511,WB region: Latin America and Caribbean (excluding high income),,,True,True,,,
+512,WB region: Middle East and North Africa (excluding high income),,,True,True,,,
+513,WB region: South Asia (excluding high income),,,True,True,,,
+514,WB region: Sub-Saharan Africa (excluding high income),,,True,True,,,
+515,WHO Regions,,,True,True,,,
+516,WHO: African region (AFRO),,,True,True,,,
+517,WHO: Americas (AMRO),,,True,True,,,
+518,WHO: Eastern Mediterranean Region (EMRO),,,True,True,,,
+519,WHO: European Region (EURO),,,True,True,,,
+520,WHO: South-East Asia region (SEARO),,,True,True,,,
+521,WHO: Western Pacific region (WPRO),,,True,True,,,
+522,Wallis And Futuna,,,,,,True,True
+523,Wallis and Futuna Islands,,,True,True,,,
+524,West African Economic and Monetary Union (UEMOA),,,True,True,,,
+525,West Bank,,,,,,True,True
+526,Western Africa,,,True,True,,,
+527,Western Asia,,,True,True,,,
+528,Western Europe,,,True,True,,,
+529,Western European and Others Group (WEOG),,,True,True,,,
+530,Western Sahara,,,True,True,,,
+531,World,,,True,True,,,
+532,World Bank Regional Groups (developing only),,,True,True,,,
+533,Yemen,True,True,True,True,,True,True
+534,Zambia,True,True,True,True,,True,True
+535,Zimbabwe,True,True,True,True,,True,True
