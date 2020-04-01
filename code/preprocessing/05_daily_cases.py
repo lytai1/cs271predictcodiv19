@@ -33,5 +33,24 @@ def main():
     totaldf['outbreak'] = totaldf['max'].apply(lambda x: True if x>10 else False)
 
     totaldf.to_csv('../../processed_data/05_daily_cases.csv')
+    
+    #write country to csv
+    country = pd.DataFrame(totaldf.index)
+    country.rename(columns={0: "Country"}, inplace=True)
+    country['daily cases'] = True
+    country.set_index(keys='Country', inplace=True)
+    print(country)
+
+    countrycsv = pd.read_csv("../../processed_data/00_Country.csv")
+    countrycsv.pop('Unnamed: 0')
+    countrycsv.set_index(keys='Country', inplace=True)
+
+    print(countrycsv)
+    countrycsv = pd.concat([countrycsv, country], axis=1)
+    countrycsv.reset_index(inplace=True)
+    countrycsv.rename(columns={'index': "Country"}, inplace=True)
+    print(countrycsv)
+    countrycsv.to_csv("../../processed_data/00_Country.csv")
+
 
 main()
