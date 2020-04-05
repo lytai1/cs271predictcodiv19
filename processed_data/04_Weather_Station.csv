@@ -1,0 +1,1352 @@
+Region,Country,Rep,Location,StationID
+Africa,Algiers,DZA,Algiers,603900
+Africa,Egypt,EGY,Al Minya,623870
+Africa,Egypt,EGY,Alexandria,623180
+Africa,Egypt,EGY,Aswan,624140
+Africa,Egypt,EGY,Asyut,623930
+Africa,Egypt,EGY,Cairo,623660
+Africa,Egypt,EGY,El Arish,623370
+Africa,Egypt,EGY,Helwan,623780
+Africa,Egypt,EGY,Hurghada,624630
+Africa,Egypt,EGY,Ismailia,624400
+Africa,Egypt,EGY,Kharga,624350
+Africa,Egypt,EGY,Luxor,624050
+Africa,Ethiopia,ETH,Addis Ababa-Bole,634500
+Africa,Ethiopia,ETH,Awassa,634600
+Africa,Ethiopia,ETH,Bahar Dar,633320
+Africa,Ethiopia,ETH,Combolcha,633330
+Africa,Ethiopia,ETH,Debre Marcos,633340
+Africa,Ethiopia,ETH,Dire Dawa,634710
+Africa,Ethiopia,ETH,Gondar,633310
+Africa,Ethiopia,ETH,Jimma,634020
+Africa,Ethiopia,ETH,Metehara,634530
+Africa,Ghana,GHA,Accra,654720
+Africa,Kenya,KEN,Eldoret,636860
+Africa,Kenya,KEN,Embu,637200
+Africa,Kenya,KEN,Garissa,637230
+Africa,Kenya,KEN,Kakamega,636870
+Africa,Kenya,KEN,Kisii,637090
+Africa,Kenya,KEN,Kisumu,637080
+Africa,Kenya,KEN,Kitale,636610
+Africa,Kenya,KEN,Lamu-Manda Island,637720
+Africa,Kenya,KEN,Lodwar,636120
+Africa,Kenya,KEN,Makindu,637660
+Africa,Kenya,KEN,Malindi,637990
+Africa,Kenya,KEN,Mandera,636240
+Africa,Kenya,KEN,Marsabit,636410
+Africa,Kenya,KEN,Meru,636950
+Africa,Kenya,KEN,Mombasa-Moi,638200
+Africa,Kenya,KEN,Moyale,636190
+Africa,Kenya,KEN,Nairobi-Dagoretti,637410
+Africa,Kenya,KEN,Nairobi-Kenyatta,637400
+Africa,Kenya,KEN,Nairobi-Wilson,637420
+Africa,Kenya,KEN,Nakuru,637140
+Africa,Kenya,KEN,Narok,637370
+Africa,Kenya,KEN,Nyeri,637170
+Africa,Kenya,KEN,Voi,637930
+Africa,Libyan Arab Jamahiriya,LBY,Tripoli,620100
+Africa,Morocco,MAR,Casablanca Nouasser,601560
+Africa,Madagascar,MDG,Antananarivo,670830
+Africa,Senegal,SEN,Dakar,616410
+Africa,Tunisia,TUN,Tunis,607150
+Africa,South Africa,ZAF,Cape Town,688160
+Africa,South Africa,ZAF,Johannesburg,683680
+Africa,Zimbabwe,ZWE,Harare,677750
+Asia,United Arab Emirates,ARE,Abu Dhabi,412170
+Asia,Bangladesh,BGD,Bogra,418830
+Asia,Bangladesh,BGD,Chittagong-Patenga,419780
+Asia,Bangladesh,BGD,Coxs Bazar,419920
+Asia,Bangladesh,BGD,Dhaka,419230
+Asia,Bangladesh,BGD,Ishurdi,419070
+Asia,Bangladesh,BGD,Jessore,419360
+Asia,Bangladesh,BGD,Rangpur,418590
+Asia,Bangladesh,BGD,Sylhet,418910
+Asia,China,CHN,Anhui Anqing,584240
+Asia,China,CHN,Anhui Bengbu,582210
+Asia,China,CHN,Anhui Boxian,581020
+Asia,China,CHN,Anhui Dongcheng,583190
+Asia,China,CHN,Anhui Hefei,583210
+Asia,China,CHN,Anhui Huoshan,583140
+Asia,China,CHN,Anhui Shouxian,582150
+Asia,China,CHN,Anhui Tunxi,585310
+Asia,China,CHN,Beijing Beijing,545110
+Asia,China,CHN,Beijing Miyun,544160
+Asia,China,CHN,Chongqing Chongqing Shapingba,575160
+Asia,China,CHN,Chongqing Youyang,576330
+Asia,China,CHN,Fujian Congwu,591330
+Asia,China,CHN,Fujian Fuzhou,588470
+Asia,China,CHN,Fujian Jianou,587370
+Asia,China,CHN,Fujian Nanping,588340
+Asia,China,CHN,Fujian Shanghang,589180
+Asia,China,CHN,Fujian Xiamen,591340
+Asia,China,CHN,Fujian Yongan,589210
+Asia,China,CHN,Gansu Dunhuang,524180
+Asia,China,CHN,Gansu Hezuo,560800
+Asia,China,CHN,Gansu Jiuquan,525330
+Asia,China,CHN,Gansu Lanzhou,528890
+Asia,China,CHN,Gansu Minqin,526810
+Asia,China,CHN,Gansu Minxian,560930
+Asia,China,CHN,Gansu Pingliang,539150
+Asia,China,CHN,Gansu Tianshui,570060
+Asia,China,CHN,Gansu Wudu,560960
+Asia,China,CHN,Gansu Wushaoling,527870
+Asia,China,CHN,Gansu Xifengzhen,539230
+Asia,China,CHN,Gansu Yumenzhen,524360
+Asia,China,CHN,Gansu Yuzhong,529830
+Asia,China,CHN,Guangdong Dianbai,596640
+Asia,China,CHN,Guangdong Guangzhou,592870
+Asia,China,CHN,Guangdong Heyuan,592930
+Asia,China,CHN,Guangdong Nanxiong,579960
+Asia,China,CHN,Guangdong Shantou,593160
+Asia,China,CHN,Guangdong Shanwei,595010
+Asia,China,CHN,Guangdong Shaoguan,590820
+Asia,China,CHN,Guangdong Shenzhen,594930
+Asia,China,CHN,Guangdong Yangjiang,596630
+Asia,China,CHN,Guangdong Zhengcheng,592940
+Asia,China,CHN,Guangxi Zhuang Baise,592110
+Asia,China,CHN,Guangxi Zhuang Duan,590370
+Asia,China,CHN,Guangxi Zhuang Guilin,579570
+Asia,China,CHN,Guangxi Zhuang Guiping,592540
+Asia,China,CHN,Guangxi Zhuang Hechi,590230
+Asia,China,CHN,Guangxi Zhuang Lingshan,594460
+Asia,China,CHN,Guangxi Zhuang Longzhou,594170
+Asia,China,CHN,Guangxi Zhuang Nanning,594310
+Asia,China,CHN,Guangxi Zhuang Qinzhou,596320
+Asia,China,CHN,Guangxi Zhuang Wuzhou,592650
+Asia,China,CHN,Guizhou Bijie,577070
+Asia,China,CHN,Guizhou Guiyang,578160
+Asia,China,CHN,Guizhou Sansui,578320
+Asia,China,CHN,Guizhou Tongzi,576060
+Asia,China,CHN,Guizhou Weining,566910
+Asia,China,CHN,Guizhou Xingyi,579020
+Asia,China,CHN,Guizhou Zunyi,577130
+Asia,China,CHN,Hainan Dongfang,598380
+Asia,China,CHN,Hainan Haikou,597580
+Asia,China,CHN,Hainan Qionghai,598550
+Asia,China,CHN,Hebei Chengde,544230
+Asia,China,CHN,Hebei Fengning,543080
+Asia,China,CHN,Hebei Huailai,544050
+Asia,China,CHN,Hebei Leting,545390
+Asia,China,CHN,Hebei Raoyang,546060
+Asia,China,CHN,Hebei Shijiazhuang,536980
+Asia,China,CHN,Hebei Xingtai,537980
+Asia,China,CHN,Hebei Zhangbei,533990
+Asia,China,CHN,Heilongjiang Anda,508540
+Asia,China,CHN,Heilongjiang Fujin,507880
+Asia,China,CHN,Heilongjiang Fuyu,507420
+Asia,China,CHN,Heilongjiang Hailun,507560
+Asia,China,CHN,Heilongjiang Harbin,509530
+Asia,China,CHN,Heilongjiang Huma,503530
+Asia,China,CHN,Heilongjiang Jiamusi,508730
+Asia,China,CHN,Heilongjiang Jixi,509780
+Asia,China,CHN,Heilongjiang Keshan,506580
+Asia,China,CHN,Heilongjiang Mohe,501360
+Asia,China,CHN,Heilongjiang Mudanjiang,540940
+Asia,China,CHN,Heilongjiang Nenjiang,505570
+Asia,China,CHN,Heilongjiang Qiqihar,507450
+Asia,China,CHN,Heilongjiang Shangzhi,509680
+Asia,China,CHN,Heilongjiang Suifenhe,540960
+Asia,China,CHN,Heilongjiang Sunwu,505640
+Asia,China,CHN,Heilongjiang Tonghe,509630
+Asia,China,CHN,Heilongjiang Zhaozhou,509500
+Asia,China,CHN,Henan Anyang,538980
+Asia,China,CHN,Henan Lushi,570670
+Asia,China,CHN,Henan Nanyang,571780
+Asia,China,CHN,Henan Shangqiu,580050
+Asia,China,CHN,Henan Xinyang,572970
+Asia,China,CHN,Henan Zhengzhou,570830
+Asia,China,CHN,Henan Zhumadian,572900
+Asia,China,CHN,Hong Kong SAR,450070
+Asia,China,CHN,Hubei Exi,574470
+Asia,China,CHN,Hubei Laohekou,572650
+Asia,China,CHN,Hubei Macheng,573990
+Asia,China,CHN,Hubei Wuhan,574940
+Asia,China,CHN,Hubei Yichang,574610
+Asia,China,CHN,Hubei Yunxi,572510
+Asia,China,CHN,Hubei Zhongxiang,573780
+Asia,China,CHN,Hunan Changde,576620
+Asia,China,CHN,Hunan Changning,578740
+Asia,China,CHN,Hunan Changsha,576870
+Asia,China,CHN,Hunan Jishou,576490
+Asia,China,CHN,Hunan Lingling,578660
+Asia,China,CHN,Hunan Nanxian,575740
+Asia,China,CHN,Hunan Shimen,575620
+Asia,China,CHN,Hunan Wugang,578530
+Asia,China,CHN,Hunan Zhijiang,577450
+Asia,China,CHN,Hunan Zhuzhou,577800
+Asia,China,CHN,Jiangsu Dongtai,582510
+Asia,China,CHN,Jiangsu Ganyu,580400
+Asia,China,CHN,Jiangsu Huaiyang-Qingjiang,581440
+Asia,China,CHN,Jiangsu Lusi,582650
+Asia,China,CHN,Jiangsu Nanjing,582380
+Asia,China,CHN,Jiangsu Xuzhou,580270
+Asia,China,CHN,Jiangxi Ganzhou,579930
+Asia,China,CHN,Jiangxi Jian,577990
+Asia,China,CHN,Jiangxi Jingdezhen,585270
+Asia,China,CHN,Jiangxi Nanchang,586060
+Asia,China,CHN,Jiangxi Nancheng,587150
+Asia,China,CHN,Jiangxi Suichuan,578960
+Asia,China,CHN,Jiangxi Yichun,577930
+Asia,China,CHN,Jiangxi Yushan,586340
+Asia,China,CHN,Jilin Baicheng,509360
+Asia,China,CHN,Jilin Changchun,541610
+Asia,China,CHN,Jilin Donggang,542840
+Asia,China,CHN,Jilin Dunhua,541860
+Asia,China,CHN,Jilin Linjiang,543740
+Asia,China,CHN,Jilin Qian Gorlos,509490
+Asia,China,CHN,Jilin Siping,541570
+Asia,China,CHN,Jilin Yanji,542920
+Asia,China,CHN,Kinjiang Uygar Kashi,517090
+Asia,China,CHN,Kinjiang Uygur Kuqa,516440
+Asia,China,CHN,Kinjiang Uygur Yining,514310
+Asia,China,CHN,Kinjiang Uyhur Hotan,518280
+Asia,China,CHN,Liaoning Benxi,543460
+Asia,China,CHN,Liaoning Chaoyang,543240
+Asia,China,CHN,Liaoning Dalian,546620
+Asia,China,CHN,Liaoning Dandong,544970
+Asia,China,CHN,Liaoning Jinzhou,543370
+Asia,China,CHN,Liaoning Kuandian,544930
+Asia,China,CHN,Liaoning Shenyang,543420
+Asia,China,CHN,Liaoning Xingcheng,544550
+Asia,China,CHN,Liaoning Xinmin,543330
+Asia,China,CHN,Liaoning Yingkou,544710
+Asia,China,CHN,Liaoning Zhangwu,542360
+Asia,China,CHN,Nei Mongol Abag Qi Hot,531920
+Asia,China,CHN,Nei Mongol Arxan,507270
+Asia,China,CHN,Nei Mongol Bailingmiao,533520
+Asia,China,CHN,Nei Mongol Bairin Zuo Qi,540270
+Asia,China,CHN,Nei Mongol Bayan Mod,524950
+Asia,China,CHN,Nei Mongol Bugt,506320
+Asia,China,CHN,Nei Mongol Chifeng,542180
+Asia,China,CHN,Nei Mongol Dong Ujimqin Qi,509150
+Asia,China,CHN,Nei Mongol Dongsheng,535430
+Asia,China,CHN,Nei Mongol Duolun,542080
+Asia,China,CHN,Nei Mongol Ejin Qi,522670
+Asia,China,CHN,Nei Mongol Erenhot,530680
+Asia,China,CHN,Nei Mongol Hailar,505270
+Asia,China,CHN,Nei Mongol Hailisu,532310
+Asia,China,CHN,Nei Mongol Haliut,533360
+Asia,China,CHN,Nei Mongol Hohhot,534630
+Asia,China,CHN,Nei Mongol Huade,533910
+Asia,China,CHN,Nei Mongol Jartai,535020
+Asia,China,CHN,Nei Mongol Jarud Qi,540260
+Asia,China,CHN,Nei Mongol Jurh,532760
+Asia,China,CHN,Nei Mongol Kailu,541340
+Asia,China,CHN,Nei Mongol Linxi,541150
+Asia,China,CHN,Nei Mongol Manzhouli,505140
+Asia,China,CHN,Nei Mongol Otog Qi,535290
+Asia,China,CHN,Nei Mongol Solon,508340
+Asia,China,CHN,Nei Mongol Tongliao,541350
+Asia,China,CHN,Nei Mongol Tulihe,504340
+Asia,China,CHN,Nei Mongol Xi Ujimqin Qi,540120
+Asia,China,CHN,Nei Mongol Xilinhot,541020
+Asia,China,CHN,Ningxia Hui Guyuan,538170
+Asia,China,CHN,Ningxia Hui Yanchi,537230
+Asia,China,CHN,Ningxia Hui Yinchuan,536140
+Asia,China,CHN,Qinghai Daqaidam,527130
+Asia,China,CHN,Qinghai Darlag,560460
+Asia,China,CHN,Qinghai Dulan Us,528360
+Asia,China,CHN,Qinghai Gangca,527540
+Asia,China,CHN,Qinghai Golmud,528180
+Asia,China,CHN,Qinghai Haixi Delingha,527370
+Asia,China,CHN,Qinghai Lenghu,526020
+Asia,China,CHN,Qinghai Madoi,560330
+Asia,China,CHN,Qinghai Mangnai,518860
+Asia,China,CHN,Qinghai Minhe,528760
+Asia,China,CHN,Qinghai Nangqen,561250
+Asia,China,CHN,Qinghai Qumarleb,560210
+Asia,China,CHN,Qinghai Tuotuohe,560040
+Asia,China,CHN,Qinghai Xinghai,529430
+Asia,China,CHN,Qinghai Xining,528660
+Asia,China,CHN,Qinghai Yushu,560290
+Asia,China,CHN,Shaanxi Ankang,572450
+Asia,China,CHN,Shaanxi Baoji,570160
+Asia,China,CHN,Shaanxi Dingbian,537250
+Asia,China,CHN,Shaanxi Hanzhong,571270
+Asia,China,CHN,Shaanxi Luochuan,539420
+Asia,China,CHN,Shaanxi Suide,537540
+Asia,China,CHN,Shaanxi Xian,570360
+Asia,China,CHN,Shaanxi Yanan,538450
+Asia,China,CHN,Shaanxi Yulin,536460
+Asia,China,CHN,Shandong Chaoyang,548080
+Asia,China,CHN,Shandong Chengshantou,547760
+Asia,China,CHN,Shandong Huimin Xian,547250
+Asia,China,CHN,Shandong Jinan,548230
+Asia,China,CHN,Shandong Juxian,549360
+Asia,China,CHN,Shandong Longkou,547530
+Asia,China,CHN,Shandong Weifang,548430
+Asia,China,CHN,Shandong Yanzhou,549160
+Asia,China,CHN,Shanghai Shanghai,583620
+Asia,China,CHN,Shanghai Shanghai,583670
+Asia,China,CHN,Shanxi Datong,534870
+Asia,China,CHN,Shanxi Houma,539630
+Asia,China,CHN,Shanxi Jiexiu,538630
+Asia,China,CHN,Shanxi Taiyuan,537720
+Asia,China,CHN,Shanxi Yuanping,536730
+Asia,China,CHN,Shanxi Yuncheng,539590
+Asia,China,CHN,Shanxi Yushe,537870
+Asia,China,CHN,Sichuan Barkam,561720
+Asia,China,CHN,Sichuan Batang,562470
+Asia,China,CHN,Sichuan Chengdu,562940
+Asia,China,CHN,Sichuan Garze,561460
+Asia,China,CHN,Sichuan Hongyuan,561730
+Asia,China,CHN,Sichuan Huili,566710
+Asia,China,CHN,Sichuan Jiulong,564620
+Asia,China,CHN,Sichuan Leshan,563860
+Asia,China,CHN,Sichuan Litang,562570
+Asia,China,CHN,Sichuan Luzhou,576020
+Asia,China,CHN,Sichuan Mianyang,561960
+Asia,China,CHN,Sichuan Nanchong,574110
+Asia,China,CHN,Sichuan Songpan,561820
+Asia,China,CHN,Sichuan Wanyuan,572370
+Asia,China,CHN,Sichuan Xichang,565710
+Asia,China,CHN,Sichuan Yibin,564920
+Asia,China,CHN,Tianjin Tianjin,545270
+Asia,China,CHN,Tibet Lhasa,555910
+Asia,China,CHN,Tibet Nyingchi,563120
+Asia,China,CHN,Tibet Pagri,557730
+Asia,China,CHN,Tibet Qamdo,561370
+Asia,China,CHN,Xinjiang Urgur Urumqi,514630
+Asia,China,CHN,Xinjiang Uygur Aksu,516280
+Asia,China,CHN,Xinjiang Uygur Altay,510760
+Asia,China,CHN,Xinjiang Uygur Bachu,517160
+Asia,China,CHN,Xinjiang Uygur Fuyun,510870
+Asia,China,CHN,Xinjiang Uygur Hami,522030
+Asia,China,CHN,Xinjiang Uygur Hoboksar,511560
+Asia,China,CHN,Xinjiang Uygur Jinghe,513340
+Asia,China,CHN,Xinjiang Uygur Karamay,512430
+Asia,China,CHN,Xinjiang Uygur Minfeng,518390
+Asia,China,CHN,Xinjiang Uygur Ruoqiang,517770
+Asia,China,CHN,Xinjiang Uygur Shache,518110
+Asia,China,CHN,Xinjiang Uygur Tacheng,511330
+Asia,China,CHN,Xinjiang Uygur Tikanlik,517650
+Asia,China,CHN,Xinjiang Uygur Turpan,515730
+Asia,China,CHN,Xinjiang Uygur Wusu,513460
+Asia,China,CHN,Xinjiang Uygur Yanqi,515670
+Asia,China,CHN,Yunnan Chuxiong,567680
+Asia,China,CHN,Yunnan Deqen,564440
+Asia,China,CHN,Yunnan Kunming,567780
+Asia,China,CHN,Yunnan Lancang,569540
+Asia,China,CHN,Yunnan Lijiang,566510
+Asia,China,CHN,Yunnan Lincang,569510
+Asia,China,CHN,Yunnan Mengla,569690
+Asia,China,CHN,Yunnan Mengzi,569850
+Asia,China,CHN,Yunnan Simao,569640
+Asia,China,CHN,Yunnan Tengchong,567390
+Asia,China,CHN,Yunnan Yuanjiang,569660
+Asia,China,CHN,Zhejiang Dinghai,584770
+Asia,China,CHN,Zhejiang Hangzhou,584570
+Asia,China,CHN,Zhejiang Hongjia,586650
+Asia,China,CHN,Zhejiang Quxian,586330
+Asia,China,CHN,Zhejiang Wenzhou,586590
+Asia,India,IND,Ahmedabad,426470
+Asia,India,IND,Akola,429340
+Asia,India,IND,Allahabad,424750
+Asia,India,IND,Amritsar,420710
+Asia,India,IND,Aurangabad,430140
+Asia,India,IND,Bangalore,432950
+Asia,India,IND,Barmer,424350
+Asia,India,IND,Belgaum,431980
+Asia,India,IND,Bhagalpur,424980
+Asia,India,IND,Bhopal,426670
+Asia,India,IND,Bhubneshwar,429710
+Asia,India,IND,Bikaner,421650
+Asia,India,IND,Calcutta,428090
+Asia,India,IND,Chennai-Madras,432790
+Asia,India,IND,Chirtadurg,432330
+Asia,India,IND,Dehradun,421110
+Asia,India,IND,Dibrugarh,423140
+Asia,India,IND,Goa Panjim,431920
+Asia,India,IND,Gorakhpur,423790
+Asia,India,IND,Guwahati,424100
+Asia,India,IND,Gwalior,423610
+Asia,India,IND,Hissar,421310
+Asia,India,IND,Hyderabad,431280
+Asia,India,IND,Imphal,426230
+Asia,India,IND,Indore,427540
+Asia,India,IND,Jabalpur,426750
+Asia,India,IND,Jagdelpur,430410
+Asia,India,IND,Jaipur,423480
+Asia,India,IND,Jaisalmer,423280
+Asia,India,IND,Jamnagar,427340
+Asia,India,IND,Jodhpur,423390
+Asia,India,IND,Jorhat,424230
+Asia,India,IND,Kota,424520
+Asia,India,IND,Kurnool,432130
+Asia,India,IND,Lucknow,423690
+Asia,India,IND,Mangalore,432840
+Asia,India,IND,Mumbai,430030
+Asia,India,IND,Nagpur,428670
+Asia,India,IND,Nellore,432450
+Asia,India,IND,New Delhi,421820
+Asia,India,IND,Patna,424920
+Asia,India,IND,Pune,430630
+Asia,India,IND,Raipur,428750
+Asia,India,IND,Rajkot,427370
+Asia,India,IND,Ramagundam,430860
+Asia,India,IND,Ranchi,427010
+Asia,India,IND,Ratnagiri,431100
+Asia,India,IND,Raxaul,423820
+Asia,India,IND,Saharanpur,5217
+Asia,India,IND,Shillong,425160
+Asia,India,IND,Sholapur,431170
+Asia,India,IND,Sundernagar,8204
+Asia,India,IND,Surat,428400
+Asia,India,IND,Tezpur,424150
+Asia,India,IND,Tiruchirapalli,433440
+Asia,India,IND,Trivandram,433710
+Asia,India,IND,Veraval,429090
+Asia,India,IND,Vishakhapatnam,431500
+Asia,Iran,IRN,Bandar Abass,408750
+Asia,Iran,IRN,Esfahan,408000
+Asia,Iran,IRN,Shiraz,408480
+Asia,Iran,IRN,Tabriz,407060
+Asia,Iran,IRN,Tehran-Mehrabad,407540
+Asia,Iran,IRN,Yazd,408210
+Asia,Japan,JPN,Kagoshima,478270
+Asia,Japan,JPN,Matsumoto,476180
+Asia,Japan,JPN,Miho Civ JASDF,477430
+Asia,Japan,JPN,Nagoya,476350
+Asia,Japan,JPN,Osaka,477710
+Asia,Japan,JPN,Sapporo,474120
+Asia,Japan,JPN,Shimonoseki,477620
+Asia,Japan,JPN,Tokyo Hyakuri,477150
+Asia,Japan,JPN,Tosashimizu,478980
+Asia,Kazakhstan,KAZ,Semipalatinsk,361770
+Asia,Korea,KOR,Inchon,471120
+Asia,Korea,KOR,Kangnung,471050
+Asia,Korea,KOR,Kwangju,471560
+Asia,Korea,KOR,Ulsan,471520
+Asia,Kuwait,KWT,KISR Coastal Station,405850
+Asia,Kuwait,KWT,Kuwait Intl AP,405820
+Asia,Sri Lanka,LKA,Anuradhapura,434210
+Asia,Sri Lanka,LKA,Batticaloa,434360
+Asia,Sri Lanka,LKA,Colombo-Katunayake,434500
+Asia,Sri Lanka,LKA,Colombo-Ratmalana,434670
+Asia,Sri Lanka,LKA,Hambantota,434970
+Asia,Sri Lanka,LKA,Kankasanturai,434000
+Asia,Sri Lanka,LKA,Nuwara Eliya,434730
+Asia,Sri Lanka,LKA,Puttalam,434240
+Asia,Sri Lanka,LKA,Trincomalee,434180
+Asia,Macau,MAC,Macau,450110
+Asia,Maldives,MDV,Gan Island,435990
+Asia,Maldives,MDV,Male-Hulule Island,435550
+Asia,Mongolia,MNG,Ulaanbataar,442920
+Asia,Mongolia,MNG,Ulaangom,442120
+Asia,Nepal,NPL,Kathmandu,444540
+Asia,Nepal,NPL,Surkhet,444160
+Asia,Pakistan,PAK,Karachi,417800
+Asia,Korea,PRK,Chongjin,470080
+Asia,Korea,PRK,Haeju,470690
+Asia,Korea,PRK,Pyongyang,470580
+Asia,Russian Federation,RUS,Chita,307580
+Asia,Russian Federation,RUS,Ekaterinburg,284400
+Asia,Russian Federation,RUS,Irkutsk,307100
+Asia,Russian Federation,RUS,Omsk,286980
+Asia,Russian Federation,RUS,Yakutsk,249590
+Asia,Saudi Arabia,SAU,Riyadh,404380
+Asia,Thailand,THA,Bangkok,484560
+Asia,Taiwan,TWN,Taipei,466960
+Asia,Uzbekistan,UZB,Tashkent,384570
+Asia,Viet Nam,VNM,Hanoi,488200
+South America,Argentina,ARG,Buenos Aires,875760
+South America,Argentina,ARG,,871550
+South America,Argentina,ARG,,871490
+South America,Argentina,ARG,,871660
+South America,Argentina,ARG,,873930
+South America,Argentina,ARG,,872890
+South America,Argentina,ARG,,873950
+South America,Argentina,ARG,,874970
+South America,Argentina,ARG,,873740
+South America,Argentina,ARG,,871620
+South America,Argentina,ARG,,871780
+South America,Argentina,ARG,,870970
+South America,Argentina,ARG,,872570
+South America,Argentina,ARG,,872700
+South America,Argentina,ARG,,874800
+South America,Argentina,ARG,,873710
+South America,Bolivia,BOL,La Paz,852010
+South America,Brazil,BRA,Estacao Comandante Ferraz,892520
+South America,Brazil,BRA,Feijo AP,819240
+South America,Brazil,BRA,Parque Chandless,819630
+South America,Brazil,BRA,Porto Walter,819210
+South America,Brazil,BRA,Rio Branco,829150
+South America,Brazil,BRA,Arapiraca AP,819960
+South America,Brazil,BRA,Coruripe,866190
+South America,Brazil,BRA,Maceio-Palmares Intl AP,829930
+South America,Brazil,BRA,Maceio,829940
+South America,Brazil,BRA,Palmeira dos Indios,829920
+South America,Brazil,BRA,Pao de Acucar,819940
+South America,Brazil,BRA,Sao Luis do Quitunde,819970
+South America,Brazil,BRA,Autazes,817320
+South America,Brazil,BRA,Barcelos AP,816480
+South America,Brazil,BRA,Coari,817700
+South America,Brazil,BRA,Humaita AP,818900
+South America,Brazil,BRA,Itacoatiara AP,817330
+South America,Brazil,BRA,Manacapuru,817290
+South America,Brazil,BRA,Manaus-Gomes Intl AP,823320
+South America,Brazil,BRA,Manaus-Gomez Intl AP,817300
+South America,Brazil,BRA,Maues,817340
+South America,Brazil,BRA,Parintins,817030
+South America,Brazil,BRA,Presidente Figueiredo,816990
+South America,Brazil,BRA,Urucara AP,817020
+South America,Brazil,BRA,Macapa-Alcolumbre Intl AP,820980
+South America,Brazil,BRA,Oiapoque,816090
+South America,Brazil,BRA,Porto Grande,816370
+South America,Brazil,BRA,Tartarugalzinho,816280
+South America,Brazil,BRA,Amargosa AP,866750
+South America,Brazil,BRA,Barra AP,866340
+South America,Brazil,BRA,Barreiras,866520
+South America,Brazil,BRA,Belmonte,867440
+South America,Brazil,BRA,Bom Jesus da Lapa AP,866720
+South America,Brazil,BRA,Brumado,866960
+South America,Brazil,BRA,Buritirama AP,866090
+South America,Brazil,BRA,Caravelas,834970
+South America,Brazil,BRA,Conde,866390
+South America,Brazil,BRA,Correntina,866710
+South America,Brazil,BRA,Cruz das Almas,866570
+South America,Brazil,BRA,Delfino,866100
+South America,Brazil,BRA,Euclides da Cunha,866130
+South America,Brazil,BRA,Feira de Santana,866580
+South America,Brazil,BRA,Guanambi AP,866940
+South America,Brazil,BRA,Ibotirama,866530
+South America,Brazil,BRA,Ilheus,866990
+South America,Brazil,BRA,Ipiau,866980
+South America,Brazil,BRA,Irece AP,866350
+South America,Brazil,BRA,Itaberaba,832440
+South America,Brazil,BRA,Itapetinga,867230
+South America,Brazil,BRA,Itirucu,866740
+South America,Brazil,BRA,Jacobina,866360
+South America,Brazil,BRA,Lencois,866540
+South America,Brazil,BRA,Macajuba,866550
+South America,Brazil,BRA,Marau,866770
+South America,Brazil,BRA,Paulo Afonso,829860
+South America,Brazil,BRA,Piata,866730
+South America,Brazil,BRA,Porto Seguro,867450
+South America,Brazil,BRA,Queimadas,866120
+South America,Brazil,BRA,Remanso,829790
+South America,Brazil,BRA,Salvador-Magalhaes Intl AP,832480
+South America,Brazil,BRA,Salvador,866780
+South America,Brazil,BRA,Santa Rita de Cassia,866330
+South America,Brazil,BRA,Senhor do Bonfim,830880
+South America,Brazil,BRA,Serrinha,866370
+South America,Brazil,BRA,Uaua,819920
+South America,Brazil,BRA,Una,867240
+South America,Brazil,BRA,Valenca,866760
+South America,Brazil,BRA,Vitoria da Conquista-Figueiredo AP,866970
+South America,Brazil,BRA,Belem-Val de Caes,821930
+South America,Brazil,BRA,Belo Horizonte-Pampulha,835830
+South America,Brazil,BRA,Boa Vista,820220
+South America,Brazil,BRA,Bom Jesus da Lapa,832880
+South America,Brazil,BRA,Brasilia,833780
+South America,Brazil,BRA,Acarau,817550
+South America,Brazil,BRA,Barbalha,819110
+South America,Brazil,BRA,Campos Sales,827770
+South America,Brazil,BRA,Crateus,818300
+South America,Brazil,BRA,Fortaleza-Pinto Martins Intl AP,817580
+South America,Brazil,BRA,Fortaleza-Pinto Martins Intl AP,823980
+South America,Brazil,BRA,Guaramiranga,824870
+South America,Brazil,BRA,Iguatu,818730
+South America,Brazil,BRA,Itapipoca,817560
+South America,Brazil,BRA,Jaguaribe,818330
+South America,Brazil,BRA,Jaguaruana,824930
+South America,Brazil,BRA,Morada Nova,825940
+South America,Brazil,BRA,Quixeramobim,825860
+South America,Brazil,BRA,Taua,818720
+South America,Brazil,BRA,Campo Grande,836120
+South America,Brazil,BRA,Cuiaba-Marechal Ron,833620
+South America,Brazil,BRA,Curitiba-Afonso Pen,838400
+South America,Brazil,BRA,Brasilia,867150
+South America,Brazil,BRA,Planaltina,867160
+South America,Brazil,BRA,Alegre,868280
+South America,Brazil,BRA,Alfredo Chaves,868290
+South America,Brazil,BRA,Linhares,868050
+South America,Brazil,BRA,Nova Venecia,867850
+South America,Brazil,BRA,Presidente Kennedy,868530
+South America,Brazil,BRA,Santa Teresa,868040
+South America,Brazil,BRA,Sao Mateus,867860
+South America,Brazil,BRA,Vitoria-Salles AP,836490
+South America,Brazil,BRA,Vitoria,868300
+South America,Brazil,BRA,Florianopolis,838990
+South America,Brazil,BRA,Alto Paraiso de Goias,866910
+South America,Brazil,BRA,Aragarcas,833740
+South America,Brazil,BRA,Caiaponia,867300
+South America,Brazil,BRA,Catalao,867770
+South America,Brazil,BRA,Cristalina,867370
+South America,Brazil,BRA,Goianesia,867130
+South America,Brazil,BRA,Goiania,834230
+South America,Brazil,BRA,Goias,867120
+South America,Brazil,BRA,Itapaci,866890
+South America,Brazil,BRA,Itumbiara,867740
+South America,Brazil,BRA,Jatai,867520
+South America,Brazil,BRA,Luziania,867360
+South America,Brazil,BRA,Mineiros,867510
+South America,Brazil,BRA,Monte Alegre de Goias,866700
+South America,Brazil,BRA,Morrinhos,867550
+South America,Brazil,BRA,Niquelandia,866900
+South America,Brazil,BRA,Parauna,867320
+South America,Brazil,BRA,Pires do Rio,867560
+South America,Brazil,BRA,Posse,866920
+South America,Brazil,BRA,Rio Verde,867530
+South America,Brazil,BRA,Sao Simao,867730
+South America,Brazil,BRA,Jacareacanga,826400
+South America,Brazil,BRA,Alto Parnaiba,829700
+South America,Brazil,BRA,Bacabal,817900
+South America,Brazil,BRA,Balsas,819030
+South America,Brazil,BRA,Barra do Corda,818250
+South America,Brazil,BRA,Buriticupu,817880
+South America,Brazil,BRA,Carolina,819010
+South America,Brazil,BRA,Caxias,817920
+South America,Brazil,BRA,Chapadinha,817490
+South America,Brazil,BRA,Colinas,818660
+South America,Brazil,BRA,Estreito,818630
+South America,Brazil,BRA,Farol Preguicas,817170
+South America,Brazil,BRA,Farol Santana,822770
+South America,Brazil,BRA,Grajau,818230
+South America,Brazil,BRA,Imperatriz,818220
+South America,Brazil,BRA,Sao Luis-Machado Intl AP,822810
+South America,Brazil,BRA,Sao Luis,817150
+South America,Brazil,BRA,Turiacu,821980
+South America,Brazil,BRA,Aguas Vermelhas,867220
+South America,Brazil,BRA,Aimores,868030
+South America,Brazil,BRA,Almenara,867430
+South America,Brazil,BRA,Araxa,867960
+South America,Brazil,BRA,Belo Horizonte-Pampulha AP,868000
+South America,Brazil,BRA,Buritis,867180
+South America,Brazil,BRA,Caldas,868460
+South America,Brazil,BRA,Capelinha,867610
+South America,Brazil,BRA,Carangola,868230
+South America,Brazil,BRA,Caratinga,835920
+South America,Brazil,BRA,Chapada Gaucha,867190
+South America,Brazil,BRA,Conceicao das Alagoas,867940
+South America,Brazil,BRA,Curvelo,867800
+South America,Brazil,BRA,Diamantina AP,867810
+South America,Brazil,BRA,Dores do Indaia,867970
+South America,Brazil,BRA,Espinosa,866950
+South America,Brazil,BRA,Florestal,867980
+South America,Brazil,BRA,Formiga,868200
+South America,Brazil,BRA,Governador Valadares,835430
+South America,Brazil,BRA,Guarda-Mor,867570
+South America,Brazil,BRA,Ibirite,868210
+South America,Brazil,BRA,Itaobim,867420
+South America,Brazil,BRA,Ituiutaba,867750
+South America,Brazil,BRA,Joao Pinheiro AP,867580
+South America,Brazil,BRA,Juiz de Fora,836920
+South America,Brazil,BRA,Mantena,867840
+South America,Brazil,BRA,Maria da Fe,830150
+South America,Brazil,BRA,Mocambinho,867200
+South America,Brazil,BRA,Montalvania,866930
+South America,Brazil,BRA,Monte Verde AP,868700
+South America,Brazil,BRA,Montes Claros,867400
+South America,Brazil,BRA,Muriae,868520
+South America,Brazil,BRA,Passa Quatro,837370
+South America,Brazil,BRA,Passos,868190
+South America,Brazil,BRA,Patrocinio,867780
+South America,Brazil,BRA,Pirapora AP,867590
+South America,Brazil,BRA,Rio Pardo de Minas,867210
+South America,Brazil,BRA,Sacramento,867950
+South America,Brazil,BRA,Salinas,867410
+South America,Brazil,BRA,Sao Joao del Rei,836880
+South America,Brazil,BRA,Sao Romao,867390
+South America,Brazil,BRA,Serra dos Aimores,867630
+South America,Brazil,BRA,Teofilo Otoni,867620
+South America,Brazil,BRA,Timoteo,868010
+South America,Brazil,BRA,Tres Marias,867790
+South America,Brazil,BRA,Uberlandia,867760
+South America,Brazil,BRA,Unai AP,834280
+South America,Brazil,BRA,Varginha,868480
+South America,Brazil,BRA,Vicosa,836420
+South America,Brazil,BRA,Amambai,868940
+South America,Brazil,BRA,Campo Grande Intl AP,868100
+South America,Brazil,BRA,Chapadao do Sul,867720
+South America,Brazil,BRA,Corumba Intl AP,835520
+South America,Brazil,BRA,Coxim,867700
+South America,Brazil,BRA,Dourados,836590
+South America,Brazil,BRA,Ivinhema,868600
+South America,Brazil,BRA,Juti,868590
+South America,Brazil,BRA,Miranda,868070
+South America,Brazil,BRA,Nhumirim,867680
+South America,Brazil,BRA,Ponta Pora,868570
+South America,Brazil,BRA,Porto Murtinho AP,868330
+South America,Brazil,BRA,Rio Brilhante,868360
+South America,Brazil,BRA,Sete Quedas,868950
+South America,Brazil,BRA,Sidrolandia,868090
+South America,Brazil,BRA,Tres Lagoas AP,868130
+South America,Brazil,BRA,Agua Boa,866860
+South America,Brazil,BRA,Alto Taquari,867500
+South America,Brazil,BRA,Apiacas,819760
+South America,Brazil,BRA,Campo Novo do Parecis,866620
+South America,Brazil,BRA,Campo Verde,867070
+South America,Brazil,BRA,Carlinda,819780
+South America,Brazil,BRA,Comodoro,866610
+South America,Brazil,BRA,Confresa,866060
+South America,Brazil,BRA,Cotriguacu,829270
+South America,Brazil,BRA,Cuiaba,867050
+South America,Brazil,BRA,Gaucha do Norte,866660
+South America,Brazil,BRA,Guaranta do Norte,819790
+South America,Brazil,BRA,Guiratinga,867290
+South America,Brazil,BRA,Itiquira,867480
+South America,Brazil,BRA,Juara,866250
+South America,Brazil,BRA,Juina,866240
+South America,Brazil,BRA,Nova Maringa,866630
+South America,Brazil,BRA,Novo Mundo,866430
+South America,Brazil,BRA,Paranatinga,866840
+South America,Brazil,BRA,Pontes de Lacerda,867020
+South America,Brazil,BRA,Porto Estrela,867040
+South America,Brazil,BRA,Querencia,866470
+South America,Brazil,BRA,Rondonopolis,867280
+South America,Brazil,BRA,Salto do Ceu,867030
+South America,Brazil,BRA,Santo Antonio do Leste,866850
+South America,Brazil,BRA,Sao Felix do Araguaia,866280
+South America,Brazil,BRA,Sao Jose do Rio Claro,866640
+South America,Brazil,BRA,Sinop,866260
+South America,Brazil,BRA,Sorriso,866450
+South America,Brazil,BRA,Tangara da Serra,866820
+South America,Brazil,BRA,Vila Bela da Santissima Trindade,867010
+South America,Brazil,BRA,Manaus,823310
+South America,Brazil,BRA,Belem,816800
+South America,Brazil,BRA,Braganca,816850
+South America,Brazil,BRA,Cameta,817100
+South America,Brazil,BRA,Castanhal,816820
+South America,Brazil,BRA,Conceicao do Araguaia,819400
+South America,Brazil,BRA,Itaituba,817780
+South America,Brazil,BRA,Maraba,825620
+South America,Brazil,BRA,Novo Repartimento,817840
+South America,Brazil,BRA,Pacaja,817420
+South America,Brazil,BRA,Paragominas,817450
+South America,Brazil,BRA,Placas,817370
+South America,Brazil,BRA,Rondon do Para,817860
+South America,Brazil,BRA,Salinopolis,816600
+South America,Brazil,BRA,Santana do Araguaia,819820
+South America,Brazil,BRA,Serra dos Carajas,818600
+South America,Brazil,BRA,Soure,821410
+South America,Brazil,BRA,Tome Acu,817110
+South America,Brazil,BRA,Tucurui,817430
+South America,Brazil,BRA,Areia,818770
+South America,Brazil,BRA,Cabaceiras,819150
+South America,Brazil,BRA,Camaratuba,818780
+South America,Brazil,BRA,Campina Grande,819160
+South America,Brazil,BRA,Joao Pessoa,819180
+South America,Brazil,BRA,Monteiro,819140
+South America,Brazil,BRA,Patos,819130
+South America,Brazil,BRA,Sao Goncalo,817740
+South America,Brazil,BRA,Arcoverde,819530
+South America,Brazil,BRA,Cabrobo,828860
+South America,Brazil,BRA,Caruaru,828950
+South America,Brazil,BRA,Floresta,819770
+South America,Brazil,BRA,Garanhuns,819550
+South America,Brazil,BRA,Ibimirim,819540
+South America,Brazil,BRA,Palmares,819570
+South America,Brazil,BRA,Petrolina,819910
+South America,Brazil,BRA,Recife-Guararapes-Freyre Intl AP,828990
+South America,Brazil,BRA,Recife,819580
+South America,Brazil,BRA,Serra Talhada,819120
+South America,Brazil,BRA,Surubim,819170
+South America,Brazil,BRA,Alvorada do Gurgueia,818460
+South America,Brazil,BRA,Bom Jesus do Piaui,829750
+South America,Brazil,BRA,Caracol,819880
+South America,Brazil,BRA,Castelo do Piaui,818290
+South America,Brazil,BRA,Esperantina,817510
+South America,Brazil,BRA,Floriano,818680
+South America,Brazil,BRA,Gilbues,819860
+South America,Brazil,BRA,Oeiras,818690
+South America,Brazil,BRA,Parnaiba,817520
+South America,Brazil,BRA,Paulistana,828820
+South America,Brazil,BRA,Picos,827910
+South America,Brazil,BRA,Piripiri,817940
+South America,Brazil,BRA,Sao Joao do Piaui,818480
+South America,Brazil,BRA,Sao Pedro do Piaui,818280
+South America,Brazil,BRA,Sao Raimundo Nonato,819890
+South America,Brazil,BRA,Teresina,818320
+South America,Brazil,BRA,Urucui,819050
+South America,Brazil,BRA,Valenca do Piaui,818700
+South America,Brazil,BRA,Castro,869210
+South America,Brazil,BRA,Cidade Gaucha,868980
+South America,Brazil,BRA,Clevelandia,869390
+South America,Brazil,BRA,Curitiba,838420
+South America,Brazil,BRA,Diamante do Norte,868610
+South America,Brazil,BRA,Dois Vizinhos,869270
+South America,Brazil,BRA,Foz do Iguacu-Cataratas Intl AP,869250
+South America,Brazil,BRA,General Carneiro,869410
+South America,Brazil,BRA,Ibaiti,869020
+South America,Brazil,BRA,Icaraima,868970
+South America,Brazil,BRA,Ilha do Mel,869350
+South America,Brazil,BRA,Inacio Martins,869290
+South America,Brazil,BRA,Ivai,869300
+South America,Brazil,BRA,Joaquim Tavora,869030
+South America,Brazil,BRA,Londrina,837680
+South America,Brazil,BRA,Marechal Candido Rondon,869160
+South America,Brazil,BRA,Maringa,868990
+South America,Brazil,BRA,Nova Fatima,869010
+South America,Brazil,BRA,Nova Tebas,869190
+South America,Brazil,BRA,Paranapoema,868620
+South America,Brazil,BRA,Planalto,869260
+South America,Brazil,BRA,Petrolina,829840
+South America,Brazil,BRA,Porto Nacional,830630
+South America,Brazil,BRA,Porto Velho,828240
+South America,Brazil,BRA,Arraial do Cabo,868920
+South America,Brazil,BRA,Cambuci,868540
+South America,Brazil,BRA,Campos dos Goytacazes,868550
+South America,Brazil,BRA,Duque de Caxias-Xerem,868770
+South America,Brazil,BRA,Farol de Sao Tome,868900
+South America,Brazil,BRA,Macae,868910
+South America,Brazil,BRA,Niteroi,868810
+South America,Brazil,BRA,Paraty,869130
+South America,Brazil,BRA,Petropolis-Pico do Couto,868760
+South America,Brazil,BRA,Resende,837380
+South America,Brazil,BRA,Rio de Janeiro-Galeao-Jobim Intl AP,837460
+South America,Brazil,BRA,Rio de Janeiro-Vila Militar,868790
+South America,Brazil,BRA,Teresopolis,868880
+South America,Brazil,BRA,Valenca,868750
+South America,Brazil,BRA,Apodi,818350
+South America,Brazil,BRA,Caico,818750
+South America,Brazil,BRA,Macau,818360
+South America,Brazil,BRA,Mossoro,818340
+South America,Brazil,BRA,Natal-Severo Intl AP,825990
+South America,Brazil,BRA,Natal,818390
+South America,Brazil,BRA,Touros,818380
+South America,Brazil,BRA,Ariquemes,819700
+South America,Brazil,BRA,Cacoal,866220
+South America,Brazil,BRA,Porto Velho,819320
+South America,Brazil,BRA,Vilhena,866420
+South America,Brazil,BRA,Boa Vista,816150
+South America,Brazil,BRA,Alegrete,869750
+South America,Brazil,BRA,Bage,839800
+South America,Brazil,BRA,Bento Goncalves,869790
+South America,Brazil,BRA,Cacapava do Sul,869860
+South America,Brazil,BRA,Camaqua,869890
+South America,Brazil,BRA,Canela AP,869800
+South America,Brazil,BRA,Cangucu,869930
+South America,Brazil,BRA,Chui,869980
+South America,Brazil,BRA,Cruz Alta,839120
+South America,Brazil,BRA,Erechim,869540
+South America,Brazil,BRA,Frederico Westphalen,869510
+South America,Brazil,BRA,Jaguarao,869960
+South America,Brazil,BRA,Lagoa Vermelha,869650
+South America,Brazil,BRA,Mostardas,839700
+South America,Brazil,BRA,Palmeira das Missoes,869530
+South America,Brazil,BRA,Passo Fundo,869630
+South America,Brazil,BRA,Porto Alegre-Filho Intl AP,839710
+South America,Brazil,BRA,Porto Alegre,869880
+South America,Brazil,BRA,Quarai,869820
+South America,Brazil,BRA,Rio Pardo,869780
+South America,Brazil,BRA,Santa Maria,839360
+South America,Brazil,BRA,Santana do Livramento,839530
+South America,Brazil,BRA,Santiago,869760
+South America,Brazil,BRA,Santo Augusto,869520
+South America,Brazil,BRA,Sao Borja,869600
+South America,Brazil,BRA,Sao Gabriel,869840
+South America,Brazil,BRA,Sao Jose dos Ausentes,869670
+South America,Brazil,BRA,Sao Luiz Gonzaga,869610
+South America,Brazil,BRA,Soledade,869640
+South America,Brazil,BRA,Torres,869810
+South America,Brazil,BRA,Tramandai,869900
+South America,Brazil,BRA,Uruguaiana,869730
+South America,Brazil,BRA,Vacaria,869660
+South America,Brazil,BRA,Rio de Janeiro-Santos Dumont,837550
+South America,Brazil,BRA,Ararangua,869710
+South America,Brazil,BRA,Cacador,869430
+South America,Brazil,BRA,Curitibanos AP,869560
+South America,Brazil,BRA,Dionisio Cerqueira,869360
+South America,Brazil,BRA,Florianopolis,838970
+South America,Brazil,BRA,Indaial,838720
+South America,Brazil,BRA,Itapoa,869470
+South America,Brazil,BRA,Ituporanga,869570
+South America,Brazil,BRA,Joacaba-Santa Terezinha Muni AP,869550
+South America,Brazil,BRA,Major Vieira,869420
+South America,Brazil,BRA,Novo Horizonte,869380
+South America,Brazil,BRA,Rio Negrinho,869450
+South America,Brazil,BRA,Santa Marta,839250
+South America,Brazil,BRA,Sao Joaquim,869690
+South America,Brazil,BRA,Sao Miguel do Oeste AP,869370
+South America,Brazil,BRA,Urubici,869680
+South America,Brazil,BRA,Urussanga,869700
+South America,Brazil,BRA,Xanxere,869400
+South America,Brazil,BRA,Aracaju,866160
+South America,Brazil,BRA,Brejo Grande,866180
+South America,Brazil,BRA,Carira,866150
+South America,Brazil,BRA,Itabaianinha,866380
+South America,Brazil,BRA,Poco Verde,866140
+South America,Brazil,BRA,Ariranha,868410
+South America,Brazil,BRA,Avare,869040
+South America,Brazil,BRA,Bauru,837220
+South America,Brazil,BRA,Campinas,837210
+South America,Brazil,BRA,Campos do Jordao,868720
+South America,Brazil,BRA,Casa Branca,868440
+South America,Brazil,BRA,Franca,868180
+South America,Brazil,BRA,Ibitinga,868430
+South America,Brazil,BRA,Iguape,869230
+South America,Brazil,BRA,Itapeva,837740
+South America,Brazil,BRA,Itapira,868690
+South America,Brazil,BRA,Ituverava,868170
+South America,Brazil,BRA,Jales,868140
+South America,Brazil,BRA,Jose Bonifacio,868390
+South America,Brazil,BRA,Lins,868400
+South America,Brazil,BRA,Ourinhos,868660
+South America,Brazil,BRA,Piracicaba,868680
+South America,Brazil,BRA,Presidente Prudente,837160
+South America,Brazil,BRA,Rancharia,868640
+South America,Brazil,BRA,Sao Carlos,868450
+South America,Brazil,BRA,Sao Luis do Paraitinga,869120
+South America,Brazil,BRA,Sao Paulo-Congonhas AP,837800
+South America,Brazil,BRA,Sao Paulo,837810
+South America,Brazil,BRA,Sorocaba,838510
+South America,Brazil,BRA,Taubate,869110
+South America,Brazil,BRA,Valparaiso,868380
+South America,Brazil,BRA,Votuporanga,868150
+South America,Brazil,BRA,Salvador,832290
+South America,Brazil,BRA,Araguaina,819000
+South America,Brazil,BRA,Araguatins,818210
+South America,Brazil,BRA,Dianopolis,866320
+South America,Brazil,BRA,Formoso do Araguaia,866290
+South America,Brazil,BRA,Gurupi,866300
+South America,Brazil,BRA,Palmas,866070
+South America,Brazil,BRA,Parana,866500
+South America,Brazil,BRA,Pedro Afonso,819410
+South America,Brazil,BRA,Peixe,866490
+South America,Chile,CHL,Antofagasta,854420
+South America,Chile,CHL,Concepcion,856820
+South America,Chile,CHL,Easter Island,854690
+South America,Chile,CHL,Punta Arenas,859340
+South America,Chile,CHL,Santiago,855740
+South America,Columbia,COL,Bogota,802220
+South America,Ecuador,ECU,Quito,840710
+South America,Peru,PER,Arequipa,847520
+South America,Peru,PER,Cuzco,846860
+South America,Peru,PER,Lima,846280
+South America,Paraguay,PRY,Asuncion,862180
+South America,Uruguay,URY,Montevideo,865800
+South America,Venezuela,VEN,Caracas,804150
+North and Central America,Belize,BLZ,Belize,785830
+North and Central America,Cuba,CUB,Bahia Honda,783180
+North and Central America,Cuba,CUB,Camaguey,783550
+North and Central America,Cuba,CUB,Casa Blanca,783250
+North and Central America,Cuba,CUB,Cienfuegos,783440
+North and Central America,Cuba,CUB,Guantanamo Bay NAS,783670
+North and Central America,Cuba,CUB,Havana-Jose Marti,782240
+North and Central America,Cuba,CUB,La Bajada,783110
+North and Central America,Cuba,CUB,La Fe,783210
+North and Central America,Cuba,CUB,Paso Real de San Diego,783170
+North and Central America,Cuba,CUB,Pinar del Rio,783150
+North and Central America,Cuba,CUB,Playa Giron,783330
+North and Central America,Cuba,CUB,Puerto Padre,783580
+North and Central America,Cuba,CUB,Punta de Maisi,783690
+North and Central America,Cuba,CUB,Sancti Spiritus,783490
+North and Central America,Cuba,CUB,Santiago de Cuba,782640
+North and Central America,Cuba,CUB,Saua la Grande,783380
+North and Central America,Cuba,CUB,Union de Reyes,783270
+North and Central America,Cuba,CUB,Varadero,782290
+North and Central America,Guatemala,GTM,Flores,786150
+North and Central America,Guatemala,GTM,Guatemala-La Aurora,786410
+North and Central America,Guatemala,GTM,Huehuetenango,786270
+North and Central America,Guatemala,GTM,Puerto Barrios,786370
+North and Central America,Guatemala,GTM,San Jose,786470
+North and Central America,Honduras,HND,Amapala,787000
+North and Central America,Honduras,HND,Catacamas,787140
+North and Central America,Honduras,HND,Choluteca,787240
+North and Central America,Honduras,HND,La Ceiba-Goloson,787050
+North and Central America,Honduras,HND,La Mesa-San Pedro Sula,787080
+North and Central America,Honduras,HND,Puerto Lempira,787110
+North and Central America,Honduras,HND,Santa Rosa de Copan,787170
+North and Central America,Honduras,HND,Tela,787060
+North and Central America,Mexico,MEX,Acapulco,768056
+North and Central America,Mexico,MEX,Mexico City,766790
+North and Central America,Mexico,MEX,Veracruz,766910
+North and Central America,Martinique,MTQ,Fort-de-France,789250
+North and Central America,Nicaragua,NIC,Chinandega,787390
+North and Central America,Nicaragua,NIC,Managua-Augusto CES,787410
+North and Central America,Nicaragua,NIC,Rivas,787330
+North and Central America,Puerto Rico,PRI,Aguadilla-Borinquen AP,785140
+North and Central America,Puerto Rico,PRI,Mayaguez-Eugenio Maria de Hostos AP,785145
+North and Central America,Puerto Rico,PRI,Mercedita AP,785203
+North and Central America,Puerto Rico,PRI,Roosevelt Roads NAS,785350
+North and Central America,Puerto Rico,PRI,San Juan-Luis Munoz Marin Intl AP,785263
+North and Central America,Puerto Rico,PRI,San Juan,785260
+North and Central America,El Salvador,SLV,Acajutla,786500
+North and Central America,El Salvador,SLV,San Salvador-Ilopango,786630
+North and Central America,Virgin Islands (U.S.),VIR,Charlotte Amalie-Harry S Truman AP,785430
+Southwest Pacific,Australia,AUS,ACT Canberra,949260
+Southwest Pacific,Australia,AUS,NSW Armidale Airport,957730
+Southwest Pacific,Australia,AUS,NSW Cabramurra,959160
+Southwest Pacific,Australia,AUS,NSW Cobar,947110
+Southwest Pacific,Australia,AUS,NSW Coffs Harbour,947910
+Southwest Pacific,Australia,AUS,NSW Dubbo Airport,957190
+Southwest Pacific,Australia,AUS,NSW Mascot-Sydney Airport,947670
+Southwest Pacific,Australia,AUS,NSW Moree Aero,955270
+Southwest Pacific,Australia,AUS,NSW Nowra RAN Air Station,947500
+Southwest Pacific,Australia,AUS,NSW Orange Airport,957260
+Southwest Pacific,Australia,AUS,NSW Richmond RAAF,957530
+Southwest Pacific,Australia,AUS,NSW Sydney,947680
+Southwest Pacific,Australia,AUS,NSW Thredbo Village,959080
+Southwest Pacific,Australia,AUS,NSW Wagga Wagga,949100
+Southwest Pacific,Australia,AUS,NSW Williamtown RAAF,947760
+Southwest Pacific,Australia,AUS,NT Alice Springs Airport,943260
+Southwest Pacific,Australia,AUS,NT Darwin,941200
+Southwest Pacific,Australia,AUS,NT Tennant Creek,942380
+Southwest Pacific,Australia,AUS,QLD Amberley,945680
+Southwest Pacific,Australia,AUS,QLD Brisbane,945780
+Southwest Pacific,Australia,AUS,QLD Brisbane,94578
+Southwest Pacific,Australia,AUS,QLD Cairns Aero,948270
+Southwest Pacific,Australia,AUS,QLD Charleville Aero,945100
+Southwest Pacific,Australia,AUS,QLD Gladstone Airport,943810
+Southwest Pacific,Australia,AUS,QLD Longreach Aero,943460
+Southwest Pacific,Australia,AUS,QLD Mackay,943670
+Southwest Pacific,Australia,AUS,QLD Mount Isa Aero,943320
+Southwest Pacific,Australia,AUS,QLD Oakey Aero,945520
+Southwest Pacific,Australia,AUS,QLD Rockhampton Aero,943740
+Southwest Pacific,Australia,AUS,QLD Townsville Aero,942940
+Southwest Pacific,Australia,AUS,QLD Weipa Aero,941700
+Southwest Pacific,Australia,AUS,QLD Willis Island,942990
+Southwest Pacific,Australia,AUS,SA Adelaide-Kent Town,946750
+Southwest Pacific,Australia,AUS,SA Adelaide,946720
+Southwest Pacific,Australia,AUS,SA Ceduna,946530
+Southwest Pacific,Australia,AUS,SA Mount Gambier Aero,948210
+Southwest Pacific,Australia,AUS,SA Mt Lofty,946780
+Southwest Pacific,Australia,AUS,SA Oodnadatta Airport,944760
+Southwest Pacific,Australia,AUS,SA Woomera Aerodrome,946590
+Southwest Pacific,Australia,AUS,TAS Hobart-Ellerslie Road,949700
+Southwest Pacific,Australia,AUS,TAS Launceston-Ti Tree Bend,949690
+Southwest Pacific,Australia,AUS,TAS Launceston Airport,949680
+Southwest Pacific,Australia,AUS,TAS Low Head,959640
+Southwest Pacific,Australia,AUS,VIC Ballarat Aerodrome,948520
+Southwest Pacific,Australia,AUS,VIC Cape Otway Lighthouse,948420
+Southwest Pacific,Australia,AUS,VIC East Sale Airport,949070
+Southwest Pacific,Australia,AUS,VIC Melbourne,948660
+Southwest Pacific,Australia,AUS,VIC Melbourne,948680
+Southwest Pacific,Australia,AUS,VIC Mildura Airport,946930
+Southwest Pacific,Australia,AUS,VIC Moorabbin Airport,948700
+Southwest Pacific,Australia,AUS,VIC Warrnambool Airport,948370
+Southwest Pacific,Australia,AUS,WA Albany Airport,948020
+Southwest Pacific,Australia,AUS,WA Broome Airport,942030
+Southwest Pacific,Australia,AUS,WA Carnarvon Airport,943000
+Southwest Pacific,Australia,AUS,WA Esperance,946380
+Southwest Pacific,Australia,AUS,WA Forrest,956460
+Southwest Pacific,Australia,AUS,WA Geraldton Airport,944030
+Southwest Pacific,Australia,AUS,WA Giles,94461
+Southwest Pacific,Australia,AUS,WA Halls Creek Airport,942120
+Southwest Pacific,Australia,AUS,WA Kalamunda-Bickley,956100
+Southwest Pacific,Australia,AUS,WA Kalgoorlie-Boulder Airport,946370
+Southwest Pacific,Australia,AUS,WA Katanning,946410
+Southwest Pacific,Australia,AUS,WA Learmonth,943020
+Southwest Pacific,Australia,AUS,WA Mandurah,946050
+Southwest Pacific,Australia,AUS,WA Manjimup,946170
+Southwest Pacific,Australia,AUS,WA Meekatharra Airport,944300
+Southwest Pacific,Australia,AUS,WA Newman Airport,943170
+Southwest Pacific,Australia,AUS,WA Perth,946100
+Southwest Pacific,Australia,AUS,WA Port Hedland,943120
+Southwest Pacific,Australia,AUS,WA Swanbourne,946140
+Southwest Pacific,Australia,AUS,WA Wyndham,942140
+Southwest Pacific,Brunei Darussalam,BRN,Bandar Seri Begawan,963150
+Southwest Pacific,Fiji,FJI,Nadi,916800
+Southwest Pacific,Guam,GUM,Andersen AFB,912180
+Southwest Pacific,Guam,GUM,Tamuning-Won Pat Intl AP,912120
+Southwest Pacific,Marshall Islands,MHL,Kwajalein Atoll,913660
+Southwest Pacific,Malaysia,MYS,George Town,486010
+Southwest Pacific,Malaysia,MYS,Kota Baharu,486150
+Southwest Pacific,Malaysia,MYS,Kuala Lumpur,486470
+Southwest Pacific,Malaysia,MYS,Kuching,964130
+Southwest Pacific,New Zealand,NZL,Auckland-Auckland AK,931190
+Southwest Pacific,New Zealand,NZL,Bay of Plenty-Tauranga BP,931850
+Southwest Pacific,New Zealand,NZL,Canterbury-Christchurch CC,937800
+Southwest Pacific,New Zealand,NZL,Central Otago-Lauder OC,938510
+Southwest Pacific,New Zealand,NZL,East Coast-Napier EC,933730
+Southwest Pacific,New Zealand,NZL,Manawatu-Paraparaumu MW,934200
+Southwest Pacific,New Zealand,NZL,Nelson Marlborough-Nelson NM,935460
+Southwest Pacific,New Zealand,NZL,Northland-Kaitaia NL,930120
+Southwest Pacific,New Zealand,NZL,Otago-Dunedin DN,938910
+Southwest Pacific,New Zealand,NZL,Queenstown Lakes-Queenstown QL,938310
+Southwest Pacific,New Zealand,NZL,Rotorua-Rotorua RR,932470
+Southwest Pacific,New Zealand,NZL,Southland-Invercargill IN,938450
+Southwest Pacific,New Zealand,NZL,Taranaki-New Plymouth NP,933090
+Southwest Pacific,New Zealand,NZL,Taupo King Country-Turangi TP,932450
+Southwest Pacific,New Zealand,NZL,Waikato-Hamilton HN,931730
+Southwest Pacific,New Zealand,NZL,Wairarapa-Masterton WI,934710
+Southwest Pacific,New Zealand,NZL,Wellington-Wellington WN,934360
+Southwest Pacific,New Zealand,NZL,West Coast-Hokitika WC,936150
+Southwest Pacific,Philippines,PHL,Manila,984290
+Southwest Pacific,Palau,PLW,Koror Island,914080
+Southwest Pacific,Singapore,SGP,Singapore,486980
+Southwest Pacific,United States Minor Outlying Islands,UMI,Wake Island,912450
+Europe,Austria,AUT,Graz,112400
+Europe,Austria,AUT,Innsbruck,111200
+Europe,Austria,AUT,Linz,110100
+Europe,Austria,AUT,Salzburg,111500
+Europe,Austria,AUT,Vienna Schwechat,110360
+Europe,Belgium,BEL,Brussels,64510
+Europe,Belgium,BEL,Oostende,64070
+Europe,Belgium,BEL,Saint Hubert,64760
+Europe,Bulgaria,BGR,Plovdiv,156250
+Europe,Bulgaria,BGR,Sofia,156140
+Europe,Bulgaria,BGR,Varna,155520
+Europe,Bosnia and Herzegowina,BIH,Banja Luka,132420
+Europe,Belarus,BLR,Minsk,268500
+Europe,Switzerland,CHE,Geneva,67000
+Europe,Cyprus,CYP,Larnaca,176090
+Europe,Czech Republic,CZE,Ostrava,117820
+Europe,Czech Republic,CZE,Prague,115180
+Europe,Germany,DEU,Berlin,103840
+Europe,Germany,DEU,Bremen,102240
+Europe,Germany,DEU,Dusseldorf,104000
+Europe,Germany,DEU,Frankfurt am Main,106370
+Europe,Germany,DEU,Hamburg,101470
+Europe,Germany,DEU,Koln,105130
+Europe,Germany,DEU,Mannheim,107290
+Europe,Germany,DEU,Munich,108660
+Europe,Germany,DEU,Stuttgart,107380
+Europe,Denmark,DNK,Copenhagen,61800
+Europe,Spain,ESP,Albacete,82800
+Europe,Spain,ESP,Alicante,83600
+Europe,Spain,ESP,Almeria,84870
+Europe,Spain,ESP,Avila,82100
+Europe,Spain,ESP,Badajoz,83300
+Europe,Spain,ESP,Barcelona,81810
+Europe,Spain,ESP,Bilbao,8250
+Europe,Spain,ESP,Burgos,80750
+Europe,Spain,ESP,Caceres,82610
+Europe,Spain,ESP,Castellon,82860
+Europe,Spain,ESP,Ceuta,603200
+Europe,Spain,ESP,Cordoba,84100
+Europe,Spain,ESP,Cuenca,82310
+Europe,Spain,ESP,Gerona,81840
+Europe,Spain,ESP,Granada,84190
+Europe,Spain,ESP,Guadalajara,82260
+Europe,Spain,ESP,Huelva,83830
+Europe,Spain,ESP,Huesca,80940
+Europe,Spain,ESP,Jaen,84170
+Europe,Spain,ESP,La Coruna,80010
+Europe,Spain,ESP,Las Palmas,600300
+Europe,Spain,ESP,Leon,80550
+Europe,Spain,ESP,Lerida,81710
+Europe,Spain,ESP,Logrono,80840
+Europe,Spain,ESP,Lugo,80080
+Europe,Spain,ESP,Madrid,82210
+Europe,Spain,ESP,Malaga,84820
+Europe,Spain,ESP,Melilla,603380
+Europe,Spain,ESP,Murcia,84300
+Europe,Spain,ESP,Orense,80480
+Europe,Spain,ESP,Oviedo,80150
+Europe,Spain,ESP,Palencia,80720
+Europe,Spain,ESP,Palma,83060
+Europe,Spain,ESP,Pamplona,80850
+Europe,Spain,ESP,Pontevedra,80440
+Europe,Spain,ESP,Salamanca,82020
+Europe,Spain,ESP,San Sebastian,80270
+Europe,Spain,ESP,Santander,80230
+Europe,Spain,ESP,Segovia,82130
+Europe,Spain,ESP,Sevilla,83910
+Europe,Spain,ESP,Soria,81480
+Europe,Spain,ESP,Tarragona,81760
+Europe,Spain,ESP,Tenerife,600200
+Europe,Spain,ESP,Teruel,82350
+Europe,Spain,ESP,Toledo,82720
+Europe,Spain,ESP,Valencia,82840
+Europe,Spain,ESP,Valladolid,81410
+Europe,Spain,ESP,Vitoria,80800
+Europe,Spain,ESP,Zamora,81300
+Europe,Spain,ESP,Zaragoza,81600
+Europe,Finland,FIN,Helsinki,29740
+Europe,Finland,FIN,Tampere,29440
+Europe,France,FRA,Bordeaux,75100
+Europe,France,FRA,Brest,71100
+Europe,France,FRA,Clermont-Ferrand,74600
+Europe,France,FRA,Dijon,72800
+Europe,France,FRA,Lyon,74810
+Europe,France,FRA,Marseille,76500
+Europe,France,FRA,Montpellier,76430
+Europe,France,FRA,Nancy,71800
+Europe,France,FRA,Nantes,72220
+Europe,France,FRA,Nice,76900
+Europe,France,FRA,Paris Orly,71490
+Europe,France,FRA,Strasbourg,71900
+Europe,United Kingdom,GBR,Aberdeen Dyce,30910
+Europe,United Kingdom,GBR,Aughton,33220
+Europe,United Kingdom,GBR,Belfast,39170
+Europe,United Kingdom,GBR,Birmingham,35340
+Europe,United Kingdom,GBR,Finningley,33600
+Europe,United Kingdom,GBR,Hemsby,34960
+Europe,United Kingdom,GBR,Jersey Channel Islands,38950
+Europe,United Kingdom,GBR,Leuchars,31710
+Europe,United Kingdom,GBR,London Gatwick,37760
+Europe,United Kingdom,GBR,Oban,31140
+Europe,Greece,GRC,Andravida,166820
+Europe,Greece,GRC,Athens,167160
+Europe,Greece,GRC,Thessaloniki,166220
+Europe,Hungary,HUN,Debrecen,128820
+Europe,Hungary,HUN,Szombathely,128120
+Europe,Ireland,IRL,Belmullet,39760
+Europe,Ireland,IRL,Birr,39650
+Europe,Ireland,IRL,Clones,39740
+Europe,Ireland,IRL,Dublin,39690
+Europe,Ireland,IRL,Kilkenny,39600
+Europe,Ireland,IRL,Malin,39800
+Europe,Ireland,IRL,Valentia Observatory,39530
+Europe,Iceland,ISL,Reykjavik,40300
+Europe,Israel,ISR,Beer Sheva,401900
+Europe,Israel,ISR,Eilat,401990
+Europe,Israel,ISR,Jerusalem-Atarot AP,401840
+Europe,Israel,ISR,Tel Aviv-Bet Dagan,401790
+Europe,Italy,ITA,Alghero,165200
+Europe,Italy,ITA,Ancona-Falconara,161910
+Europe,Italy,ITA,Aviano,160370
+Europe,Italy,ITA,Bari-Palese Macchie,162700
+Europe,Italy,ITA,Bergamo-Orio al Serio,160760
+Europe,Italy,ITA,Bologna-Borgo Panigale,161400
+Europe,Italy,ITA,Bolzano,160200
+Europe,Italy,ITA,Bonifati,163370
+Europe,Italy,ITA,Brescia-Ghedi,160880
+Europe,Italy,ITA,Brindisi,163200
+Europe,Italy,ITA,Cagliari-Elmas,165600
+Europe,Italy,ITA,Campobasso,162520
+Europe,Italy,ITA,Capo Bellavista,165500
+Europe,Italy,ITA,Capo Palinuro,163100
+Europe,Italy,ITA,Catania-Fontanarossa,164600
+Europe,Italy,ITA,Catania-Sigonella,164590
+Europe,Italy,ITA,Cozzo Spadaro,164800
+Europe,Italy,ITA,Crotone,163500
+Europe,Italy,ITA,Enna,164500
+Europe,Italy,ITA,Firenze-Peretola,161700
+Europe,Italy,ITA,Foggia,162610
+Europe,Italy,ITA,Gela,164530
+Europe,Italy,ITA,Genova-Sestri,161200
+Europe,Italy,ITA,Gioia del Colle,163120
+Europe,Italy,ITA,Grosseto,162060
+Europe,Italy,ITA,Lecce,163320
+Europe,Italy,ITA,Marina di,Ravenna
+Europe,Italy,ITA,Messina,164200
+Europe,Italy,ITA,Milan,160660
+Europe,Italy,ITA,Milano-Linate,160800
+Europe,Italy,ITA,Monte Cimone,161340
+Europe,Italy,ITA,Monte Terminillo,162190
+Europe,Italy,ITA,Naples,162890
+Europe,Italy,ITA,Novara-Cameri,160640
+Europe,Italy,ITA,Olbia-Costa Smeralda,165310
+Europe,Italy,ITA,Paganella,160220
+Europe,Italy,ITA,Palermo-Boccadifalco,164000
+Europe,Italy,ITA,Palermo-Punta Raisi,164050
+Europe,Italy,ITA,Parma,161300
+Europe,Italy,ITA,Patelleria,164700
+Europe,Italy,ITA,Perugia,161810
+Europe,Italy,ITA,Pescara,162300
+Europe,Italy,ITA,Piacenza,160840
+Europe,Italy,ITA,,Pianosa
+Europe,Italy,ITA,Pisa-S Gusto,161580
+Europe,Italy,ITA,Ponza,162800
+Europe,Italy,ITA,Potenza,163000
+Europe,Italy,ITA,Pratica di Mare,162450
+Europe,Italy,ITA,Rimini,161490
+Europe,Italy,ITA,Roma-Ciampino,162390
+Europe,Italy,ITA,Roma-Fiumicino,162420
+Europe,Italy,ITA,S Maria di Leuca,163600
+Europe,Italy,ITA,San Remo,161530
+Europe,Italy,ITA,Taranto,163250
+Europe,Italy,ITA,Tarvisio,160400
+Europe,Italy,ITA,Torino-Caselle,160590
+Europe,Italy,ITA,Trapani-Birgi,164290
+Europe,Italy,ITA,Treviso-Istrana,160980
+Europe,Italy,ITA,Treviso-S Angelo,160990
+Europe,Italy,ITA,Trieste,161100
+Europe,Italy,ITA,Udine-Campoformido,160440
+Europe,Italy,ITA,Venezia-Tessera,161050
+Europe,Italy,ITA,Verona-Villafranca,160900
+Europe,Italy,ITA,Vicenza,160940
+Europe,Lithuania,LTU,Kaunas,266290
+Europe,Netherlands,NLD,Amsterdam,62400
+Europe,Netherlands,NLD,Beek,63800
+Europe,Netherlands,NLD,Groningen,62800
+Europe,Norway,NOR,Bergen,13110
+Europe,Norway,NOR,Oslo Fornebu,14880
+Europe,Poland,POL,Bialystok,122950
+Europe,Poland,POL,Bielsko Biala,126000
+Europe,Poland,POL,Bydgoszcz,122400
+Europe,Poland,POL,Chojnice,122350
+Europe,Poland,POL,Czestochowa,125500
+Europe,Poland,POL,Elblag,121600
+Europe,Poland,POL,Gdansk Port Polnocny,121400
+Europe,Poland,POL,Gorzow Wlkp,123000
+Europe,Poland,POL,Hel,121350
+Europe,Poland,POL,Jelenia Gora,125000
+Europe,Poland,POL,Kalisz,124350
+Europe,Poland,POL,Kasprowy Wierch,126500
+Europe,Poland,POL,Katowice,125600
+Europe,Poland,POL,Ketrzyn,121850
+Europe,Poland,POL,Kielce,125700
+Europe,Poland,POL,Klodzko,125200
+Europe,Poland,POL,Kolo,123450
+Europe,Poland,POL,Kolobrzeg,121000
+Europe,Poland,POL,Koszalin,121050
+Europe,Poland,POL,Krakow,125660
+Europe,Poland,POL,Krosno,126700
+Europe,Poland,POL,Leba,121200
+Europe,Poland,POL,Lebork,121250
+Europe,Poland,POL,Legnica,124150
+Europe,Poland,POL,Lesko,126900
+Europe,Poland,POL,Leszno,124180
+Europe,Poland,POL,Lodz,124650
+Europe,Poland,POL,Lublin Radawiec,124950
+Europe,Poland,POL,Mikolajki,122800
+Europe,Poland,POL,Mlawa,122700
+Europe,Poland,POL,Nowy Sacz,126600
+Europe,Poland,POL,Olsztyn,122720
+Europe,Poland,POL,Opole,125300
+Europe,Poland,POL,Ostroleka,122850
+Europe,Poland,POL,Pila,122300
+Europe,Poland,POL,Plock,123600
+Europe,Poland,POL,Poznan,123300
+Europe,Poland,POL,Przemysl,126950
+Europe,Poland,POL,Raciborz,125400
+Europe,Poland,POL,Resko,122100
+Europe,Poland,POL,Rzeszow Jasionka,125800
+Europe,Poland,POL,Sandomierz,125850
+Europe,Poland,POL,Siedlce,123850
+Europe,Poland,POL,Slubice,123100
+Europe,Poland,POL,Sniezka,125100
+Europe,Poland,POL,Sulejow,124690
+Europe,Poland,POL,Suwalki,121950
+Europe,Poland,POL,Swinoujscie,122000
+Europe,Poland,POL,Szczecin,122050
+Europe,Poland,POL,Szczecinek,122150
+Europe,Poland,POL,Tarnow,125750
+Europe,Poland,POL,Terespol,123990
+Europe,Poland,POL,Torun,122500
+Europe,Poland,POL,Ustka,121150
+Europe,Poland,POL,Warsaw,123750
+Europe,Poland,POL,Wielun,124550
+Europe,Poland,POL,Wlodawa,124970
+Europe,Poland,POL,Wroclaw,124240
+Europe,Poland,POL,Zakopane,126250
+Europe,Poland,POL,Zamosc,125950
+Europe,Poland,POL,Zielona Gora,124000
+Europe,Portugal,PRT,Braganca,85750
+Europe,Portugal,PRT,Coimbra,85490
+Europe,Portugal,PRT,Evora,85570
+Europe,Portugal,PRT,Faro,85540
+Europe,Portugal,PRT,Funchal Madeira-Islands,85210
+Europe,Portugal,PRT,Lajes,85090
+Europe,Portugal,PRT,Lisboa,85360
+Europe,Portugal,PRT,Porto,85450
+Europe,Romania,ROU,Bucharest,154200
+Europe,Romania,ROU,Cluj-Napoca,151200
+Europe,Romania,ROU,Constanta,154800
+Europe,Romania,ROU,Craiova,154500
+Europe,Romania,ROU,Galati,153100
+Europe,Romania,ROU,Timisoara,152470
+Europe,Russian Federation,RUS,Arkhangelsk,225500
+Europe,Russian Federation,RUS,Moscow,276120
+Europe,Russian Federation,RUS,Saint-Petersburg,260630
+Europe,Russian Federation,RUS,Samara,289000
+Europe,Serbia,SRB,Belgrade,132720
+Europe,Serbia,SRB,Podgorica,134620
+Europe,Slovakia (Slovak Republic),SVK,Bratislava,118160
+Europe,Slovakia (Slovak Republic),SVK,Kosice,119680
+Europe,Slovenia,SVN,Ljubljana,130140
+Europe,Sweden,SWE,Goteborg Landvetter,25260
+Europe,Sweden,SWE,Karlstad,24180
+Europe,Sweden,SWE,Kiruna,20440
+Europe,Sweden,SWE,Ostersund Froson,22260
+Europe,Sweden,SWE,Stockholm Arlanda,24600
+Europe,Syrian Arab Republic,SYR,Damascus,400800
+Europe,Turkey,TUR,Ankara,171280
+Europe,Turkey,TUR,Istanbul,170600
+Europe,Turkey,TUR,Izmir,172180
+Europe,Ukraine,UKR,Kiev,333450
+Europe,Ukraine,UKR,Odessa,338370
