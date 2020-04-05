@@ -12,8 +12,10 @@ df.pop('Country/Series-specific Notes')
 indexName = df[df['Subject Descriptor'] == 'Gross domestic product based on purchasing-power-parity (PPP) share of world total'].index
 gdp = df.drop(indexName, inplace=False)
 gdp.pop('Subject Descriptor')
-country = gdp['Country']
+country = pd.DataFrame(gdp['Country'])
 country.reset_index(drop=True, inplace=True)
+country["GDP"] = True
+country["PPP"] = True
 print(country)
 country.to_csv('../../processed_data/00_Country.csv') #print list of country as csv
 gdp.set_index(keys='Country', inplace=True)
