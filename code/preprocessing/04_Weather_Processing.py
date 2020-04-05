@@ -7,14 +7,13 @@ from bs4 import BeautifulSoup
 import re
 import os
 
-skip = 0;
+skip = 0
 
 def weather_process(location, month):
-
+    global skip
     http_url = "https://en.tutiempo.net/climate/" + month + "/ws-" + location[4] +".html"
     retrieved_data = requests.get(http_url).text
     soup = BeautifulSoup(retrieved_data, "lxml")
-
 
     if 'Error 404' in soup.text:
         skip += 1
@@ -53,7 +52,7 @@ def weather_process(location, month):
     df.insert(0, "Country", col_country, True)
     df.insert(0, "Region", col_region, True)
 
-    print(location[3] + ' weather get!')
+    print(location[3], ' weather get!')
     return df
 
 
@@ -81,15 +80,14 @@ def main():
     locations = df.values.tolist()
     """
     
-    locations = locations[0:100]
+    locations = locations[452:]
 
     months = ['01-2020', '02-2020']
 
     for i in range(len(locations)):
         location = locations[i]
         print(location)
-        if (i + 1) % 20 == 0:
-            time.sleep(200)
+        time.sleep(1)
         for month in months:
             df = weather_process(location, month)
             if not os.path.isfile('04_Weather.csv'):
