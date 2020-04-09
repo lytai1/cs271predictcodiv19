@@ -80,7 +80,8 @@ def main():
     locations = df.values.tolist()
     """
     
-    locations = locations[452:]
+    locations = locations[1352:]
+    #print(locations)
 
     months = ['01-2020', '02-2020']
 
@@ -94,6 +95,7 @@ def main():
                 df.to_csv('04_Weather.csv', index=False, header=True)
             else:
                 df.to_csv('04_Weather.csv', mode='a', index=False, header=False)
+
 
 
 if __name__== "__main__":

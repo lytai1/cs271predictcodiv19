@@ -77,6 +77,66 @@ def weather_station_process(country):
     return df
 
 
+def weather_station_for_USCAN_process(country):
+    my_region = 'north_and_central_america_wmo_region_4'
+    http_url = "https://energyplus.net/weather-region/" + my_region + "/" + country[2] + "%20%20"
+    retrieved_data = requests.get(http_url).text
+
+    soup = BeautifulSoup(retrieved_data, "lxml")
+    print(soup.text)
+    collected_data = soup.text.split('All Regions - North And Central America WMO Region 4 - Canada')[1].lstrip().split('Learn more about Weather Data Sources')[0]
+    #print(collected_data)
+    lst_state = collected_data.split(' - ')
+    lst_state.remove(lst_state[-1])
+    #lst_state.remove(lst_state[4])
+    lst_state = [l[-2:] for l in lst_state]
+    #lst_state = lst_state[:1]
+    #print(lst_state)
+    for l in lst_state:
+        http_url = "https://energyplus.net/weather-region/" + my_region + "/" + country[2] + "/" + l
+        retrieved_data = requests.get(http_url).text
+
+        soup = BeautifulSoup(retrieved_data, "lxml")
+        #print(soup.text)
+        collected_data = soup.text.split('Select a location.')[1].lstrip().split('Learn more about Weather Data Sources')[0]
+        # cities_data = collected_data
+        collected_data = re.sub("[\(\[].*?[\)\]]", ",", collected_data)
+        collected_data = collected_data.rstrip(',')
+        collected_data.replace('-', ' ')
+        # print(collected_data)
+
+        lst = collected_data.split(',')
+        lst = [s.strip().split(' ') for s in lst]
+        lst = [[' '.join(s[:-1]), s[-1]] for s in lst]
+        for s in lst:
+            s[0] = l +' / ' + s[0]
+
+        df = pd.DataFrame(lst, columns=['Location', 'StationID'])
+        df.drop_duplicates(subset="StationID", keep="first", inplace=True)
+        col_region = []
+        col_rep = []
+        col_country = []
+        for i in range(len(df)):
+            col_region.append(country[0])
+            col_country.append(country[1])
+            col_rep.append(country[2])
+        df.insert(0, "Rep", col_rep, True)
+        df.insert(0, "Country", col_country, True)
+        df.insert(0, "Region", col_region, True)
+        #df.drop_duplicates(subset="StationID", keep="first", inplace=True)
+        # print(type(df))
+        print(df)
+        print(l + ' getting station!')
+
+
+        if not os.path.isfile('04_Weather_Station.csv'):
+            df.to_csv('04_Weather_Station.csv', index=False, header=True)
+        else:
+            df.to_csv('04_Weather_Station.csv', mode='a', index=False, header=False)
+
+        
+    #return df
+
 def main():
     #regions = [['Africa', 'africa_wmo_region_1'], ['Asia', 'asia_wmo_region_2'], ['South America', 'south_america_wmo_region_3'], \
     #           ['North and Central America', 'north_and_central_america_wmo_region_4'], \
@@ -98,8 +158,11 @@ def main():
     countries =[]         # pause append to weather_station.csv
     # TODO:
     # Canada station and CS
+    #df = weather_station_for_USCAN_process(['North and Central America', 'USA', 'USA'])
+    df = weather_station_for_USCAN_process(['North and Central America', 'Canada', 'CAN'])
 
 
+"""""
     for country in countries:
         country = [c.strip() for c in country]
         #print(country)
@@ -110,6 +173,7 @@ def main():
         else:
             df.to_csv('04_Weather_Station.csv', mode='a', index=False, header=False)
 
+"""""
 
 if __name__ == "__main__":
     main()
