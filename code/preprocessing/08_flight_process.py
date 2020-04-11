@@ -20,14 +20,14 @@ day_count = 2
 df = pd.read_csv(path + "20200124" + ".csv", index_col=0)
 df = pd.DataFrame(df['SFO'])
 df.dropna(inplace=True)
-df.drop(index="ZRH", inplace=True)
+df.drop("ABQ", inplace=True)
 print("20200124")
 print(df)
 
 for single_date in (start + timedelta(n) for n in range(day_count)):
     date = single_date.strftime("%Y%m%d")
     df1 = pd.read_csv(path + date + ".csv", index_col=0)
-    df1 = pd.DataFrame(df['SFO'])
+    df1 = pd.DataFrame(df1['SFO'])
     df1.dropna(inplace=True)
     print(date)
     print(df1)
