@@ -7,32 +7,16 @@ start = datetime.date(2020,1,22)
 end = datetime.date(2020,2,4)
 day_count = (end - start).days +1
 
-# for single_date in (start + timedelta(n) for n in range(day_count)):
-#     date = single_date.strftime("%Y%m%d")
-#     df = pd.read_csv(path + date + ".csv")
-#     df.pop("Unnamed: 0")
-#     df = df.apply(pd.Series.value_counts)
-#     print(df)
-#     df.to_csv("../../processed_data/08_flights_no_" +date+ ".csv")
-
-path = "../../processed_data/08_flights_no_"
-day_count = 2
-df = pd.read_csv(path + "20200124" + ".csv", index_col=0)
-df = pd.DataFrame(df['SFO'])
-df.dropna(inplace=True)
-df.drop("ABQ", inplace=True)
-print("20200124")
-print(df)
+df1 = pd.DataFrame()
 
 for single_date in (start + timedelta(n) for n in range(day_count)):
     date = single_date.strftime("%Y%m%d")
-    df1 = pd.read_csv(path + date + ".csv", index_col=0)
-    df1 = pd.DataFrame(df1['SFO'])
-    df1.dropna(inplace=True)
-    print(date)
-    print(df1)
-    df += df1
+    df = pd.read_csv(path + date + ".csv", index_col=0)
+    print(df)
 
-print("total")
-print(df)
+    df1 = pd.concat([df1, df], ignore_index=True, sort=True)
+    print(df1)
+
+df1 = df1.apply(pd.Series.value_counts)
+df1.to_csv("../../processed_data/08_flights_no.csv")
 
