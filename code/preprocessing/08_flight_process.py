@@ -46,8 +46,31 @@ def analyse():
     print(df)
     df.to_csv("../../processed_data/08_flights_no_countries.csv")
 
+def match_countries():
+    df = pd.read_csv("../../processed_data/08_flights_no_countries.csv", index_col=0)
+    country = pd.read_csv('../../processed_data/00_Country.csv', index_col=0)
+    print(country)
+    df = df[df.index.isin(country["Country"])]
+    print(df)
+
+    #add country name to csv
+    country = pd.DataFrame(df.index)
+    country.set_index(keys='Country', inplace=True)
+    country["flights"] = True
+    print(country)
+    countrycsv = pd.read_csv("../../processed_data/00_Country.csv")
+    countrycsv.pop('Unnamed: 0')
+    countrycsv.set_index(keys='Country', inplace=True)
+
+    print(countrycsv)
+    countrycsv = pd.concat([countrycsv, country], axis=1)
+    countrycsv.reset_index(inplace=True)
+    countrycsv.rename(columns={'index': "Country"}, inplace=True)
+    print(countrycsv)
+    # countrycsv.to_csv("../../processed_data/00_Country.csv")
+
 
 def main():
-    analyse()
+    match_countries()
 
 main()
