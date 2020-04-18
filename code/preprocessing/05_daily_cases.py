@@ -8,9 +8,7 @@ path = "../../raw_data/COVID-19-master/COVID-19-master/csse_covid_19_data/csse_c
 start = datetime.date(2020,1,22)
 end = datetime.date(2020,2,4)
 
-
-
-def main():
+def get_daily_cases(start, end , filename):
     day_count = (end - start).days +1
     totaldf = pd.DataFrame()
 
@@ -21,9 +19,10 @@ def main():
         df.pop('Last Update')
         df.pop("Deaths")
         df.pop("Recovered")
-        df.pop("Province/State")
-        df.rename(columns={'Confirmed': str(single_date)}, inplace=True)
-        df = df.groupby(["Country/Region"]).sum()
+        # df.pop("Province/State")
+        df.rename(columns={'Confirmed': str(single_date), "Province/State":"City", "Country/Region" : "Country"}, inplace=True)
+        # df = df.groupby(["Country/Region"]).sum()
+        df.set_index(["Country", "City"], inplace=True)
         if(single_date == start):
             totaldf = df
         else:
@@ -32,25 +31,40 @@ def main():
     totaldf['max'] = totaldf.max(numeric_only=True, axis=1)
     totaldf['outbreak'] = totaldf['max'].apply(lambda x: True if x>10 else False)
 
-    totaldf.to_csv('../../processed_data/05_daily_cases.csv')
+    totaldf.to_csv('../../processed_data/'+ filename + '.csv')
+
+def main():
+    start = datetime.date(2020,1,22)
+    end = datetime.date(2020,2,4)
+
+    # get_daily_cases(start, end, "05_daily_cases")
     
+    start = datetime.date(2020,2,5)
+    end = datetime.date(2020,2,19)
+
+    # get_daily_cases(start, end, "05_daily_cases2")
+
+    #compare outbreak of the two weeks
+    df1 = pd.read_csv("../../processed_data/05_daily_cases.csv", index_col=[0,1])
+    df2 = pd.read_csv("../../processed_data/05_daily_cases2.csv", index_col=[0,1])
+    print(df1[df1['outbreak']])
+    print(df2[df2['outbreak']])
     #write country to csv
-    country = pd.DataFrame(totaldf.index)
-    country.rename(columns={0: "Country"}, inplace=True)
-    country['daily cases'] = True
-    country.set_index(keys='Country', inplace=True)
-    print(country)
+    # country = pd.DataFrame(totaldf.index)
+    # country.rename(columns={0: "Country"}, inplace=True)
+    # country['daily cases'] = True
+    # country.set_index(keys='Country', inplace=True)
+    # print(country)
 
-    countrycsv = pd.read_csv("../../processed_data/00_Country.csv")
-    countrycsv.pop('Unnamed: 0')
-    countrycsv.set_index(keys='Country', inplace=True)
+    # countrycsv = pd.read_csv("../../processed_data/00_Country.csv")
+    # countrycsv.pop('Unnamed: 0')
+    # countrycsv.set_index(keys='Country', inplace=True)
 
-    print(countrycsv)
-    countrycsv = pd.concat([countrycsv, country], axis=1)
-    countrycsv.reset_index(inplace=True)
-    countrycsv.rename(columns={'index': "Country"}, inplace=True)
-    print(countrycsv)
-    countrycsv.to_csv("../../processed_data/00_Country.csv")
-
+    # print(countrycsv)
+    # countrycsv = pd.concat([countrycsv, country], axis=1)
+    # countrycsv.reset_index(inplace=True)
+    # countrycsv.rename(columns={'index': "Country"}, inplace=True)
+    # print(countrycsv)
+    # countrycsv.to_csv("../../processed_data/00_Country.csv")
 
 main()
