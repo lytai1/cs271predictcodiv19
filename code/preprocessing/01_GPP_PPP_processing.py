@@ -17,10 +17,10 @@ country.reset_index(drop=True, inplace=True)
 country["GDP"] = True
 country["PPP"] = True
 print(country)
-country.to_csv('../../processed_data/00_Country.csv') #print list of country as csv
+# country.to_csv('../../processed_data/00_Country.csv') #print list of country as csv
 gdp.set_index(keys='Country', inplace=True)
 print(gdp)
-gdp.to_csv('../../processed_data/01_GDP.csv')
+# gdp.to_csv('../../processed_data/01_GDP.csv')
 
 #make 02_PPP.csv
 indexName = df[df['Subject Descriptor'] != 'Gross domestic product based on purchasing-power-parity (PPP) share of world total'].index
@@ -28,5 +28,5 @@ ppp = df.drop(indexName, inplace=False)
 ppp.pop('Subject Descriptor')
 ppp.set_index(keys='Country', inplace=True)
 print(ppp)
-ppp.to_csv('../../processed_data/02_PPP.csv')
+# ppp.to_csv('../../processed_data/02_PPP.csv')
 

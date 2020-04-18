@@ -55,6 +55,7 @@ def match_countries():
 
     #add country name to csv
     country = pd.DataFrame(df.index)
+    country.drop_duplicates(inplace=True)
     country.set_index(keys='Country', inplace=True)
     country["flights"] = True
     print(country)
@@ -67,7 +68,7 @@ def match_countries():
     countrycsv.reset_index(inplace=True)
     countrycsv.rename(columns={'index': "Country"}, inplace=True)
     print(countrycsv)
-    # countrycsv.to_csv("../../processed_data/00_Country.csv")
+    countrycsv.to_csv("../../processed_data/00_Country_test.csv")
 
 
 def main():
