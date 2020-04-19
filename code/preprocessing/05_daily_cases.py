@@ -49,22 +49,24 @@ def main():
     df2 = pd.read_csv("../../processed_data/05_daily_cases2.csv", index_col=[0,1])
     print(df1[df1['outbreak']])
     print(df2[df2['outbreak']])
+
     #write country to csv
-    # country = pd.DataFrame(totaldf.index)
-    # country.rename(columns={0: "Country"}, inplace=True)
-    # country['daily cases'] = True
-    # country.set_index(keys='Country', inplace=True)
-    # print(country)
+    country = pd.DataFrame(df1.index.get_level_values(0).drop_duplicates())
+    country.rename(columns={0: "Country"}, inplace=True)
+    country['daily cases'] = True
+    country.set_index(keys='Country', inplace=True)
+    print(country)
 
-    # countrycsv = pd.read_csv("../../processed_data/00_Country.csv")
-    # countrycsv.pop('Unnamed: 0')
-    # countrycsv.set_index(keys='Country', inplace=True)
+    countrycsv = pd.read_csv("../../processed_data/00_Country.csv")
+    countrycsv.pop('Unnamed: 0')
+    countrycsv.set_index(keys='Country', inplace=True)
 
-    # print(countrycsv)
-    # countrycsv = pd.concat([countrycsv, country], axis=1)
-    # countrycsv.reset_index(inplace=True)
-    # countrycsv.rename(columns={'index': "Country"}, inplace=True)
-    # print(countrycsv)
+    print(countrycsv)
+    countrycsv = pd.concat([countrycsv, country], axis=1)
+    countrycsv.sort_index(inplace=True)
+    countrycsv.reset_index(inplace=True)
+    countrycsv.rename(columns={'index': "Country"}, inplace=True)
+    print(countrycsv)
     # countrycsv.to_csv("../../processed_data/00_Country.csv")
 
 main()
