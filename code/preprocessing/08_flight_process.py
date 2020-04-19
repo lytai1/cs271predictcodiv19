@@ -68,7 +68,7 @@ def match_countries():
     countrycsv.reset_index(inplace=True)
     countrycsv.rename(columns={'index': "Country"}, inplace=True)
     print(countrycsv)
-    countrycsv.to_csv("../../processed_data/00_Country_test.csv")
+    countrycsv.to_csv("../../processed_data/00_Country.csv")
 
 
 def main():

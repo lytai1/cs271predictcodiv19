@@ -1,237 +1,237 @@
-,Country,GDP,PPP,population density,lat lng,Tertiary Education
-0,Afghanistan,True,True,True,True,
-1,Albania,True,True,True,True,True
-2,Algeria,True,True,True,True,True
-3,American Samoa,,,,True,
-4,Andorra,,,,True,
-5,Angola,True,True,True,True,True
-6,Antigua and Barbuda,True,True,True,True,
-7,Argentina,True,True,True,True,True
-8,Armenia,True,True,True,True,True
-9,Aruba,True,True,True,True,True
-10,Australia,True,True,True,True,True
-11,Austria,True,True,True,True,True
-12,Azerbaijan,True,True,True,True,True
-13,Bahrain,True,True,True,True,True
-14,Bangladesh,True,True,True,True,
-15,Barbados,True,True,True,True,
-16,Belarus,True,True,True,True,True
-17,Belgium,True,True,True,True,True
-18,Belize,True,True,True,True,True
-19,Benin,True,True,True,True,True
-20,Bermuda,,,,True,True
-21,Bhutan,True,True,True,True,True
-22,Bolivia,True,True,,True,
-23,Bosnia And Herzegovina,,,,True,
-24,Bosnia and Herzegovina,True,True,True,,True
-25,Botswana,True,True,True,True,True
-26,Brazil,True,True,True,True,True
-27,Brunei Darussalam,True,True,True,True,True
-28,Bulgaria,True,True,True,True,True
-29,Burkina Faso,True,True,True,True,True
-30,Burma,,,,True,
-31,Burundi,True,True,True,True,True
-32,Cabo Verde,True,True,True,True,
-33,Cambodia,True,True,True,True,
-34,Cameroon,True,True,True,True,
-35,Canada,True,True,True,True,
-36,Cayman Islands,,,,True,
-37,Central African Republic,True,True,True,True,
-38,Chad,True,True,True,True,
-39,Chile,True,True,True,True,True
-40,China,True,True,True,True,True
-41,Colombia,True,True,True,True,True
-42,Comoros,True,True,True,True,True
-43,Cook Islands,,,,True,
-44,Costa Rica,True,True,True,True,True
-45,Croatia,True,True,True,True,
-46,Cuba,,,,True,True
-47,Curaçao,,,,True,True
-48,Cyprus,True,True,True,True,True
-49,Czech Republic,True,True,,True,True
-50,Côte d'Ivoire,True,True,True,True,
-51,Democratic Republic of the Congo,True,True,True,True,True
-52,Denmark,True,True,True,True,True
-53,Djibouti,True,True,True,True,
-54,Dominica,True,True,True,True,
-55,Dominican Republic,True,True,True,True,
-56,Ecuador,True,True,True,True,True
-57,Egypt,True,True,True,True,True
-58,El Salvador,True,True,True,True,True
-59,Equatorial Guinea,True,True,True,True,
-60,Eritrea,True,True,True,True,
-61,Estonia,True,True,True,True,True
-62,Eswatini,True,True,True,,
-63,Ethiopia,True,True,True,True,
-64,Falkland Islands (Islas Malvinas),,,,True,
-65,Faroe Islands,,,,True,
-66,Fiji,True,True,True,True,
-67,Finland,True,True,True,True,True
-68,France,True,True,True,True,True
-69,French Guiana,,,,True,
-70,French Polynesia,,,,True,
-71,Gabon,True,True,True,True,
-72,Georgia,True,True,True,True,True
-73,Germany,True,True,True,True,True
-74,Ghana,True,True,True,True,True
-75,Gibraltar,,,,True,
-76,Greece,True,True,True,True,True
-77,Greenland,,,,True,
-78,Grenada,True,True,True,True,
-79,Guadeloupe,,,,True,
-80,Guam,,,,True,
-81,Guatemala,True,True,True,True,True
-82,Guinea,True,True,True,True,True
-83,Guinea-Bissau,True,True,True,True,
-84,Guyana,True,True,True,True,
-85,Haiti,True,True,True,True,
-86,Honduras,True,True,True,True,True
-87,Hong Kong SAR,True,True,,True,True
-88,Hungary,True,True,True,True,True
-89,Iceland,True,True,True,True,
-90,India,True,True,True,True,True
-91,Indonesia,True,True,True,True,True
-92,Iraq,True,True,True,True,
-93,Ireland,True,True,True,True,True
-94,Islamic Republic of Iran,True,True,,True,True
-95,Isle Of Man,,,,True,
-96,Israel,True,True,True,True,True
-97,Italy,True,True,True,True,True
-98,Jamaica,True,True,True,True,True
-99,Japan,True,True,True,True,True
-100,Jordan,True,True,True,True,
-101,Kazakhstan,True,True,True,True,True
-102,Kenya,True,True,True,True,
-103,Kiribati,True,True,True,True,
-104,Korea,True,True,,,
-105,"Korea, North",,,,True,
-106,"Korea, South",,,,True,
-107,Kosovo,True,True,,True,
-108,Kuwait,True,True,True,True,True
-109,Kyrgyz Republic,True,True,,True,
-110,Lao P.D.R.,True,True,,True,True
-111,Latvia,True,True,True,True,True
-112,Lebanon,True,True,True,True,True
-113,Lesotho,True,True,True,True,True
-114,Liberia,True,True,True,True,
-115,Libya,True,True,True,True,
-116,Liechtenstein,,,,True,
-117,Lithuania,True,True,True,True,True
-118,Luxembourg,True,True,True,True,
-119,Macao SAR,True,True,,True,
-120,Macedonia,,,,True,True
-121,Madagascar,True,True,True,True,True
-122,Malawi,True,True,True,True,
-123,Malaysia,True,True,True,True,True
-124,Maldives,True,True,True,True,
-125,Mali,True,True,True,True,
-126,Malta,True,True,True,True,True
-127,Marshall Islands,True,True,True,True,
-128,Martinique,,,,True,
-129,Mauritania,True,True,True,True,True
-130,Mauritius,True,True,True,True,True
-131,Mayotte,,,,True,
-132,Mexico,True,True,True,True,True
-133,Micronesia,True,True,True,True,
-134,Moldova,True,True,,True,True
-135,Monaco,,,,True,
-136,Mongolia,True,True,True,True,True
-137,Montenegro,True,True,True,True,
-138,Morocco,True,True,True,True,True
-139,Mozambique,True,True,True,True,True
-140,Myanmar,True,True,True,,
-141,Namibia,True,True,True,True,
-142,Nauru,True,True,True,,
-143,Nepal,True,True,True,True,True
-144,Netherlands,True,True,True,True,
-145,New Caledonia,,,,True,
-146,New Zealand,True,True,True,True,True
-147,Nicaragua,True,True,True,True,
-148,Niger,True,True,True,True,
-149,Nigeria,True,True,True,True,
-150,North Macedonia,True,True,True,,
-151,Northern Mariana Islands,,,,True,
-152,Norway,True,True,True,True,True
-153,Oman,True,True,True,True,
-154,Pakistan,True,True,True,True,True
-155,Palau,True,True,True,True,True
-156,Panama,True,True,True,True,True
-157,Papua New Guinea,True,True,True,True,
-158,Paraguay,True,True,True,True,
-159,Peru,True,True,True,True,
-160,Philippines,True,True,True,True,True
-161,Poland,True,True,True,True,True
-162,Portugal,True,True,True,True,True
-163,Puerto Rico,True,True,True,True,True
-164,Qatar,True,True,True,True,True
-165,Republic of Congo,True,True,,True,
-166,Reunion,,,,True,
-167,Romania,True,True,True,True,True
-168,Russia,True,True,,True,True
-169,Rwanda,True,True,True,True,True
-170,"Saint Helena, Ascension, And Tristan Da Cunha",,,,True,
-171,Saint Kitts And Nevis,,,,True,
-172,Saint Lucia,,,,True,True
-173,Saint Vincent And The Grenadines,,,,True,
-174,Samoa,True,True,True,True,
-175,San Marino,True,True,True,True,
-176,Sao Tome And Principe,,,,True,
-177,Saudi Arabia,True,True,True,True,True
-178,Senegal,True,True,True,True,
-179,Serbia,True,True,True,True,True
-180,Seychelles,True,True,True,True,True
-181,Sierra Leone,True,True,True,True,
-182,Singapore,True,True,True,True,
-183,Sint Maarten,,,,True,
-184,Slovak Republic,True,True,,,
-185,Slovakia,,,,True,True
-186,Slovenia,True,True,True,True,True
-187,Solomon Islands,True,True,True,True,
-188,Somalia,True,True,True,True,
-189,South Africa,True,True,True,True,True
-190,South Georgia And South Sandwich Islands,,,,True,
-191,South Sudan,True,True,True,True,
-192,Spain,True,True,True,True,True
-193,Sri Lanka,True,True,True,True,True
-194,St. Kitts and Nevis,True,True,,,
-195,St. Lucia,True,True,,,
-196,St. Vincent and the Grenadines,True,True,,,
-197,Sudan,True,True,True,True,True
-198,Suriname,True,True,True,True,
-199,Swaziland,,,,True,True
-200,Sweden,True,True,True,True,True
-201,Switzerland,True,True,True,True,True
-202,Syria,True,True,,True,True
-203,São Tomé and Príncipe,True,True,,,
-204,Taiwan,,,,True,
-205,Taiwan Province of China,True,True,,,
-206,Tajikistan,True,True,True,True,True
-207,Tanzania,True,True,,True,True
-208,Thailand,True,True,True,True,True
-209,The Bahamas,True,True,,True,
-210,The Gambia,True,True,,True,
-211,Timor-Leste,True,True,True,True,
-212,Togo,True,True,True,True,True
-213,Tonga,True,True,True,True,
-214,Trinidad And Tobago,,,,True,
-215,Trinidad and Tobago,True,True,True,,
-216,Tunisia,True,True,True,True,True
-217,Turkey,True,True,True,True,True
-218,Turkmenistan,True,True,True,True,
-219,Turks And Caicos Islands,,,,True,
-220,Tuvalu,True,True,True,True,
-221,Uganda,True,True,True,True,
-222,Ukraine,True,True,True,True,True
-223,United Arab Emirates,True,True,True,True,True
-224,United Kingdom,True,True,True,True,True
-225,United States,True,True,,True,True
-226,Uruguay,True,True,True,True,
-227,Uzbekistan,True,True,True,True,
-228,Vanuatu,True,True,True,True,
-229,Venezuela,True,True,,True,
-230,Vietnam,True,True,,True,True
-231,Wallis And Futuna,,,,True,
-232,West Bank,,,,True,
-233,Yemen,True,True,True,True,
-234,Zambia,True,True,True,True,
-235,Zimbabwe,True,True,True,True,True
+,Country,GDP,PPP,population density,lat lng,Tertiary Education,flights
+0,Afghanistan,True,True,True,True,,True
+1,Albania,True,True,True,True,True,True
+2,Algeria,True,True,True,True,True,
+3,American Samoa,,,,True,,True
+4,Andorra,,,,True,,
+5,Angola,True,True,True,True,True,
+6,Antigua and Barbuda,True,True,True,True,,True
+7,Argentina,True,True,True,True,True,True
+8,Armenia,True,True,True,True,True,True
+9,Aruba,True,True,True,True,True,True
+10,Australia,True,True,True,True,True,True
+11,Austria,True,True,True,True,True,True
+12,Azerbaijan,True,True,True,True,True,True
+13,Bahrain,True,True,True,True,True,True
+14,Bangladesh,True,True,True,True,,True
+15,Barbados,True,True,True,True,,True
+16,Belarus,True,True,True,True,True,
+17,Belgium,True,True,True,True,True,True
+18,Belize,True,True,True,True,True,True
+19,Benin,True,True,True,True,True,
+20,Bermuda,,,,True,True,True
+21,Bhutan,True,True,True,True,True,
+22,Bolivia,True,True,,True,,True
+23,Bosnia And Herzegovina,,,,True,,
+24,Bosnia and Herzegovina,True,True,True,,True,True
+25,Botswana,True,True,True,True,True,True
+26,Brazil,True,True,True,True,True,True
+27,Brunei Darussalam,True,True,True,True,True,True
+28,Bulgaria,True,True,True,True,True,
+29,Burkina Faso,True,True,True,True,True,True
+30,Burma,,,,True,,
+31,Burundi,True,True,True,True,True,True
+32,Cabo Verde,True,True,True,True,,
+33,Cambodia,True,True,True,True,,True
+34,Cameroon,True,True,True,True,,
+35,Canada,True,True,True,True,,True
+36,Cayman Islands,,,,True,,True
+37,Central African Republic,True,True,True,True,,True
+38,Chad,True,True,True,True,,
+39,Chile,True,True,True,True,True,True
+40,China,True,True,True,True,True,True
+41,Colombia,True,True,True,True,True,True
+42,Comoros,True,True,True,True,True,
+43,Cook Islands,,,,True,,
+44,Costa Rica,True,True,True,True,True,True
+45,Croatia,True,True,True,True,,
+46,Cuba,,,,True,True,True
+47,Curaçao,,,,True,True,True
+48,Cyprus,True,True,True,True,True,True
+49,Czech Republic,True,True,,True,True,
+50,Côte d'Ivoire,True,True,True,True,,
+51,Democratic Republic of the Congo,True,True,True,True,True,
+52,Denmark,True,True,True,True,True,
+53,Djibouti,True,True,True,True,,True
+54,Dominica,True,True,True,True,,
+55,Dominican Republic,True,True,True,True,,True
+56,Ecuador,True,True,True,True,True,True
+57,Egypt,True,True,True,True,True,True
+58,El Salvador,True,True,True,True,True,True
+59,Equatorial Guinea,True,True,True,True,,
+60,Eritrea,True,True,True,True,,True
+61,Estonia,True,True,True,True,True,
+62,Eswatini,True,True,True,,,
+63,Ethiopia,True,True,True,True,,True
+64,Falkland Islands (Islas Malvinas),,,,True,,
+65,Faroe Islands,,,,True,,
+66,Fiji,True,True,True,True,,True
+67,Finland,True,True,True,True,True,
+68,France,True,True,True,True,True,True
+69,French Guiana,,,,True,,
+70,French Polynesia,,,,True,,
+71,Gabon,True,True,True,True,,
+72,Georgia,True,True,True,True,True,True
+73,Germany,True,True,True,True,True,True
+74,Ghana,True,True,True,True,True,True
+75,Gibraltar,,,,True,,
+76,Greece,True,True,True,True,True,True
+77,Greenland,,,,True,,
+78,Grenada,True,True,True,True,,True
+79,Guadeloupe,,,,True,,
+80,Guam,,,,True,,True
+81,Guatemala,True,True,True,True,True,True
+82,Guinea,True,True,True,True,True,
+83,Guinea-Bissau,True,True,True,True,,
+84,Guyana,True,True,True,True,,True
+85,Haiti,True,True,True,True,,True
+86,Honduras,True,True,True,True,True,True
+87,Hong Kong SAR,True,True,,True,True,True
+88,Hungary,True,True,True,True,True,True
+89,Iceland,True,True,True,True,,True
+90,India,True,True,True,True,True,True
+91,Indonesia,True,True,True,True,True,True
+92,Iraq,True,True,True,True,,True
+93,Ireland,True,True,True,True,True,
+94,Islamic Republic of Iran,True,True,,True,True,
+95,Isle Of Man,,,,True,,
+96,Israel,True,True,True,True,True,True
+97,Italy,True,True,True,True,True,True
+98,Jamaica,True,True,True,True,True,True
+99,Japan,True,True,True,True,True,True
+100,Jordan,True,True,True,True,,True
+101,Kazakhstan,True,True,True,True,True,True
+102,Kenya,True,True,True,True,,True
+103,Kiribati,True,True,True,True,,
+104,Korea,True,True,,,,
+105,"Korea, North",,,,True,,
+106,"Korea, South",,,,True,,
+107,Kosovo,True,True,,True,,
+108,Kuwait,True,True,True,True,True,True
+109,Kyrgyz Republic,True,True,,True,,
+110,Lao P.D.R.,True,True,,True,True,
+111,Latvia,True,True,True,True,True,True
+112,Lebanon,True,True,True,True,True,True
+113,Lesotho,True,True,True,True,True,True
+114,Liberia,True,True,True,True,,True
+115,Libya,True,True,True,True,,True
+116,Liechtenstein,,,,True,,
+117,Lithuania,True,True,True,True,True,True
+118,Luxembourg,True,True,True,True,,
+119,Macao SAR,True,True,,True,,
+120,Macedonia,,,,True,True,
+121,Madagascar,True,True,True,True,True,True
+122,Malawi,True,True,True,True,,True
+123,Malaysia,True,True,True,True,True,True
+124,Maldives,True,True,True,True,,True
+125,Mali,True,True,True,True,,True
+126,Malta,True,True,True,True,True,True
+127,Marshall Islands,True,True,True,True,,True
+128,Martinique,,,,True,,True
+129,Mauritania,True,True,True,True,True,True
+130,Mauritius,True,True,True,True,True,True
+131,Mayotte,,,,True,,
+132,Mexico,True,True,True,True,True,True
+133,Micronesia,True,True,True,True,,True
+134,Moldova,True,True,,True,True,
+135,Monaco,,,,True,,
+136,Mongolia,True,True,True,True,True,True
+137,Montenegro,True,True,True,True,,
+138,Morocco,True,True,True,True,True,True
+139,Mozambique,True,True,True,True,True,True
+140,Myanmar,True,True,True,,,True
+141,Namibia,True,True,True,True,,True
+142,Nauru,True,True,True,,,True
+143,Nepal,True,True,True,True,True,True
+144,Netherlands,True,True,True,True,,
+145,New Caledonia,,,,True,,
+146,New Zealand,True,True,True,True,True,True
+147,Nicaragua,True,True,True,True,,True
+148,Niger,True,True,True,True,,True
+149,Nigeria,True,True,True,True,,True
+150,North Macedonia,True,True,True,,,
+151,Northern Mariana Islands,,,,True,,True
+152,Norway,True,True,True,True,True,
+153,Oman,True,True,True,True,,True
+154,Pakistan,True,True,True,True,True,True
+155,Palau,True,True,True,True,True,
+156,Panama,True,True,True,True,True,True
+157,Papua New Guinea,True,True,True,True,,True
+158,Paraguay,True,True,True,True,,True
+159,Peru,True,True,True,True,,True
+160,Philippines,True,True,True,True,True,True
+161,Poland,True,True,True,True,True,True
+162,Portugal,True,True,True,True,True,
+163,Puerto Rico,True,True,True,True,True,True
+164,Qatar,True,True,True,True,True,True
+165,Republic of Congo,True,True,,True,,
+166,Reunion,,,,True,,
+167,Romania,True,True,True,True,True,True
+168,Russia,True,True,,True,True,
+169,Rwanda,True,True,True,True,True,True
+170,"Saint Helena, Ascension, And Tristan Da Cunha",,,,True,,
+171,Saint Kitts And Nevis,,,,True,,
+172,Saint Lucia,,,,True,True,
+173,Saint Vincent And The Grenadines,,,,True,,
+174,Samoa,True,True,True,True,,
+175,San Marino,True,True,True,True,,
+176,Sao Tome And Principe,,,,True,,
+177,Saudi Arabia,True,True,True,True,True,True
+178,Senegal,True,True,True,True,,True
+179,Serbia,True,True,True,True,True,
+180,Seychelles,True,True,True,True,True,True
+181,Sierra Leone,True,True,True,True,,True
+182,Singapore,True,True,True,True,,True
+183,Sint Maarten,,,,True,,True
+184,Slovak Republic,True,True,,,,
+185,Slovakia,,,,True,True,
+186,Slovenia,True,True,True,True,True,
+187,Solomon Islands,True,True,True,True,,True
+188,Somalia,True,True,True,True,,True
+189,South Africa,True,True,True,True,True,True
+190,South Georgia And South Sandwich Islands,,,,True,,
+191,South Sudan,True,True,True,True,,True
+192,Spain,True,True,True,True,True,
+193,Sri Lanka,True,True,True,True,True,True
+194,St. Kitts and Nevis,True,True,,,,True
+195,St. Lucia,True,True,,,,
+196,St. Vincent and the Grenadines,True,True,,,,
+197,Sudan,True,True,True,True,True,True
+198,Suriname,True,True,True,True,,True
+199,Swaziland,,,,True,True,
+200,Sweden,True,True,True,True,True,
+201,Switzerland,True,True,True,True,True,
+202,Syria,True,True,,True,True,
+203,São Tomé and Príncipe,True,True,,,,
+204,Taiwan,,,,True,,True
+205,Taiwan Province of China,True,True,,,,
+206,Tajikistan,True,True,True,True,True,True
+207,Tanzania,True,True,,True,True,
+208,Thailand,True,True,True,True,True,True
+209,The Bahamas,True,True,,True,,
+210,The Gambia,True,True,,True,,
+211,Timor-Leste,True,True,True,True,,
+212,Togo,True,True,True,True,True,
+213,Tonga,True,True,True,True,,True
+214,Trinidad And Tobago,,,,True,,
+215,Trinidad and Tobago,True,True,True,,,True
+216,Tunisia,True,True,True,True,True,True
+217,Turkey,True,True,True,True,True,True
+218,Turkmenistan,True,True,True,True,,
+219,Turks And Caicos Islands,,,,True,,
+220,Tuvalu,True,True,True,True,,True
+221,Uganda,True,True,True,True,,True
+222,Ukraine,True,True,True,True,True,True
+223,United Arab Emirates,True,True,True,True,True,True
+224,United Kingdom,True,True,True,True,True,True
+225,United States,True,True,True,True,True,True
+226,Uruguay,True,True,True,True,,True
+227,Uzbekistan,True,True,True,True,,True
+228,Vanuatu,True,True,True,True,,True
+229,Venezuela,True,True,True,True,,True
+230,Vietnam,True,True,True,True,True,
+231,Wallis And Futuna,,,,True,,
+232,West Bank,,,,True,,
+233,Yemen,True,True,True,True,,
+234,Zambia,True,True,True,True,,True
+235,Zimbabwe,True,True,True,True,True,True
