@@ -1,0 +1,2376 @@
+,Region,Country,Rep,Location,StationID
+0,Africa,Algeria,DZA,Algiers,603900
+1,Africa,Egypt,EGY,Al Minya,623870
+2,Africa,Egypt,EGY,Alexandria,623180
+3,Africa,Egypt,EGY,Aswan,624140
+4,Africa,Egypt,EGY,Asyut,623930
+5,Africa,Egypt,EGY,Cairo,623660
+6,Africa,Egypt,EGY,El Arish,623370
+7,Africa,Egypt,EGY,Helwan,623780
+8,Africa,Egypt,EGY,Hurghada,624630
+9,Africa,Egypt,EGY,Ismailia,624400
+10,Africa,Egypt,EGY,Kharga,624350
+11,Africa,Egypt,EGY,Luxor,624050
+12,Africa,Ethiopia,ETH,Addis Ababa-Bole,634500
+13,Africa,Ethiopia,ETH,Awassa,634600
+14,Africa,Ethiopia,ETH,Bahar Dar,633320
+15,Africa,Ethiopia,ETH,Combolcha,633330
+16,Africa,Ethiopia,ETH,Debre Marcos,633340
+17,Africa,Ethiopia,ETH,Dire Dawa,634710
+18,Africa,Ethiopia,ETH,Gondar,633310
+19,Africa,Ethiopia,ETH,Jimma,634020
+20,Africa,Ethiopia,ETH,Metehara,634530
+21,Africa,Ghana,GHA,Accra,654720
+22,Africa,Kenya,KEN,Eldoret,636860
+23,Africa,Kenya,KEN,Embu,637200
+24,Africa,Kenya,KEN,Garissa,637230
+25,Africa,Kenya,KEN,Kakamega,636870
+26,Africa,Kenya,KEN,Kisii,637090
+27,Africa,Kenya,KEN,Kisumu,637080
+28,Africa,Kenya,KEN,Kitale,636610
+29,Africa,Kenya,KEN,Lamu-Manda Island,637720
+30,Africa,Kenya,KEN,Lodwar,636120
+31,Africa,Kenya,KEN,Makindu,637660
+32,Africa,Kenya,KEN,Malindi,637990
+33,Africa,Kenya,KEN,Mandera,636240
+34,Africa,Kenya,KEN,Marsabit,636410
+35,Africa,Kenya,KEN,Meru,636950
+36,Africa,Kenya,KEN,Mombasa-Moi,638200
+37,Africa,Kenya,KEN,Moyale,636190
+38,Africa,Kenya,KEN,Nairobi-Dagoretti,637410
+39,Africa,Kenya,KEN,Nairobi-Kenyatta,637400
+40,Africa,Kenya,KEN,Nairobi-Wilson,637420
+41,Africa,Kenya,KEN,Nakuru,637140
+42,Africa,Kenya,KEN,Narok,637370
+43,Africa,Kenya,KEN,Nyeri,637170
+44,Africa,Kenya,KEN,Voi,637930
+45,Africa,Libyan Arab Jamahiriya,LBY,Tripoli,620100
+46,Africa,Morocco,MAR,Casablanca Nouasser,601560
+47,Africa,Madagascar,MDG,Antananarivo,670830
+48,Africa,Senegal,SEN,Dakar,616410
+49,Africa,Tunisia,TUN,Tunis,607150
+50,Africa,South Africa,ZAF,Cape Town,688160
+51,Africa,South Africa,ZAF,Johannesburg,683680
+52,Africa,Zimbabwe,ZWE,Harare,677750
+53,Asia,United Arab Emirates,ARE,Abu Dhabi,412170
+54,Asia,Bangladesh,BGD,Bogra,418830
+55,Asia,Bangladesh,BGD,Chittagong-Patenga,419780
+56,Asia,Bangladesh,BGD,Coxs Bazar,419920
+57,Asia,Bangladesh,BGD,Dhaka,419230
+58,Asia,Bangladesh,BGD,Ishurdi,419070
+59,Asia,Bangladesh,BGD,Jessore,419360
+60,Asia,Bangladesh,BGD,Rangpur,418590
+61,Asia,Bangladesh,BGD,Sylhet,418910
+62,Asia,China,CHN,Anhui Anqing,584240
+63,Asia,China,CHN,Anhui Bengbu,582210
+64,Asia,China,CHN,Anhui Boxian,581020
+65,Asia,China,CHN,Anhui Dongcheng,583190
+66,Asia,China,CHN,Anhui Hefei,583210
+67,Asia,China,CHN,Anhui Huoshan,583140
+68,Asia,China,CHN,Anhui Shouxian,582150
+69,Asia,China,CHN,Anhui Tunxi,585310
+70,Asia,China,CHN,Beijing Beijing,545110
+71,Asia,China,CHN,Beijing Miyun,544160
+72,Asia,China,CHN,Chongqing Chongqing Shapingba,575160
+73,Asia,China,CHN,Chongqing Youyang,576330
+74,Asia,China,CHN,Fujian Congwu,591330
+75,Asia,China,CHN,Fujian Fuzhou,588470
+76,Asia,China,CHN,Fujian Jianou,587370
+77,Asia,China,CHN,Fujian Nanping,588340
+78,Asia,China,CHN,Fujian Shanghang,589180
+79,Asia,China,CHN,Fujian Xiamen,591340
+80,Asia,China,CHN,Fujian Yongan,589210
+81,Asia,China,CHN,Gansu Dunhuang,524180
+82,Asia,China,CHN,Gansu Hezuo,560800
+83,Asia,China,CHN,Gansu Jiuquan,525330
+84,Asia,China,CHN,Gansu Lanzhou,528890
+85,Asia,China,CHN,Gansu Minqin,526810
+86,Asia,China,CHN,Gansu Minxian,560930
+87,Asia,China,CHN,Gansu Pingliang,539150
+88,Asia,China,CHN,Gansu Tianshui,570060
+89,Asia,China,CHN,Gansu Wudu,560960
+90,Asia,China,CHN,Gansu Wushaoling,527870
+91,Asia,China,CHN,Gansu Xifengzhen,539230
+92,Asia,China,CHN,Gansu Yumenzhen,524360
+93,Asia,China,CHN,Gansu Yuzhong,529830
+94,Asia,China,CHN,Guangdong Dianbai,596640
+95,Asia,China,CHN,Guangdong Guangzhou,592870
+96,Asia,China,CHN,Guangdong Heyuan,592930
+97,Asia,China,CHN,Guangdong Nanxiong,579960
+98,Asia,China,CHN,Guangdong Shantou,593160
+99,Asia,China,CHN,Guangdong Shanwei,595010
+100,Asia,China,CHN,Guangdong Shaoguan,590820
+101,Asia,China,CHN,Guangdong Shenzhen,594930
+102,Asia,China,CHN,Guangdong Yangjiang,596630
+103,Asia,China,CHN,Guangdong Zhengcheng,592940
+104,Asia,China,CHN,Guangxi Zhuang Baise,592110
+105,Asia,China,CHN,Guangxi Zhuang Duan,590370
+106,Asia,China,CHN,Guangxi Zhuang Guilin,579570
+107,Asia,China,CHN,Guangxi Zhuang Guiping,592540
+108,Asia,China,CHN,Guangxi Zhuang Hechi,590230
+109,Asia,China,CHN,Guangxi Zhuang Lingshan,594460
+110,Asia,China,CHN,Guangxi Zhuang Longzhou,594170
+111,Asia,China,CHN,Guangxi Zhuang Nanning,594310
+112,Asia,China,CHN,Guangxi Zhuang Qinzhou,596320
+113,Asia,China,CHN,Guangxi Zhuang Wuzhou,592650
+114,Asia,China,CHN,Guizhou Bijie,577070
+115,Asia,China,CHN,Guizhou Guiyang,578160
+116,Asia,China,CHN,Guizhou Sansui,578320
+117,Asia,China,CHN,Guizhou Tongzi,576060
+118,Asia,China,CHN,Guizhou Weining,566910
+119,Asia,China,CHN,Guizhou Xingyi,579020
+120,Asia,China,CHN,Guizhou Zunyi,577130
+121,Asia,China,CHN,Hainan Dongfang,598380
+122,Asia,China,CHN,Hainan Haikou,597580
+123,Asia,China,CHN,Hainan Qionghai,598550
+124,Asia,China,CHN,Hebei Chengde,544230
+125,Asia,China,CHN,Hebei Fengning,543080
+126,Asia,China,CHN,Hebei Huailai,544050
+127,Asia,China,CHN,Hebei Leting,545390
+128,Asia,China,CHN,Hebei Raoyang,546060
+129,Asia,China,CHN,Hebei Shijiazhuang,536980
+130,Asia,China,CHN,Hebei Xingtai,537980
+131,Asia,China,CHN,Hebei Zhangbei,533990
+132,Asia,China,CHN,Heilongjiang Anda,508540
+133,Asia,China,CHN,Heilongjiang Fujin,507880
+134,Asia,China,CHN,Heilongjiang Fuyu,507420
+135,Asia,China,CHN,Heilongjiang Hailun,507560
+136,Asia,China,CHN,Heilongjiang Harbin,509530
+137,Asia,China,CHN,Heilongjiang Huma,503530
+138,Asia,China,CHN,Heilongjiang Jiamusi,508730
+139,Asia,China,CHN,Heilongjiang Jixi,509780
+140,Asia,China,CHN,Heilongjiang Keshan,506580
+141,Asia,China,CHN,Heilongjiang Mohe,501360
+142,Asia,China,CHN,Heilongjiang Mudanjiang,540940
+143,Asia,China,CHN,Heilongjiang Nenjiang,505570
+144,Asia,China,CHN,Heilongjiang Qiqihar,507450
+145,Asia,China,CHN,Heilongjiang Shangzhi,509680
+146,Asia,China,CHN,Heilongjiang Suifenhe,540960
+147,Asia,China,CHN,Heilongjiang Sunwu,505640
+148,Asia,China,CHN,Heilongjiang Tonghe,509630
+149,Asia,China,CHN,Heilongjiang Zhaozhou,509500
+150,Asia,China,CHN,Henan Anyang,538980
+151,Asia,China,CHN,Henan Lushi,570670
+152,Asia,China,CHN,Henan Nanyang,571780
+153,Asia,China,CHN,Henan Shangqiu,580050
+154,Asia,China,CHN,Henan Xinyang,572970
+155,Asia,China,CHN,Henan Zhengzhou,570830
+156,Asia,China,CHN,Henan Zhumadian,572900
+157,Asia,China,CHN,Hong Kong SAR,450070
+158,Asia,China,CHN,Hubei Exi,574470
+159,Asia,China,CHN,Hubei Laohekou,572650
+160,Asia,China,CHN,Hubei Macheng,573990
+161,Asia,China,CHN,Hubei Wuhan,574940
+162,Asia,China,CHN,Hubei Yichang,574610
+163,Asia,China,CHN,Hubei Yunxi,572510
+164,Asia,China,CHN,Hubei Zhongxiang,573780
+165,Asia,China,CHN,Hunan Changde,576620
+166,Asia,China,CHN,Hunan Changning,578740
+167,Asia,China,CHN,Hunan Changsha,576870
+168,Asia,China,CHN,Hunan Jishou,576490
+169,Asia,China,CHN,Hunan Lingling,578660
+170,Asia,China,CHN,Hunan Nanxian,575740
+171,Asia,China,CHN,Hunan Shimen,575620
+172,Asia,China,CHN,Hunan Wugang,578530
+173,Asia,China,CHN,Hunan Zhijiang,577450
+174,Asia,China,CHN,Hunan Zhuzhou,577800
+175,Asia,China,CHN,Jiangsu Dongtai,582510
+176,Asia,China,CHN,Jiangsu Ganyu,580400
+177,Asia,China,CHN,Jiangsu Huaiyang-Qingjiang,581440
+178,Asia,China,CHN,Jiangsu Lusi,582650
+179,Asia,China,CHN,Jiangsu Nanjing,582380
+180,Asia,China,CHN,Jiangsu Xuzhou,580270
+181,Asia,China,CHN,Jiangxi Ganzhou,579930
+182,Asia,China,CHN,Jiangxi Jian,577990
+183,Asia,China,CHN,Jiangxi Jingdezhen,585270
+184,Asia,China,CHN,Jiangxi Nanchang,586060
+185,Asia,China,CHN,Jiangxi Nancheng,587150
+186,Asia,China,CHN,Jiangxi Suichuan,578960
+187,Asia,China,CHN,Jiangxi Yichun,577930
+188,Asia,China,CHN,Jiangxi Yushan,586340
+189,Asia,China,CHN,Jilin Baicheng,509360
+190,Asia,China,CHN,Jilin Changchun,541610
+191,Asia,China,CHN,Jilin Donggang,542840
+192,Asia,China,CHN,Jilin Dunhua,541860
+193,Asia,China,CHN,Jilin Linjiang,543740
+194,Asia,China,CHN,Jilin Qian Gorlos,509490
+195,Asia,China,CHN,Jilin Siping,541570
+196,Asia,China,CHN,Jilin Yanji,542920
+197,Asia,China,CHN,Kinjiang Uygar Kashi,517090
+198,Asia,China,CHN,Kinjiang Uygur Kuqa,516440
+199,Asia,China,CHN,Kinjiang Uygur Yining,514310
+200,Asia,China,CHN,Kinjiang Uyhur Hotan,518280
+201,Asia,China,CHN,Liaoning Benxi,543460
+202,Asia,China,CHN,Liaoning Chaoyang,543240
+203,Asia,China,CHN,Liaoning Dalian,546620
+204,Asia,China,CHN,Liaoning Dandong,544970
+205,Asia,China,CHN,Liaoning Jinzhou,543370
+206,Asia,China,CHN,Liaoning Kuandian,544930
+207,Asia,China,CHN,Liaoning Shenyang,543420
+208,Asia,China,CHN,Liaoning Xingcheng,544550
+209,Asia,China,CHN,Liaoning Xinmin,543330
+210,Asia,China,CHN,Liaoning Yingkou,544710
+211,Asia,China,CHN,Liaoning Zhangwu,542360
+212,Asia,China,CHN,Nei Mongol Abag Qi Hot,531920
+213,Asia,China,CHN,Nei Mongol Arxan,507270
+214,Asia,China,CHN,Nei Mongol Bailingmiao,533520
+215,Asia,China,CHN,Nei Mongol Bairin Zuo Qi,540270
+216,Asia,China,CHN,Nei Mongol Bayan Mod,524950
+217,Asia,China,CHN,Nei Mongol Bugt,506320
+218,Asia,China,CHN,Nei Mongol Chifeng,542180
+219,Asia,China,CHN,Nei Mongol Dong Ujimqin Qi,509150
+220,Asia,China,CHN,Nei Mongol Dongsheng,535430
+221,Asia,China,CHN,Nei Mongol Duolun,542080
+222,Asia,China,CHN,Nei Mongol Ejin Qi,522670
+223,Asia,China,CHN,Nei Mongol Erenhot,530680
+224,Asia,China,CHN,Nei Mongol Hailar,505270
+225,Asia,China,CHN,Nei Mongol Hailisu,532310
+226,Asia,China,CHN,Nei Mongol Haliut,533360
+227,Asia,China,CHN,Nei Mongol Hohhot,534630
+228,Asia,China,CHN,Nei Mongol Huade,533910
+229,Asia,China,CHN,Nei Mongol Jartai,535020
+230,Asia,China,CHN,Nei Mongol Jarud Qi,540260
+231,Asia,China,CHN,Nei Mongol Jurh,532760
+232,Asia,China,CHN,Nei Mongol Kailu,541340
+233,Asia,China,CHN,Nei Mongol Linxi,541150
+234,Asia,China,CHN,Nei Mongol Manzhouli,505140
+235,Asia,China,CHN,Nei Mongol Otog Qi,535290
+236,Asia,China,CHN,Nei Mongol Solon,508340
+237,Asia,China,CHN,Nei Mongol Tongliao,541350
+238,Asia,China,CHN,Nei Mongol Tulihe,504340
+239,Asia,China,CHN,Nei Mongol Xi Ujimqin Qi,540120
+240,Asia,China,CHN,Nei Mongol Xilinhot,541020
+241,Asia,China,CHN,Ningxia Hui Guyuan,538170
+242,Asia,China,CHN,Ningxia Hui Yanchi,537230
+243,Asia,China,CHN,Ningxia Hui Yinchuan,536140
+244,Asia,China,CHN,Qinghai Daqaidam,527130
+245,Asia,China,CHN,Qinghai Darlag,560460
+246,Asia,China,CHN,Qinghai Dulan Us,528360
+247,Asia,China,CHN,Qinghai Gangca,527540
+248,Asia,China,CHN,Qinghai Golmud,528180
+249,Asia,China,CHN,Qinghai Haixi Delingha,527370
+250,Asia,China,CHN,Qinghai Lenghu,526020
+251,Asia,China,CHN,Qinghai Madoi,560330
+252,Asia,China,CHN,Qinghai Mangnai,518860
+253,Asia,China,CHN,Qinghai Minhe,528760
+254,Asia,China,CHN,Qinghai Nangqen,561250
+255,Asia,China,CHN,Qinghai Qumarleb,560210
+256,Asia,China,CHN,Qinghai Tuotuohe,560040
+257,Asia,China,CHN,Qinghai Xinghai,529430
+258,Asia,China,CHN,Qinghai Xining,528660
+259,Asia,China,CHN,Qinghai Yushu,560290
+260,Asia,China,CHN,Shaanxi Ankang,572450
+261,Asia,China,CHN,Shaanxi Baoji,570160
+262,Asia,China,CHN,Shaanxi Dingbian,537250
+263,Asia,China,CHN,Shaanxi Hanzhong,571270
+264,Asia,China,CHN,Shaanxi Luochuan,539420
+265,Asia,China,CHN,Shaanxi Suide,537540
+266,Asia,China,CHN,Shaanxi Xian,570360
+267,Asia,China,CHN,Shaanxi Yanan,538450
+268,Asia,China,CHN,Shaanxi Yulin,536460
+269,Asia,China,CHN,Shandong Chaoyang,548080
+270,Asia,China,CHN,Shandong Chengshantou,547760
+271,Asia,China,CHN,Shandong Huimin Xian,547250
+272,Asia,China,CHN,Shandong Jinan,548230
+273,Asia,China,CHN,Shandong Juxian,549360
+274,Asia,China,CHN,Shandong Longkou,547530
+275,Asia,China,CHN,Shandong Weifang,548430
+276,Asia,China,CHN,Shandong Yanzhou,549160
+277,Asia,China,CHN,Shanghai Shanghai,583620
+278,Asia,China,CHN,Shanghai Shanghai,583670
+279,Asia,China,CHN,Shanxi Datong,534870
+280,Asia,China,CHN,Shanxi Houma,539630
+281,Asia,China,CHN,Shanxi Jiexiu,538630
+282,Asia,China,CHN,Shanxi Taiyuan,537720
+283,Asia,China,CHN,Shanxi Yuanping,536730
+284,Asia,China,CHN,Shanxi Yuncheng,539590
+285,Asia,China,CHN,Shanxi Yushe,537870
+286,Asia,China,CHN,Sichuan Barkam,561720
+287,Asia,China,CHN,Sichuan Batang,562470
+288,Asia,China,CHN,Sichuan Chengdu,562940
+289,Asia,China,CHN,Sichuan Garze,561460
+290,Asia,China,CHN,Sichuan Hongyuan,561730
+291,Asia,China,CHN,Sichuan Huili,566710
+292,Asia,China,CHN,Sichuan Jiulong,564620
+293,Asia,China,CHN,Sichuan Leshan,563860
+294,Asia,China,CHN,Sichuan Litang,562570
+295,Asia,China,CHN,Sichuan Luzhou,576020
+296,Asia,China,CHN,Sichuan Mianyang,561960
+297,Asia,China,CHN,Sichuan Nanchong,574110
+298,Asia,China,CHN,Sichuan Songpan,561820
+299,Asia,China,CHN,Sichuan Wanyuan,572370
+300,Asia,China,CHN,Sichuan Xichang,565710
+301,Asia,China,CHN,Sichuan Yibin,564920
+302,Asia,China,CHN,Tianjin Tianjin,545270
+303,Asia,China,CHN,Tibet Lhasa,555910
+304,Asia,China,CHN,Tibet Nyingchi,563120
+305,Asia,China,CHN,Tibet Pagri,557730
+306,Asia,China,CHN,Tibet Qamdo,561370
+307,Asia,China,CHN,Xinjiang Urgur Urumqi,514630
+308,Asia,China,CHN,Xinjiang Uygur Aksu,516280
+309,Asia,China,CHN,Xinjiang Uygur Altay,510760
+310,Asia,China,CHN,Xinjiang Uygur Bachu,517160
+311,Asia,China,CHN,Xinjiang Uygur Fuyun,510870
+312,Asia,China,CHN,Xinjiang Uygur Hami,522030
+313,Asia,China,CHN,Xinjiang Uygur Hoboksar,511560
+314,Asia,China,CHN,Xinjiang Uygur Jinghe,513340
+315,Asia,China,CHN,Xinjiang Uygur Karamay,512430
+316,Asia,China,CHN,Xinjiang Uygur Minfeng,518390
+317,Asia,China,CHN,Xinjiang Uygur Ruoqiang,517770
+318,Asia,China,CHN,Xinjiang Uygur Shache,518110
+319,Asia,China,CHN,Xinjiang Uygur Tacheng,511330
+320,Asia,China,CHN,Xinjiang Uygur Tikanlik,517650
+321,Asia,China,CHN,Xinjiang Uygur Turpan,515730
+322,Asia,China,CHN,Xinjiang Uygur Wusu,513460
+323,Asia,China,CHN,Xinjiang Uygur Yanqi,515670
+324,Asia,China,CHN,Yunnan Chuxiong,567680
+325,Asia,China,CHN,Yunnan Deqen,564440
+326,Asia,China,CHN,Yunnan Kunming,567780
+327,Asia,China,CHN,Yunnan Lancang,569540
+328,Asia,China,CHN,Yunnan Lijiang,566510
+329,Asia,China,CHN,Yunnan Lincang,569510
+330,Asia,China,CHN,Yunnan Mengla,569690
+331,Asia,China,CHN,Yunnan Mengzi,569850
+332,Asia,China,CHN,Yunnan Simao,569640
+333,Asia,China,CHN,Yunnan Tengchong,567390
+334,Asia,China,CHN,Yunnan Yuanjiang,569660
+335,Asia,China,CHN,Zhejiang Dinghai,584770
+336,Asia,China,CHN,Zhejiang Hangzhou,584570
+337,Asia,China,CHN,Zhejiang Hongjia,586650
+338,Asia,China,CHN,Zhejiang Quxian,586330
+339,Asia,China,CHN,Zhejiang Wenzhou,586590
+340,Asia,India,IND,Ahmedabad,426470
+341,Asia,India,IND,Akola,429340
+342,Asia,India,IND,Allahabad,424750
+343,Asia,India,IND,Amritsar,420710
+344,Asia,India,IND,Aurangabad,430140
+345,Asia,India,IND,Bangalore,432950
+346,Asia,India,IND,Barmer,424350
+347,Asia,India,IND,Belgaum,431980
+348,Asia,India,IND,Bhagalpur,424980
+349,Asia,India,IND,Bhopal,426670
+350,Asia,India,IND,Bhubneshwar,429710
+351,Asia,India,IND,Bikaner,421650
+352,Asia,India,IND,Calcutta,428090
+353,Asia,India,IND,Chennai-Madras,432790
+354,Asia,India,IND,Chirtadurg,432330
+355,Asia,India,IND,Dehradun,421110
+356,Asia,India,IND,Dibrugarh,423140
+357,Asia,India,IND,Goa Panjim,431920
+358,Asia,India,IND,Gorakhpur,423790
+359,Asia,India,IND,Guwahati,424100
+360,Asia,India,IND,Gwalior,423610
+361,Asia,India,IND,Hissar,421310
+362,Asia,India,IND,Hyderabad,431280
+363,Asia,India,IND,Imphal,426230
+364,Asia,India,IND,Indore,427540
+365,Asia,India,IND,Jabalpur,426750
+366,Asia,India,IND,Jagdelpur,430410
+367,Asia,India,IND,Jaipur,423480
+368,Asia,India,IND,Jaisalmer,423280
+369,Asia,India,IND,Jamnagar,427340
+370,Asia,India,IND,Jodhpur,423390
+371,Asia,India,IND,Jorhat,424230
+372,Asia,India,IND,Kota,424520
+373,Asia,India,IND,Kurnool,432130
+374,Asia,India,IND,Lucknow,423690
+375,Asia,India,IND,Mangalore,432840
+376,Asia,India,IND,Mumbai,430030
+377,Asia,India,IND,Nagpur,428670
+378,Asia,India,IND,Nellore,432450
+379,Asia,India,IND,New Delhi,421820
+380,Asia,India,IND,Patna,424920
+381,Asia,India,IND,Pune,430630
+382,Asia,India,IND,Raipur,428750
+383,Asia,India,IND,Rajkot,427370
+384,Asia,India,IND,Ramagundam,430860
+385,Asia,India,IND,Ranchi,427010
+386,Asia,India,IND,Ratnagiri,431100
+387,Asia,India,IND,Raxaul,423820
+388,Asia,India,IND,Saharanpur,5217
+389,Asia,India,IND,Shillong,425160
+390,Asia,India,IND,Sholapur,431170
+391,Asia,India,IND,Sundernagar,8204
+392,Asia,India,IND,Surat,428400
+393,Asia,India,IND,Tezpur,424150
+394,Asia,India,IND,Tiruchirapalli,433440
+395,Asia,India,IND,Trivandram,433710
+396,Asia,India,IND,Veraval,429090
+397,Asia,India,IND,Vishakhapatnam,431500
+398,Asia,Islamic Republic of Iran,IRN,Bandar Abass,408750
+399,Asia,Islamic Republic of Iran,IRN,Esfahan,408000
+400,Asia,Islamic Republic of Iran,IRN,Shiraz,408480
+401,Asia,Islamic Republic of Iran,IRN,Tabriz,407060
+402,Asia,Islamic Republic of Iran,IRN,Tehran-Mehrabad,407540
+403,Asia,Islamic Republic of Iran,IRN,Yazd,408210
+404,Asia,Japan,JPN,Kagoshima,478270
+405,Asia,Japan,JPN,Matsumoto,476180
+406,Asia,Japan,JPN,Miho Civ JASDF,477430
+407,Asia,Japan,JPN,Nagoya,476350
+408,Asia,Japan,JPN,Osaka,477710
+409,Asia,Japan,JPN,Sapporo,474120
+410,Asia,Japan,JPN,Shimonoseki,477620
+411,Asia,Japan,JPN,Tokyo Hyakuri,477150
+412,Asia,Japan,JPN,Tosashimizu,478980
+413,Asia,Kazakhstan,KAZ,Semipalatinsk,361770
+414,Asia,Korea,KOR,Inchon,471120
+415,Asia,Korea,KOR,Kangnung,471050
+416,Asia,Korea,KOR,Kwangju,471560
+417,Asia,Korea,KOR,Ulsan,471520
+418,Asia,Kuwait,KWT,KISR Coastal Station,405850
+419,Asia,Kuwait,KWT,Kuwait Intl AP,405820
+420,Asia,Sri Lanka,LKA,Anuradhapura,434210
+421,Asia,Sri Lanka,LKA,Batticaloa,434360
+422,Asia,Sri Lanka,LKA,Colombo-Katunayake,434500
+423,Asia,Sri Lanka,LKA,Colombo-Ratmalana,434670
+424,Asia,Sri Lanka,LKA,Hambantota,434970
+425,Asia,Sri Lanka,LKA,Kankasanturai,434000
+426,Asia,Sri Lanka,LKA,Nuwara Eliya,434730
+427,Asia,Sri Lanka,LKA,Puttalam,434240
+428,Asia,Sri Lanka,LKA,Trincomalee,434180
+429,Asia,Macau,MAC,Macau,450110
+430,Asia,Maldives,MDV,Gan Island,435990
+431,Asia,Maldives,MDV,Male-Hulule Island,435550
+432,Asia,Mongolia,MNG,Ulaanbataar,442920
+433,Asia,Mongolia,MNG,Ulaangom,442120
+434,Asia,Nepal,NPL,Kathmandu,444540
+435,Asia,Nepal,NPL,Surkhet,444160
+436,Asia,Pakistan,PAK,Karachi,417800
+437,Asia,Korea,PRK,Chongjin,470080
+438,Asia,Korea,PRK,Haeju,470690
+439,Asia,Korea,PRK,Pyongyang,470580
+440,Asia,Russia,RUS,Chita,307580
+441,Asia,Russia,RUS,Ekaterinburg,284400
+442,Asia,Russia,RUS,Irkutsk,307100
+443,Asia,Russia,RUS,Omsk,286980
+444,Asia,Russia,RUS,Yakutsk,249590
+445,Asia,Saudi Arabia,SAU,Riyadh,404380
+446,Asia,Thailand,THA,Bangkok,484560
+447,Asia,Taiwan,TWN,Taipei,466960
+448,Asia,Uzbekistan,UZB,Tashkent,384570
+449,Asia,Vietnam,VNM,Hanoi,488200
+450,South America,Argentina,ARG,Buenos Aires,875760
+451,South America,Argentina,ARG,,871550
+452,South America,Argentina,ARG,,871490
+453,South America,Argentina,ARG,,871660
+454,South America,Argentina,ARG,,873930
+455,South America,Argentina,ARG,,872890
+456,South America,Argentina,ARG,,873950
+457,South America,Argentina,ARG,,874970
+458,South America,Argentina,ARG,,873740
+459,South America,Argentina,ARG,,871620
+460,South America,Argentina,ARG,,871780
+461,South America,Argentina,ARG,,870970
+462,South America,Argentina,ARG,,872570
+463,South America,Argentina,ARG,,872700
+464,South America,Argentina,ARG,,874800
+465,South America,Argentina,ARG,,873710
+466,South America,Bolivia,BOL,La Paz,852010
+467,South America,Brazil,BRA,Estacao Comandante Ferraz,892520
+468,South America,Brazil,BRA,Feijo AP,819240
+469,South America,Brazil,BRA,Parque Chandless,819630
+470,South America,Brazil,BRA,Porto Walter,819210
+471,South America,Brazil,BRA,Rio Branco,829150
+472,South America,Brazil,BRA,Arapiraca AP,819960
+473,South America,Brazil,BRA,Coruripe,866190
+474,South America,Brazil,BRA,Maceio-Palmares Intl AP,829930
+475,South America,Brazil,BRA,Maceio,829940
+476,South America,Brazil,BRA,Palmeira dos Indios,829920
+477,South America,Brazil,BRA,Pao de Acucar,819940
+478,South America,Brazil,BRA,Sao Luis do Quitunde,819970
+479,South America,Brazil,BRA,Autazes,817320
+480,South America,Brazil,BRA,Barcelos AP,816480
+481,South America,Brazil,BRA,Coari,817700
+482,South America,Brazil,BRA,Humaita AP,818900
+483,South America,Brazil,BRA,Itacoatiara AP,817330
+484,South America,Brazil,BRA,Manacapuru,817290
+485,South America,Brazil,BRA,Manaus-Gomes Intl AP,823320
+486,South America,Brazil,BRA,Manaus-Gomez Intl AP,817300
+487,South America,Brazil,BRA,Maues,817340
+488,South America,Brazil,BRA,Parintins,817030
+489,South America,Brazil,BRA,Presidente Figueiredo,816990
+490,South America,Brazil,BRA,Urucara AP,817020
+491,South America,Brazil,BRA,Macapa-Alcolumbre Intl AP,820980
+492,South America,Brazil,BRA,Oiapoque,816090
+493,South America,Brazil,BRA,Porto Grande,816370
+494,South America,Brazil,BRA,Tartarugalzinho,816280
+495,South America,Brazil,BRA,Amargosa AP,866750
+496,South America,Brazil,BRA,Barra AP,866340
+497,South America,Brazil,BRA,Barreiras,866520
+498,South America,Brazil,BRA,Belmonte,867440
+499,South America,Brazil,BRA,Bom Jesus da Lapa AP,866720
+500,South America,Brazil,BRA,Brumado,866960
+501,South America,Brazil,BRA,Buritirama AP,866090
+502,South America,Brazil,BRA,Caravelas,834970
+503,South America,Brazil,BRA,Conde,866390
+504,South America,Brazil,BRA,Correntina,866710
+505,South America,Brazil,BRA,Cruz das Almas,866570
+506,South America,Brazil,BRA,Delfino,866100
+507,South America,Brazil,BRA,Euclides da Cunha,866130
+508,South America,Brazil,BRA,Feira de Santana,866580
+509,South America,Brazil,BRA,Guanambi AP,866940
+510,South America,Brazil,BRA,Ibotirama,866530
+511,South America,Brazil,BRA,Ilheus,866990
+512,South America,Brazil,BRA,Ipiau,866980
+513,South America,Brazil,BRA,Irece AP,866350
+514,South America,Brazil,BRA,Itaberaba,832440
+515,South America,Brazil,BRA,Itapetinga,867230
+516,South America,Brazil,BRA,Itirucu,866740
+517,South America,Brazil,BRA,Jacobina,866360
+518,South America,Brazil,BRA,Lencois,866540
+519,South America,Brazil,BRA,Macajuba,866550
+520,South America,Brazil,BRA,Marau,866770
+521,South America,Brazil,BRA,Paulo Afonso,829860
+522,South America,Brazil,BRA,Piata,866730
+523,South America,Brazil,BRA,Porto Seguro,867450
+524,South America,Brazil,BRA,Queimadas,866120
+525,South America,Brazil,BRA,Remanso,829790
+526,South America,Brazil,BRA,Salvador-Magalhaes Intl AP,832480
+527,South America,Brazil,BRA,Salvador,866780
+528,South America,Brazil,BRA,Santa Rita de Cassia,866330
+529,South America,Brazil,BRA,Senhor do Bonfim,830880
+530,South America,Brazil,BRA,Serrinha,866370
+531,South America,Brazil,BRA,Uaua,819920
+532,South America,Brazil,BRA,Una,867240
+533,South America,Brazil,BRA,Valenca,866760
+534,South America,Brazil,BRA,Vitoria da Conquista-Figueiredo AP,866970
+535,South America,Brazil,BRA,Belem-Val de Caes,821930
+536,South America,Brazil,BRA,Belo Horizonte-Pampulha,835830
+537,South America,Brazil,BRA,Boa Vista,820220
+538,South America,Brazil,BRA,Bom Jesus da Lapa,832880
+539,South America,Brazil,BRA,Brasilia,833780
+540,South America,Brazil,BRA,Acarau,817550
+541,South America,Brazil,BRA,Barbalha,819110
+542,South America,Brazil,BRA,Campos Sales,827770
+543,South America,Brazil,BRA,Crateus,818300
+544,South America,Brazil,BRA,Fortaleza-Pinto Martins Intl AP,817580
+545,South America,Brazil,BRA,Fortaleza-Pinto Martins Intl AP,823980
+546,South America,Brazil,BRA,Guaramiranga,824870
+547,South America,Brazil,BRA,Iguatu,818730
+548,South America,Brazil,BRA,Itapipoca,817560
+549,South America,Brazil,BRA,Jaguaribe,818330
+550,South America,Brazil,BRA,Jaguaruana,824930
+551,South America,Brazil,BRA,Morada Nova,825940
+552,South America,Brazil,BRA,Quixeramobim,825860
+553,South America,Brazil,BRA,Taua,818720
+554,South America,Brazil,BRA,Campo Grande,836120
+555,South America,Brazil,BRA,Cuiaba-Marechal Ron,833620
+556,South America,Brazil,BRA,Curitiba-Afonso Pen,838400
+557,South America,Brazil,BRA,Brasilia,867150
+558,South America,Brazil,BRA,Planaltina,867160
+559,South America,Brazil,BRA,Alegre,868280
+560,South America,Brazil,BRA,Alfredo Chaves,868290
+561,South America,Brazil,BRA,Linhares,868050
+562,South America,Brazil,BRA,Nova Venecia,867850
+563,South America,Brazil,BRA,Presidente Kennedy,868530
+564,South America,Brazil,BRA,Santa Teresa,868040
+565,South America,Brazil,BRA,Sao Mateus,867860
+566,South America,Brazil,BRA,Vitoria-Salles AP,836490
+567,South America,Brazil,BRA,Vitoria,868300
+568,South America,Brazil,BRA,Florianopolis,838990
+569,South America,Brazil,BRA,Alto Paraiso de Goias,866910
+570,South America,Brazil,BRA,Aragarcas,833740
+571,South America,Brazil,BRA,Caiaponia,867300
+572,South America,Brazil,BRA,Catalao,867770
+573,South America,Brazil,BRA,Cristalina,867370
+574,South America,Brazil,BRA,Goianesia,867130
+575,South America,Brazil,BRA,Goiania,834230
+576,South America,Brazil,BRA,Goias,867120
+577,South America,Brazil,BRA,Itapaci,866890
+578,South America,Brazil,BRA,Itumbiara,867740
+579,South America,Brazil,BRA,Jatai,867520
+580,South America,Brazil,BRA,Luziania,867360
+581,South America,Brazil,BRA,Mineiros,867510
+582,South America,Brazil,BRA,Monte Alegre de Goias,866700
+583,South America,Brazil,BRA,Morrinhos,867550
+584,South America,Brazil,BRA,Niquelandia,866900
+585,South America,Brazil,BRA,Parauna,867320
+586,South America,Brazil,BRA,Pires do Rio,867560
+587,South America,Brazil,BRA,Posse,866920
+588,South America,Brazil,BRA,Rio Verde,867530
+589,South America,Brazil,BRA,Sao Simao,867730
+590,South America,Brazil,BRA,Jacareacanga,826400
+591,South America,Brazil,BRA,Alto Parnaiba,829700
+592,South America,Brazil,BRA,Bacabal,817900
+593,South America,Brazil,BRA,Balsas,819030
+594,South America,Brazil,BRA,Barra do Corda,818250
+595,South America,Brazil,BRA,Buriticupu,817880
+596,South America,Brazil,BRA,Carolina,819010
+597,South America,Brazil,BRA,Caxias,817920
+598,South America,Brazil,BRA,Chapadinha,817490
+599,South America,Brazil,BRA,Colinas,818660
+600,South America,Brazil,BRA,Estreito,818630
+601,South America,Brazil,BRA,Farol Preguicas,817170
+602,South America,Brazil,BRA,Farol Santana,822770
+603,South America,Brazil,BRA,Grajau,818230
+604,South America,Brazil,BRA,Imperatriz,818220
+605,South America,Brazil,BRA,Sao Luis-Machado Intl AP,822810
+606,South America,Brazil,BRA,Sao Luis,817150
+607,South America,Brazil,BRA,Turiacu,821980
+608,South America,Brazil,BRA,Aguas Vermelhas,867220
+609,South America,Brazil,BRA,Aimores,868030
+610,South America,Brazil,BRA,Almenara,867430
+611,South America,Brazil,BRA,Araxa,867960
+612,South America,Brazil,BRA,Belo Horizonte-Pampulha AP,868000
+613,South America,Brazil,BRA,Buritis,867180
+614,South America,Brazil,BRA,Caldas,868460
+615,South America,Brazil,BRA,Capelinha,867610
+616,South America,Brazil,BRA,Carangola,868230
+617,South America,Brazil,BRA,Caratinga,835920
+618,South America,Brazil,BRA,Chapada Gaucha,867190
+619,South America,Brazil,BRA,Conceicao das Alagoas,867940
+620,South America,Brazil,BRA,Curvelo,867800
+621,South America,Brazil,BRA,Diamantina AP,867810
+622,South America,Brazil,BRA,Dores do Indaia,867970
+623,South America,Brazil,BRA,Espinosa,866950
+624,South America,Brazil,BRA,Florestal,867980
+625,South America,Brazil,BRA,Formiga,868200
+626,South America,Brazil,BRA,Governador Valadares,835430
+627,South America,Brazil,BRA,Guarda-Mor,867570
+628,South America,Brazil,BRA,Ibirite,868210
+629,South America,Brazil,BRA,Itaobim,867420
+630,South America,Brazil,BRA,Ituiutaba,867750
+631,South America,Brazil,BRA,Joao Pinheiro AP,867580
+632,South America,Brazil,BRA,Juiz de Fora,836920
+633,South America,Brazil,BRA,Mantena,867840
+634,South America,Brazil,BRA,Maria da Fe,830150
+635,South America,Brazil,BRA,Mocambinho,867200
+636,South America,Brazil,BRA,Montalvania,866930
+637,South America,Brazil,BRA,Monte Verde AP,868700
+638,South America,Brazil,BRA,Montes Claros,867400
+639,South America,Brazil,BRA,Muriae,868520
+640,South America,Brazil,BRA,Passa Quatro,837370
+641,South America,Brazil,BRA,Passos,868190
+642,South America,Brazil,BRA,Patrocinio,867780
+643,South America,Brazil,BRA,Pirapora AP,867590
+644,South America,Brazil,BRA,Rio Pardo de Minas,867210
+645,South America,Brazil,BRA,Sacramento,867950
+646,South America,Brazil,BRA,Salinas,867410
+647,South America,Brazil,BRA,Sao Joao del Rei,836880
+648,South America,Brazil,BRA,Sao Romao,867390
+649,South America,Brazil,BRA,Serra dos Aimores,867630
+650,South America,Brazil,BRA,Teofilo Otoni,867620
+651,South America,Brazil,BRA,Timoteo,868010
+652,South America,Brazil,BRA,Tres Marias,867790
+653,South America,Brazil,BRA,Uberlandia,867760
+654,South America,Brazil,BRA,Unai AP,834280
+655,South America,Brazil,BRA,Varginha,868480
+656,South America,Brazil,BRA,Vicosa,836420
+657,South America,Brazil,BRA,Amambai,868940
+658,South America,Brazil,BRA,Campo Grande Intl AP,868100
+659,South America,Brazil,BRA,Chapadao do Sul,867720
+660,South America,Brazil,BRA,Corumba Intl AP,835520
+661,South America,Brazil,BRA,Coxim,867700
+662,South America,Brazil,BRA,Dourados,836590
+663,South America,Brazil,BRA,Ivinhema,868600
+664,South America,Brazil,BRA,Juti,868590
+665,South America,Brazil,BRA,Miranda,868070
+666,South America,Brazil,BRA,Nhumirim,867680
+667,South America,Brazil,BRA,Ponta Pora,868570
+668,South America,Brazil,BRA,Porto Murtinho AP,868330
+669,South America,Brazil,BRA,Rio Brilhante,868360
+670,South America,Brazil,BRA,Sete Quedas,868950
+671,South America,Brazil,BRA,Sidrolandia,868090
+672,South America,Brazil,BRA,Tres Lagoas AP,868130
+673,South America,Brazil,BRA,Agua Boa,866860
+674,South America,Brazil,BRA,Alto Taquari,867500
+675,South America,Brazil,BRA,Apiacas,819760
+676,South America,Brazil,BRA,Campo Novo do Parecis,866620
+677,South America,Brazil,BRA,Campo Verde,867070
+678,South America,Brazil,BRA,Carlinda,819780
+679,South America,Brazil,BRA,Comodoro,866610
+680,South America,Brazil,BRA,Confresa,866060
+681,South America,Brazil,BRA,Cotriguacu,829270
+682,South America,Brazil,BRA,Cuiaba,867050
+683,South America,Brazil,BRA,Gaucha do Norte,866660
+684,South America,Brazil,BRA,Guaranta do Norte,819790
+685,South America,Brazil,BRA,Guiratinga,867290
+686,South America,Brazil,BRA,Itiquira,867480
+687,South America,Brazil,BRA,Juara,866250
+688,South America,Brazil,BRA,Juina,866240
+689,South America,Brazil,BRA,Nova Maringa,866630
+690,South America,Brazil,BRA,Novo Mundo,866430
+691,South America,Brazil,BRA,Paranatinga,866840
+692,South America,Brazil,BRA,Pontes de Lacerda,867020
+693,South America,Brazil,BRA,Porto Estrela,867040
+694,South America,Brazil,BRA,Querencia,866470
+695,South America,Brazil,BRA,Rondonopolis,867280
+696,South America,Brazil,BRA,Salto do Ceu,867030
+697,South America,Brazil,BRA,Santo Antonio do Leste,866850
+698,South America,Brazil,BRA,Sao Felix do Araguaia,866280
+699,South America,Brazil,BRA,Sao Jose do Rio Claro,866640
+700,South America,Brazil,BRA,Sinop,866260
+701,South America,Brazil,BRA,Sorriso,866450
+702,South America,Brazil,BRA,Tangara da Serra,866820
+703,South America,Brazil,BRA,Vila Bela da Santissima Trindade,867010
+704,South America,Brazil,BRA,Manaus,823310
+705,South America,Brazil,BRA,Belem,816800
+706,South America,Brazil,BRA,Braganca,816850
+707,South America,Brazil,BRA,Cameta,817100
+708,South America,Brazil,BRA,Castanhal,816820
+709,South America,Brazil,BRA,Conceicao do Araguaia,819400
+710,South America,Brazil,BRA,Itaituba,817780
+711,South America,Brazil,BRA,Maraba,825620
+712,South America,Brazil,BRA,Novo Repartimento,817840
+713,South America,Brazil,BRA,Pacaja,817420
+714,South America,Brazil,BRA,Paragominas,817450
+715,South America,Brazil,BRA,Placas,817370
+716,South America,Brazil,BRA,Rondon do Para,817860
+717,South America,Brazil,BRA,Salinopolis,816600
+718,South America,Brazil,BRA,Santana do Araguaia,819820
+719,South America,Brazil,BRA,Serra dos Carajas,818600
+720,South America,Brazil,BRA,Soure,821410
+721,South America,Brazil,BRA,Tome Acu,817110
+722,South America,Brazil,BRA,Tucurui,817430
+723,South America,Brazil,BRA,Areia,818770
+724,South America,Brazil,BRA,Cabaceiras,819150
+725,South America,Brazil,BRA,Camaratuba,818780
+726,South America,Brazil,BRA,Campina Grande,819160
+727,South America,Brazil,BRA,Joao Pessoa,819180
+728,South America,Brazil,BRA,Monteiro,819140
+729,South America,Brazil,BRA,Patos,819130
+730,South America,Brazil,BRA,Sao Goncalo,817740
+731,South America,Brazil,BRA,Arcoverde,819530
+732,South America,Brazil,BRA,Cabrobo,828860
+733,South America,Brazil,BRA,Caruaru,828950
+734,South America,Brazil,BRA,Floresta,819770
+735,South America,Brazil,BRA,Garanhuns,819550
+736,South America,Brazil,BRA,Ibimirim,819540
+737,South America,Brazil,BRA,Palmares,819570
+738,South America,Brazil,BRA,Petrolina,819910
+739,South America,Brazil,BRA,Recife-Guararapes-Freyre Intl AP,828990
+740,South America,Brazil,BRA,Recife,819580
+741,South America,Brazil,BRA,Serra Talhada,819120
+742,South America,Brazil,BRA,Surubim,819170
+743,South America,Brazil,BRA,Alvorada do Gurgueia,818460
+744,South America,Brazil,BRA,Bom Jesus do Piaui,829750
+745,South America,Brazil,BRA,Caracol,819880
+746,South America,Brazil,BRA,Castelo do Piaui,818290
+747,South America,Brazil,BRA,Esperantina,817510
+748,South America,Brazil,BRA,Floriano,818680
+749,South America,Brazil,BRA,Gilbues,819860
+750,South America,Brazil,BRA,Oeiras,818690
+751,South America,Brazil,BRA,Parnaiba,817520
+752,South America,Brazil,BRA,Paulistana,828820
+753,South America,Brazil,BRA,Picos,827910
+754,South America,Brazil,BRA,Piripiri,817940
+755,South America,Brazil,BRA,Sao Joao do Piaui,818480
+756,South America,Brazil,BRA,Sao Pedro do Piaui,818280
+757,South America,Brazil,BRA,Sao Raimundo Nonato,819890
+758,South America,Brazil,BRA,Teresina,818320
+759,South America,Brazil,BRA,Urucui,819050
+760,South America,Brazil,BRA,Valenca do Piaui,818700
+761,South America,Brazil,BRA,Castro,869210
+762,South America,Brazil,BRA,Cidade Gaucha,868980
+763,South America,Brazil,BRA,Clevelandia,869390
+764,South America,Brazil,BRA,Curitiba,838420
+765,South America,Brazil,BRA,Diamante do Norte,868610
+766,South America,Brazil,BRA,Dois Vizinhos,869270
+767,South America,Brazil,BRA,Foz do Iguacu-Cataratas Intl AP,869250
+768,South America,Brazil,BRA,General Carneiro,869410
+769,South America,Brazil,BRA,Ibaiti,869020
+770,South America,Brazil,BRA,Icaraima,868970
+771,South America,Brazil,BRA,Ilha do Mel,869350
+772,South America,Brazil,BRA,Inacio Martins,869290
+773,South America,Brazil,BRA,Ivai,869300
+774,South America,Brazil,BRA,Joaquim Tavora,869030
+775,South America,Brazil,BRA,Londrina,837680
+776,South America,Brazil,BRA,Marechal Candido Rondon,869160
+777,South America,Brazil,BRA,Maringa,868990
+778,South America,Brazil,BRA,Nova Fatima,869010
+779,South America,Brazil,BRA,Nova Tebas,869190
+780,South America,Brazil,BRA,Paranapoema,868620
+781,South America,Brazil,BRA,Planalto,869260
+782,South America,Brazil,BRA,Petrolina,829840
+783,South America,Brazil,BRA,Porto Nacional,830630
+784,South America,Brazil,BRA,Porto Velho,828240
+785,South America,Brazil,BRA,Arraial do Cabo,868920
+786,South America,Brazil,BRA,Cambuci,868540
+787,South America,Brazil,BRA,Campos dos Goytacazes,868550
+788,South America,Brazil,BRA,Duque de Caxias-Xerem,868770
+789,South America,Brazil,BRA,Farol de Sao Tome,868900
+790,South America,Brazil,BRA,Macae,868910
+791,South America,Brazil,BRA,Niteroi,868810
+792,South America,Brazil,BRA,Paraty,869130
+793,South America,Brazil,BRA,Petropolis-Pico do Couto,868760
+794,South America,Brazil,BRA,Resende,837380
+795,South America,Brazil,BRA,Rio de Janeiro-Galeao-Jobim Intl AP,837460
+796,South America,Brazil,BRA,Rio de Janeiro-Vila Militar,868790
+797,South America,Brazil,BRA,Teresopolis,868880
+798,South America,Brazil,BRA,Valenca,868750
+799,South America,Brazil,BRA,Apodi,818350
+800,South America,Brazil,BRA,Caico,818750
+801,South America,Brazil,BRA,Macau,818360
+802,South America,Brazil,BRA,Mossoro,818340
+803,South America,Brazil,BRA,Natal-Severo Intl AP,825990
+804,South America,Brazil,BRA,Natal,818390
+805,South America,Brazil,BRA,Touros,818380
+806,South America,Brazil,BRA,Ariquemes,819700
+807,South America,Brazil,BRA,Cacoal,866220
+808,South America,Brazil,BRA,Porto Velho,819320
+809,South America,Brazil,BRA,Vilhena,866420
+810,South America,Brazil,BRA,Boa Vista,816150
+811,South America,Brazil,BRA,Alegrete,869750
+812,South America,Brazil,BRA,Bage,839800
+813,South America,Brazil,BRA,Bento Goncalves,869790
+814,South America,Brazil,BRA,Cacapava do Sul,869860
+815,South America,Brazil,BRA,Camaqua,869890
+816,South America,Brazil,BRA,Canela AP,869800
+817,South America,Brazil,BRA,Cangucu,869930
+818,South America,Brazil,BRA,Chui,869980
+819,South America,Brazil,BRA,Cruz Alta,839120
+820,South America,Brazil,BRA,Erechim,869540
+821,South America,Brazil,BRA,Frederico Westphalen,869510
+822,South America,Brazil,BRA,Jaguarao,869960
+823,South America,Brazil,BRA,Lagoa Vermelha,869650
+824,South America,Brazil,BRA,Mostardas,839700
+825,South America,Brazil,BRA,Palmeira das Missoes,869530
+826,South America,Brazil,BRA,Passo Fundo,869630
+827,South America,Brazil,BRA,Porto Alegre-Filho Intl AP,839710
+828,South America,Brazil,BRA,Porto Alegre,869880
+829,South America,Brazil,BRA,Quarai,869820
+830,South America,Brazil,BRA,Rio Pardo,869780
+831,South America,Brazil,BRA,Santa Maria,839360
+832,South America,Brazil,BRA,Santana do Livramento,839530
+833,South America,Brazil,BRA,Santiago,869760
+834,South America,Brazil,BRA,Santo Augusto,869520
+835,South America,Brazil,BRA,Sao Borja,869600
+836,South America,Brazil,BRA,Sao Gabriel,869840
+837,South America,Brazil,BRA,Sao Jose dos Ausentes,869670
+838,South America,Brazil,BRA,Sao Luiz Gonzaga,869610
+839,South America,Brazil,BRA,Soledade,869640
+840,South America,Brazil,BRA,Torres,869810
+841,South America,Brazil,BRA,Tramandai,869900
+842,South America,Brazil,BRA,Uruguaiana,869730
+843,South America,Brazil,BRA,Vacaria,869660
+844,South America,Brazil,BRA,Rio de Janeiro-Santos Dumont,837550
+845,South America,Brazil,BRA,Ararangua,869710
+846,South America,Brazil,BRA,Cacador,869430
+847,South America,Brazil,BRA,Curitibanos AP,869560
+848,South America,Brazil,BRA,Dionisio Cerqueira,869360
+849,South America,Brazil,BRA,Florianopolis,838970
+850,South America,Brazil,BRA,Indaial,838720
+851,South America,Brazil,BRA,Itapoa,869470
+852,South America,Brazil,BRA,Ituporanga,869570
+853,South America,Brazil,BRA,Joacaba-Santa Terezinha Muni AP,869550
+854,South America,Brazil,BRA,Major Vieira,869420
+855,South America,Brazil,BRA,Novo Horizonte,869380
+856,South America,Brazil,BRA,Rio Negrinho,869450
+857,South America,Brazil,BRA,Santa Marta,839250
+858,South America,Brazil,BRA,Sao Joaquim,869690
+859,South America,Brazil,BRA,Sao Miguel do Oeste AP,869370
+860,South America,Brazil,BRA,Urubici,869680
+861,South America,Brazil,BRA,Urussanga,869700
+862,South America,Brazil,BRA,Xanxere,869400
+863,South America,Brazil,BRA,Aracaju,866160
+864,South America,Brazil,BRA,Brejo Grande,866180
+865,South America,Brazil,BRA,Carira,866150
+866,South America,Brazil,BRA,Itabaianinha,866380
+867,South America,Brazil,BRA,Poco Verde,866140
+868,South America,Brazil,BRA,Ariranha,868410
+869,South America,Brazil,BRA,Avare,869040
+870,South America,Brazil,BRA,Bauru,837220
+871,South America,Brazil,BRA,Campinas,837210
+872,South America,Brazil,BRA,Campos do Jordao,868720
+873,South America,Brazil,BRA,Casa Branca,868440
+874,South America,Brazil,BRA,Franca,868180
+875,South America,Brazil,BRA,Ibitinga,868430
+876,South America,Brazil,BRA,Iguape,869230
+877,South America,Brazil,BRA,Itapeva,837740
+878,South America,Brazil,BRA,Itapira,868690
+879,South America,Brazil,BRA,Ituverava,868170
+880,South America,Brazil,BRA,Jales,868140
+881,South America,Brazil,BRA,Jose Bonifacio,868390
+882,South America,Brazil,BRA,Lins,868400
+883,South America,Brazil,BRA,Ourinhos,868660
+884,South America,Brazil,BRA,Piracicaba,868680
+885,South America,Brazil,BRA,Presidente Prudente,837160
+886,South America,Brazil,BRA,Rancharia,868640
+887,South America,Brazil,BRA,Sao Carlos,868450
+888,South America,Brazil,BRA,Sao Luis do Paraitinga,869120
+889,South America,Brazil,BRA,Sao Paulo-Congonhas AP,837800
+890,South America,Brazil,BRA,Sao Paulo,837810
+891,South America,Brazil,BRA,Sorocaba,838510
+892,South America,Brazil,BRA,Taubate,869110
+893,South America,Brazil,BRA,Valparaiso,868380
+894,South America,Brazil,BRA,Votuporanga,868150
+895,South America,Brazil,BRA,Salvador,832290
+896,South America,Brazil,BRA,Araguaina,819000
+897,South America,Brazil,BRA,Araguatins,818210
+898,South America,Brazil,BRA,Dianopolis,866320
+899,South America,Brazil,BRA,Formoso do Araguaia,866290
+900,South America,Brazil,BRA,Gurupi,866300
+901,South America,Brazil,BRA,Palmas,866070
+902,South America,Brazil,BRA,Parana,866500
+903,South America,Brazil,BRA,Pedro Afonso,819410
+904,South America,Brazil,BRA,Peixe,866490
+905,South America,Chile,CHL,Antofagasta,854420
+906,South America,Chile,CHL,Concepcion,856820
+907,South America,Chile,CHL,Easter Island,854690
+908,South America,Chile,CHL,Punta Arenas,859340
+909,South America,Chile,CHL,Santiago,855740
+910,South America,Colombia,COL,Bogota,802220
+911,South America,Ecuador,ECU,Quito,840710
+912,South America,Peru,PER,Arequipa,847520
+913,South America,Peru,PER,Cuzco,846860
+914,South America,Peru,PER,Lima,846280
+915,South America,Paraguay,PRY,Asuncion,862180
+916,South America,Uruguay,URY,Montevideo,865800
+917,South America,Venezuela,VEN,Caracas,804150
+918,North and Central America,Belize,BLZ,Belize,785830
+919,North and Central America,Cuba,CUB,Bahia Honda,783180
+920,North and Central America,Cuba,CUB,Camaguey,783550
+921,North and Central America,Cuba,CUB,Casa Blanca,783250
+922,North and Central America,Cuba,CUB,Cienfuegos,783440
+923,North and Central America,Cuba,CUB,Guantanamo Bay NAS,783670
+924,North and Central America,Cuba,CUB,Havana-Jose Marti,782240
+925,North and Central America,Cuba,CUB,La Bajada,783110
+926,North and Central America,Cuba,CUB,La Fe,783210
+927,North and Central America,Cuba,CUB,Paso Real de San Diego,783170
+928,North and Central America,Cuba,CUB,Pinar del Rio,783150
+929,North and Central America,Cuba,CUB,Playa Giron,783330
+930,North and Central America,Cuba,CUB,Puerto Padre,783580
+931,North and Central America,Cuba,CUB,Punta de Maisi,783690
+932,North and Central America,Cuba,CUB,Sancti Spiritus,783490
+933,North and Central America,Cuba,CUB,Santiago de Cuba,782640
+934,North and Central America,Cuba,CUB,Saua la Grande,783380
+935,North and Central America,Cuba,CUB,Union de Reyes,783270
+936,North and Central America,Cuba,CUB,Varadero,782290
+937,North and Central America,Guatemala,GTM,Flores,786150
+938,North and Central America,Guatemala,GTM,Guatemala-La Aurora,786410
+939,North and Central America,Guatemala,GTM,Huehuetenango,786270
+940,North and Central America,Guatemala,GTM,Puerto Barrios,786370
+941,North and Central America,Guatemala,GTM,San Jose,786470
+942,North and Central America,Honduras,HND,Amapala,787000
+943,North and Central America,Honduras,HND,Catacamas,787140
+944,North and Central America,Honduras,HND,Choluteca,787240
+945,North and Central America,Honduras,HND,La Ceiba-Goloson,787050
+946,North and Central America,Honduras,HND,La Mesa-San Pedro Sula,787080
+947,North and Central America,Honduras,HND,Puerto Lempira,787110
+948,North and Central America,Honduras,HND,Santa Rosa de Copan,787170
+949,North and Central America,Honduras,HND,Tela,787060
+950,North and Central America,Mexico,MEX,Acapulco,768056
+951,North and Central America,Mexico,MEX,Mexico City,766790
+952,North and Central America,Mexico,MEX,Veracruz,766910
+953,North and Central America,Martinique,MTQ,Fort-de-France,789250
+954,North and Central America,Nicaragua,NIC,Chinandega,787390
+955,North and Central America,Nicaragua,NIC,Managua-Augusto CES,787410
+956,North and Central America,Nicaragua,NIC,Rivas,787330
+957,North and Central America,Puerto Rico,PRI,Aguadilla-Borinquen AP,785140
+958,North and Central America,Puerto Rico,PRI,Mayaguez-Eugenio Maria de Hostos AP,785145
+959,North and Central America,Puerto Rico,PRI,Mercedita AP,785203
+960,North and Central America,Puerto Rico,PRI,Roosevelt Roads NAS,785350
+961,North and Central America,Puerto Rico,PRI,San Juan-Luis Munoz Marin Intl AP,785263
+962,North and Central America,Puerto Rico,PRI,San Juan,785260
+963,North and Central America,El Salvador,SLV,Acajutla,786500
+964,North and Central America,El Salvador,SLV,San Salvador-Ilopango,786630
+965,North and Central America,Virgin Islands (U.S.),VIR,Charlotte Amalie-Harry S Truman AP,785430
+966,Southwest Pacific,Australia,AUS,ACT Canberra,949260
+967,Southwest Pacific,Australia,AUS,NSW Armidale Airport,957730
+968,Southwest Pacific,Australia,AUS,NSW Cabramurra,959160
+969,Southwest Pacific,Australia,AUS,NSW Cobar,947110
+970,Southwest Pacific,Australia,AUS,NSW Coffs Harbour,947910
+971,Southwest Pacific,Australia,AUS,NSW Dubbo Airport,957190
+972,Southwest Pacific,Australia,AUS,NSW Mascot-Sydney Airport,947670
+973,Southwest Pacific,Australia,AUS,NSW Moree Aero,955270
+974,Southwest Pacific,Australia,AUS,NSW Nowra RAN Air Station,947500
+975,Southwest Pacific,Australia,AUS,NSW Orange Airport,957260
+976,Southwest Pacific,Australia,AUS,NSW Richmond RAAF,957530
+977,Southwest Pacific,Australia,AUS,NSW Sydney,947680
+978,Southwest Pacific,Australia,AUS,NSW Thredbo Village,959080
+979,Southwest Pacific,Australia,AUS,NSW Wagga Wagga,949100
+980,Southwest Pacific,Australia,AUS,NSW Williamtown RAAF,947760
+981,Southwest Pacific,Australia,AUS,NT Alice Springs Airport,943260
+982,Southwest Pacific,Australia,AUS,NT Darwin,941200
+983,Southwest Pacific,Australia,AUS,NT Tennant Creek,942380
+984,Southwest Pacific,Australia,AUS,QLD Amberley,945680
+985,Southwest Pacific,Australia,AUS,QLD Brisbane,945780
+986,Southwest Pacific,Australia,AUS,QLD Brisbane,94578
+987,Southwest Pacific,Australia,AUS,QLD Cairns Aero,948270
+988,Southwest Pacific,Australia,AUS,QLD Charleville Aero,945100
+989,Southwest Pacific,Australia,AUS,QLD Gladstone Airport,943810
+990,Southwest Pacific,Australia,AUS,QLD Longreach Aero,943460
+991,Southwest Pacific,Australia,AUS,QLD Mackay,943670
+992,Southwest Pacific,Australia,AUS,QLD Mount Isa Aero,943320
+993,Southwest Pacific,Australia,AUS,QLD Oakey Aero,945520
+994,Southwest Pacific,Australia,AUS,QLD Rockhampton Aero,943740
+995,Southwest Pacific,Australia,AUS,QLD Townsville Aero,942940
+996,Southwest Pacific,Australia,AUS,QLD Weipa Aero,941700
+997,Southwest Pacific,Australia,AUS,QLD Willis Island,942990
+998,Southwest Pacific,Australia,AUS,SA Adelaide-Kent Town,946750
+999,Southwest Pacific,Australia,AUS,SA Adelaide,946720
+1000,Southwest Pacific,Australia,AUS,SA Ceduna,946530
+1001,Southwest Pacific,Australia,AUS,SA Mount Gambier Aero,948210
+1002,Southwest Pacific,Australia,AUS,SA Mt Lofty,946780
+1003,Southwest Pacific,Australia,AUS,SA Oodnadatta Airport,944760
+1004,Southwest Pacific,Australia,AUS,SA Woomera Aerodrome,946590
+1005,Southwest Pacific,Australia,AUS,TAS Hobart-Ellerslie Road,949700
+1006,Southwest Pacific,Australia,AUS,TAS Launceston-Ti Tree Bend,949690
+1007,Southwest Pacific,Australia,AUS,TAS Launceston Airport,949680
+1008,Southwest Pacific,Australia,AUS,TAS Low Head,959640
+1009,Southwest Pacific,Australia,AUS,VIC Ballarat Aerodrome,948520
+1010,Southwest Pacific,Australia,AUS,VIC Cape Otway Lighthouse,948420
+1011,Southwest Pacific,Australia,AUS,VIC East Sale Airport,949070
+1012,Southwest Pacific,Australia,AUS,VIC Melbourne,948660
+1013,Southwest Pacific,Australia,AUS,VIC Melbourne,948680
+1014,Southwest Pacific,Australia,AUS,VIC Mildura Airport,946930
+1015,Southwest Pacific,Australia,AUS,VIC Moorabbin Airport,948700
+1016,Southwest Pacific,Australia,AUS,VIC Warrnambool Airport,948370
+1017,Southwest Pacific,Australia,AUS,WA Albany Airport,948020
+1018,Southwest Pacific,Australia,AUS,WA Broome Airport,942030
+1019,Southwest Pacific,Australia,AUS,WA Carnarvon Airport,943000
+1020,Southwest Pacific,Australia,AUS,WA Esperance,946380
+1021,Southwest Pacific,Australia,AUS,WA Forrest,956460
+1022,Southwest Pacific,Australia,AUS,WA Geraldton Airport,944030
+1023,Southwest Pacific,Australia,AUS,WA Giles,94461
+1024,Southwest Pacific,Australia,AUS,WA Halls Creek Airport,942120
+1025,Southwest Pacific,Australia,AUS,WA Kalamunda-Bickley,956100
+1026,Southwest Pacific,Australia,AUS,WA Kalgoorlie-Boulder Airport,946370
+1027,Southwest Pacific,Australia,AUS,WA Katanning,946410
+1028,Southwest Pacific,Australia,AUS,WA Learmonth,943020
+1029,Southwest Pacific,Australia,AUS,WA Mandurah,946050
+1030,Southwest Pacific,Australia,AUS,WA Manjimup,946170
+1031,Southwest Pacific,Australia,AUS,WA Meekatharra Airport,944300
+1032,Southwest Pacific,Australia,AUS,WA Newman Airport,943170
+1033,Southwest Pacific,Australia,AUS,WA Perth,946100
+1034,Southwest Pacific,Australia,AUS,WA Port Hedland,943120
+1035,Southwest Pacific,Australia,AUS,WA Swanbourne,946140
+1036,Southwest Pacific,Australia,AUS,WA Wyndham,942140
+1037,Southwest Pacific,Brunei Darussalam,BRN,Bandar Seri Begawan,963150
+1038,Southwest Pacific,Fiji,FJI,Nadi,916800
+1039,Southwest Pacific,Guam,GUM,Andersen AFB,912180
+1040,Southwest Pacific,Guam,GUM,Tamuning-Won Pat Intl AP,912120
+1041,Southwest Pacific,Marshall Islands,MHL,Kwajalein Atoll,913660
+1042,Southwest Pacific,Malaysia,MYS,George Town,486010
+1043,Southwest Pacific,Malaysia,MYS,Kota Baharu,486150
+1044,Southwest Pacific,Malaysia,MYS,Kuala Lumpur,486470
+1045,Southwest Pacific,Malaysia,MYS,Kuching,964130
+1046,Southwest Pacific,New Zealand,NZL,Auckland-Auckland AK,931190
+1047,Southwest Pacific,New Zealand,NZL,Bay of Plenty-Tauranga BP,931850
+1048,Southwest Pacific,New Zealand,NZL,Canterbury-Christchurch CC,937800
+1049,Southwest Pacific,New Zealand,NZL,Central Otago-Lauder OC,938510
+1050,Southwest Pacific,New Zealand,NZL,East Coast-Napier EC,933730
+1051,Southwest Pacific,New Zealand,NZL,Manawatu-Paraparaumu MW,934200
+1052,Southwest Pacific,New Zealand,NZL,Nelson Marlborough-Nelson NM,935460
+1053,Southwest Pacific,New Zealand,NZL,Northland-Kaitaia NL,930120
+1054,Southwest Pacific,New Zealand,NZL,Otago-Dunedin DN,938910
+1055,Southwest Pacific,New Zealand,NZL,Queenstown Lakes-Queenstown QL,938310
+1056,Southwest Pacific,New Zealand,NZL,Rotorua-Rotorua RR,932470
+1057,Southwest Pacific,New Zealand,NZL,Southland-Invercargill IN,938450
+1058,Southwest Pacific,New Zealand,NZL,Taranaki-New Plymouth NP,933090
+1059,Southwest Pacific,New Zealand,NZL,Taupo King Country-Turangi TP,932450
+1060,Southwest Pacific,New Zealand,NZL,Waikato-Hamilton HN,931730
+1061,Southwest Pacific,New Zealand,NZL,Wairarapa-Masterton WI,934710
+1062,Southwest Pacific,New Zealand,NZL,Wellington-Wellington WN,934360
+1063,Southwest Pacific,New Zealand,NZL,West Coast-Hokitika WC,936150
+1064,Southwest Pacific,Philippines,PHL,Manila,984290
+1065,Southwest Pacific,Palau,PLW,Koror Island,914080
+1066,Southwest Pacific,Singapore,SGP,Singapore,486980
+1067,Southwest Pacific,United States Minor Outlying Islands,UMI,Wake Island,912450
+1068,Europe,Austria,AUT,Graz,112400
+1069,Europe,Austria,AUT,Innsbruck,111200
+1070,Europe,Austria,AUT,Linz,110100
+1071,Europe,Austria,AUT,Salzburg,111500
+1072,Europe,Austria,AUT,Vienna Schwechat,110360
+1073,Europe,Belgium,BEL,Brussels,64510
+1074,Europe,Belgium,BEL,Oostende,64070
+1075,Europe,Belgium,BEL,Saint Hubert,64760
+1076,Europe,Bulgaria,BGR,Plovdiv,156250
+1077,Europe,Bulgaria,BGR,Sofia,156140
+1078,Europe,Bulgaria,BGR,Varna,155520
+1079,Europe,Bosnia and Herzegovina,BIH,Banja Luka,132420
+1080,Europe,Belarus,BLR,Minsk,268500
+1081,Europe,Switzerland,CHE,Geneva,67000
+1082,Europe,Cyprus,CYP,Larnaca,176090
+1083,Europe,Czech Republic,CZE,Ostrava,117820
+1084,Europe,Czech Republic,CZE,Prague,115180
+1085,Europe,Germany,DEU,Berlin,103840
+1086,Europe,Germany,DEU,Bremen,102240
+1087,Europe,Germany,DEU,Dusseldorf,104000
+1088,Europe,Germany,DEU,Frankfurt am Main,106370
+1089,Europe,Germany,DEU,Hamburg,101470
+1090,Europe,Germany,DEU,Koln,105130
+1091,Europe,Germany,DEU,Mannheim,107290
+1092,Europe,Germany,DEU,Munich,108660
+1093,Europe,Germany,DEU,Stuttgart,107380
+1094,Europe,Denmark,DNK,Copenhagen,61800
+1095,Europe,Spain,ESP,Albacete,82800
+1096,Europe,Spain,ESP,Alicante,83600
+1097,Europe,Spain,ESP,Almeria,84870
+1098,Europe,Spain,ESP,Avila,82100
+1099,Europe,Spain,ESP,Badajoz,83300
+1100,Europe,Spain,ESP,Barcelona,81810
+1101,Europe,Spain,ESP,Bilbao,8250
+1102,Europe,Spain,ESP,Burgos,80750
+1103,Europe,Spain,ESP,Caceres,82610
+1104,Europe,Spain,ESP,Castellon,82860
+1105,Europe,Spain,ESP,Ceuta,603200
+1106,Europe,Spain,ESP,Cordoba,84100
+1107,Europe,Spain,ESP,Cuenca,82310
+1108,Europe,Spain,ESP,Gerona,81840
+1109,Europe,Spain,ESP,Granada,84190
+1110,Europe,Spain,ESP,Guadalajara,82260
+1111,Europe,Spain,ESP,Huelva,83830
+1112,Europe,Spain,ESP,Huesca,80940
+1113,Europe,Spain,ESP,Jaen,84170
+1114,Europe,Spain,ESP,La Coruna,80010
+1115,Europe,Spain,ESP,Las Palmas,600300
+1116,Europe,Spain,ESP,Leon,80550
+1117,Europe,Spain,ESP,Lerida,81710
+1118,Europe,Spain,ESP,Logrono,80840
+1119,Europe,Spain,ESP,Lugo,80080
+1120,Europe,Spain,ESP,Madrid,82210
+1121,Europe,Spain,ESP,Malaga,84820
+1122,Europe,Spain,ESP,Melilla,603380
+1123,Europe,Spain,ESP,Murcia,84300
+1124,Europe,Spain,ESP,Orense,80480
+1125,Europe,Spain,ESP,Oviedo,80150
+1126,Europe,Spain,ESP,Palencia,80720
+1127,Europe,Spain,ESP,Palma,83060
+1128,Europe,Spain,ESP,Pamplona,80850
+1129,Europe,Spain,ESP,Pontevedra,80440
+1130,Europe,Spain,ESP,Salamanca,82020
+1131,Europe,Spain,ESP,San Sebastian,80270
+1132,Europe,Spain,ESP,Santander,80230
+1133,Europe,Spain,ESP,Segovia,82130
+1134,Europe,Spain,ESP,Sevilla,83910
+1135,Europe,Spain,ESP,Soria,81480
+1136,Europe,Spain,ESP,Tarragona,81760
+1137,Europe,Spain,ESP,Tenerife,600200
+1138,Europe,Spain,ESP,Teruel,82350
+1139,Europe,Spain,ESP,Toledo,82720
+1140,Europe,Spain,ESP,Valencia,82840
+1141,Europe,Spain,ESP,Valladolid,81410
+1142,Europe,Spain,ESP,Vitoria,80800
+1143,Europe,Spain,ESP,Zamora,81300
+1144,Europe,Spain,ESP,Zaragoza,81600
+1145,Europe,Finland,FIN,Helsinki,29740
+1146,Europe,Finland,FIN,Tampere,29440
+1147,Europe,France,FRA,Bordeaux,75100
+1148,Europe,France,FRA,Brest,71100
+1149,Europe,France,FRA,Clermont-Ferrand,74600
+1150,Europe,France,FRA,Dijon,72800
+1151,Europe,France,FRA,Lyon,74810
+1152,Europe,France,FRA,Marseille,76500
+1153,Europe,France,FRA,Montpellier,76430
+1154,Europe,France,FRA,Nancy,71800
+1155,Europe,France,FRA,Nantes,72220
+1156,Europe,France,FRA,Nice,76900
+1157,Europe,France,FRA,Paris Orly,71490
+1158,Europe,France,FRA,Strasbourg,71900
+1159,Europe,United Kingdom,GBR,Aberdeen Dyce,30910
+1160,Europe,United Kingdom,GBR,Aughton,33220
+1161,Europe,United Kingdom,GBR,Belfast,39170
+1162,Europe,United Kingdom,GBR,Birmingham,35340
+1163,Europe,United Kingdom,GBR,Finningley,33600
+1164,Europe,United Kingdom,GBR,Hemsby,34960
+1165,Europe,United Kingdom,GBR,Jersey Channel Islands,38950
+1166,Europe,United Kingdom,GBR,Leuchars,31710
+1167,Europe,United Kingdom,GBR,London Gatwick,37760
+1168,Europe,United Kingdom,GBR,Oban,31140
+1169,Europe,Greece,GRC,Andravida,166820
+1170,Europe,Greece,GRC,Athens,167160
+1171,Europe,Greece,GRC,Thessaloniki,166220
+1172,Europe,Hungary,HUN,Debrecen,128820
+1173,Europe,Hungary,HUN,Szombathely,128120
+1174,Europe,Ireland,IRL,Belmullet,39760
+1175,Europe,Ireland,IRL,Birr,39650
+1176,Europe,Ireland,IRL,Clones,39740
+1177,Europe,Ireland,IRL,Dublin,39690
+1178,Europe,Ireland,IRL,Kilkenny,39600
+1179,Europe,Ireland,IRL,Malin,39800
+1180,Europe,Ireland,IRL,Valentia Observatory,39530
+1181,Europe,Iceland,ISL,Reykjavik,40300
+1182,Europe,Israel,ISR,Beer Sheva,401900
+1183,Europe,Israel,ISR,Eilat,401990
+1184,Europe,Israel,ISR,Jerusalem-Atarot AP,401840
+1185,Europe,Israel,ISR,Tel Aviv-Bet Dagan,401790
+1186,Europe,Italy,ITA,Alghero,165200
+1187,Europe,Italy,ITA,Ancona-Falconara,161910
+1188,Europe,Italy,ITA,Aviano,160370
+1189,Europe,Italy,ITA,Bari-Palese Macchie,162700
+1190,Europe,Italy,ITA,Bergamo-Orio al Serio,160760
+1191,Europe,Italy,ITA,Bologna-Borgo Panigale,161400
+1192,Europe,Italy,ITA,Bolzano,160200
+1193,Europe,Italy,ITA,Bonifati,163370
+1194,Europe,Italy,ITA,Brescia-Ghedi,160880
+1195,Europe,Italy,ITA,Brindisi,163200
+1196,Europe,Italy,ITA,Cagliari-Elmas,165600
+1197,Europe,Italy,ITA,Campobasso,162520
+1198,Europe,Italy,ITA,Capo Bellavista,165500
+1199,Europe,Italy,ITA,Capo Palinuro,163100
+1200,Europe,Italy,ITA,Catania-Fontanarossa,164600
+1201,Europe,Italy,ITA,Catania-Sigonella,164590
+1202,Europe,Italy,ITA,Cozzo Spadaro,164800
+1203,Europe,Italy,ITA,Crotone,163500
+1204,Europe,Italy,ITA,Enna,164500
+1205,Europe,Italy,ITA,Firenze-Peretola,161700
+1206,Europe,Italy,ITA,Foggia,162610
+1207,Europe,Italy,ITA,Gela,164530
+1208,Europe,Italy,ITA,Genova-Sestri,161200
+1209,Europe,Italy,ITA,Gioia del Colle,163120
+1210,Europe,Italy,ITA,Grosseto,162060
+1211,Europe,Italy,ITA,Lecce,163320
+1212,Europe,Italy,ITA,Marina di,Ravenna
+1213,Europe,Italy,ITA,Messina,164200
+1214,Europe,Italy,ITA,Milan,160660
+1215,Europe,Italy,ITA,Milano-Linate,160800
+1216,Europe,Italy,ITA,Monte Cimone,161340
+1217,Europe,Italy,ITA,Monte Terminillo,162190
+1218,Europe,Italy,ITA,Naples,162890
+1219,Europe,Italy,ITA,Novara-Cameri,160640
+1220,Europe,Italy,ITA,Olbia-Costa Smeralda,165310
+1221,Europe,Italy,ITA,Paganella,160220
+1222,Europe,Italy,ITA,Palermo-Boccadifalco,164000
+1223,Europe,Italy,ITA,Palermo-Punta Raisi,164050
+1224,Europe,Italy,ITA,Parma,161300
+1225,Europe,Italy,ITA,Patelleria,164700
+1226,Europe,Italy,ITA,Perugia,161810
+1227,Europe,Italy,ITA,Pescara,162300
+1228,Europe,Italy,ITA,Piacenza,160840
+1229,Europe,Italy,ITA,,Pianosa
+1230,Europe,Italy,ITA,Pisa-S Gusto,161580
+1231,Europe,Italy,ITA,Ponza,162800
+1232,Europe,Italy,ITA,Potenza,163000
+1233,Europe,Italy,ITA,Pratica di Mare,162450
+1234,Europe,Italy,ITA,Rimini,161490
+1235,Europe,Italy,ITA,Roma-Ciampino,162390
+1236,Europe,Italy,ITA,Roma-Fiumicino,162420
+1237,Europe,Italy,ITA,S Maria di Leuca,163600
+1238,Europe,Italy,ITA,San Remo,161530
+1239,Europe,Italy,ITA,Taranto,163250
+1240,Europe,Italy,ITA,Tarvisio,160400
+1241,Europe,Italy,ITA,Torino-Caselle,160590
+1242,Europe,Italy,ITA,Trapani-Birgi,164290
+1243,Europe,Italy,ITA,Treviso-Istrana,160980
+1244,Europe,Italy,ITA,Treviso-S Angelo,160990
+1245,Europe,Italy,ITA,Trieste,161100
+1246,Europe,Italy,ITA,Udine-Campoformido,160440
+1247,Europe,Italy,ITA,Venezia-Tessera,161050
+1248,Europe,Italy,ITA,Verona-Villafranca,160900
+1249,Europe,Italy,ITA,Vicenza,160940
+1250,Europe,Lithuania,LTU,Kaunas,266290
+1251,Europe,Netherlands,NLD,Amsterdam,62400
+1252,Europe,Netherlands,NLD,Beek,63800
+1253,Europe,Netherlands,NLD,Groningen,62800
+1254,Europe,Norway,NOR,Bergen,13110
+1255,Europe,Norway,NOR,Oslo Fornebu,14880
+1256,Europe,Poland,POL,Bialystok,122950
+1257,Europe,Poland,POL,Bielsko Biala,126000
+1258,Europe,Poland,POL,Bydgoszcz,122400
+1259,Europe,Poland,POL,Chojnice,122350
+1260,Europe,Poland,POL,Czestochowa,125500
+1261,Europe,Poland,POL,Elblag,121600
+1262,Europe,Poland,POL,Gdansk Port Polnocny,121400
+1263,Europe,Poland,POL,Gorzow Wlkp,123000
+1264,Europe,Poland,POL,Hel,121350
+1265,Europe,Poland,POL,Jelenia Gora,125000
+1266,Europe,Poland,POL,Kalisz,124350
+1267,Europe,Poland,POL,Kasprowy Wierch,126500
+1268,Europe,Poland,POL,Katowice,125600
+1269,Europe,Poland,POL,Ketrzyn,121850
+1270,Europe,Poland,POL,Kielce,125700
+1271,Europe,Poland,POL,Klodzko,125200
+1272,Europe,Poland,POL,Kolo,123450
+1273,Europe,Poland,POL,Kolobrzeg,121000
+1274,Europe,Poland,POL,Koszalin,121050
+1275,Europe,Poland,POL,Krakow,125660
+1276,Europe,Poland,POL,Krosno,126700
+1277,Europe,Poland,POL,Leba,121200
+1278,Europe,Poland,POL,Lebork,121250
+1279,Europe,Poland,POL,Legnica,124150
+1280,Europe,Poland,POL,Lesko,126900
+1281,Europe,Poland,POL,Leszno,124180
+1282,Europe,Poland,POL,Lodz,124650
+1283,Europe,Poland,POL,Lublin Radawiec,124950
+1284,Europe,Poland,POL,Mikolajki,122800
+1285,Europe,Poland,POL,Mlawa,122700
+1286,Europe,Poland,POL,Nowy Sacz,126600
+1287,Europe,Poland,POL,Olsztyn,122720
+1288,Europe,Poland,POL,Opole,125300
+1289,Europe,Poland,POL,Ostroleka,122850
+1290,Europe,Poland,POL,Pila,122300
+1291,Europe,Poland,POL,Plock,123600
+1292,Europe,Poland,POL,Poznan,123300
+1293,Europe,Poland,POL,Przemysl,126950
+1294,Europe,Poland,POL,Raciborz,125400
+1295,Europe,Poland,POL,Resko,122100
+1296,Europe,Poland,POL,Rzeszow Jasionka,125800
+1297,Europe,Poland,POL,Sandomierz,125850
+1298,Europe,Poland,POL,Siedlce,123850
+1299,Europe,Poland,POL,Slubice,123100
+1300,Europe,Poland,POL,Sniezka,125100
+1301,Europe,Poland,POL,Sulejow,124690
+1302,Europe,Poland,POL,Suwalki,121950
+1303,Europe,Poland,POL,Swinoujscie,122000
+1304,Europe,Poland,POL,Szczecin,122050
+1305,Europe,Poland,POL,Szczecinek,122150
+1306,Europe,Poland,POL,Tarnow,125750
+1307,Europe,Poland,POL,Terespol,123990
+1308,Europe,Poland,POL,Torun,122500
+1309,Europe,Poland,POL,Ustka,121150
+1310,Europe,Poland,POL,Warsaw,123750
+1311,Europe,Poland,POL,Wielun,124550
+1312,Europe,Poland,POL,Wlodawa,124970
+1313,Europe,Poland,POL,Wroclaw,124240
+1314,Europe,Poland,POL,Zakopane,126250
+1315,Europe,Poland,POL,Zamosc,125950
+1316,Europe,Poland,POL,Zielona Gora,124000
+1317,Europe,Portugal,PRT,Braganca,85750
+1318,Europe,Portugal,PRT,Coimbra,85490
+1319,Europe,Portugal,PRT,Evora,85570
+1320,Europe,Portugal,PRT,Faro,85540
+1321,Europe,Portugal,PRT,Funchal Madeira-Islands,85210
+1322,Europe,Portugal,PRT,Lajes,85090
+1323,Europe,Portugal,PRT,Lisboa,85360
+1324,Europe,Portugal,PRT,Porto,85450
+1325,Europe,Romania,ROU,Bucharest,154200
+1326,Europe,Romania,ROU,Cluj-Napoca,151200
+1327,Europe,Romania,ROU,Constanta,154800
+1328,Europe,Romania,ROU,Craiova,154500
+1329,Europe,Romania,ROU,Galati,153100
+1330,Europe,Romania,ROU,Timisoara,152470
+1331,Europe,Russia,RUS,Arkhangelsk,225500
+1332,Europe,Russia,RUS,Moscow,276120
+1333,Europe,Russia,RUS,Saint-Petersburg,260630
+1334,Europe,Russia,RUS,Samara,289000
+1335,Europe,Serbia,SRB,Belgrade,132720
+1336,Europe,Serbia,SRB,Podgorica,134620
+1337,Europe,Slovakia,SVK,Bratislava,118160
+1338,Europe,Slovakia,SVK,Kosice,119680
+1339,Europe,Slovenia,SVN,Ljubljana,130140
+1340,Europe,Sweden,SWE,Goteborg Landvetter,25260
+1341,Europe,Sweden,SWE,Karlstad,24180
+1342,Europe,Sweden,SWE,Kiruna,20440
+1343,Europe,Sweden,SWE,Ostersund Froson,22260
+1344,Europe,Sweden,SWE,Stockholm Arlanda,24600
+1345,Europe,Syria,SYR,Damascus,400800
+1346,Europe,Turkey,TUR,Ankara,171280
+1347,Europe,Turkey,TUR,Istanbul,170600
+1348,Europe,Turkey,TUR,Izmir,172180
+1349,Europe,Ukraine,UKR,Kiev,333450
+1350,Europe,Ukraine,UKR,Odessa,338370
+1351,North and Central America,United States,USA,AK / Ambler,701718
+1352,North and Central America,United States,USA,AK / Adak NAS,704540
+1353,North and Central America,United States,USA,AK / Anaktuvuk Pass,701625
+1354,North and Central America,United States,USA,AK / Anchorage-Elmendorf AFB,702720
+1355,North and Central America,United States,USA,AK / Anchorage-Lake Hood Seaplane Base,702725
+1356,North and Central America,United States,USA,AK / Anchorage-Merrill Field,702735
+1357,North and Central America,United States,USA,AK / Anchorage,702730
+1358,North and Central America,United States,USA,AK / Aniak AP,702320
+1359,North and Central America,United States,USA,AK / Annette,703980
+1360,North and Central America,United States,USA,AK / Anvik,702075
+1361,North and Central America,United States,USA,AK / Barrow-W Post-W Rogers AP,700260
+1362,North and Central America,United States,USA,AK / Bethel,702190
+1363,North and Central America,United States,USA,AK / Bettles,701740
+1364,North and Central America,United States,USA,AK / Big Delta-Allen AAF,702670
+1365,North and Central America,United States,USA,AK / Big River Lake,702986
+1366,North and Central America,United States,USA,AK / Birchwood,702746
+1367,North and Central America,United States,USA,AK / Chulitna,702606
+1368,North and Central America,United States,USA,AK / Cold Bay,703160
+1369,North and Central America,United States,USA,AK / Cordova,702960
+1370,North and Central America,United States,USA,AK / Deadhorse,700637
+1371,North and Central America,United States,USA,AK / Dillingham AWOS,703210
+1372,North and Central America,United States,USA,AK / Eielson AFB,702650
+1373,North and Central America,United States,USA,AK / Emmonak,702084
+1374,North and Central America,United States,USA,AK / Fairbanks,702610
+1375,North and Central America,United States,USA,AK / Fort Yukon,701940
+1376,North and Central America,United States,USA,AK / Gambell,702040
+1377,North and Central America,United States,USA,AK / Gulkana,702710
+1378,North and Central America,United States,USA,AK / Gustavus,703670
+1379,North and Central America,United States,USA,AK / Hayes River,702495
+1380,North and Central America,United States,USA,AK / Healy River AP,702647
+1381,North and Central America,United States,USA,AK / Homer AP,703410
+1382,North and Central America,United States,USA,AK / Hoonah,702607
+1383,North and Central America,United States,USA,AK / Hooper Bay,702186
+1384,North and Central America,United States,USA,AK / Huslia,702225
+1385,North and Central America,United States,USA,AK / Hydaburg Seaplane Base,703884
+1386,North and Central America,United States,USA,AK / Iliamna AP,703400
+1387,North and Central America,United States,USA,AK / Juneau Intl AP,703810
+1388,North and Central America,United States,USA,AK / Kake Seaplane Base,703855
+1389,North and Central America,United States,USA,AK / Kenai Muni AP,702590
+1390,North and Central America,United States,USA,AK / Ketchikan Intl AP,703950
+1391,North and Central America,United States,USA,AK / King Salmon,703260
+1392,North and Central America,United States,USA,AK / Kodiak,703500
+1393,North and Central America,United States,USA,AK / Kotzebue-Ralph Wein Mem AP,701330
+1394,North and Central America,United States,USA,AK / McGrath,702310
+1395,North and Central America,United States,USA,AK / Mekoryuk,702185
+1396,North and Central America,United States,USA,AK / Middleton Island,703430
+1397,North and Central America,United States,USA,AK / Minchumina,702460
+1398,North and Central America,United States,USA,AK / Nenana Muni AP,702600
+1399,North and Central America,United States,USA,AK / Nome,702000
+1400,North and Central America,United States,USA,AK / Northway AP,702910
+1401,North and Central America,United States,USA,AK / Palmer Muni AP,702740
+1402,North and Central America,United States,USA,AK / Petersburg,703860
+1403,North and Central America,United States,USA,AK / Point Hope AWOS,701043
+1404,North and Central America,United States,USA,AK / Port Heiden,703330
+1405,North and Central America,United States,USA,AK / Saint Marys AWOS,702005
+1406,North and Central America,United States,USA,AK / Sand Point,703165
+1407,North and Central America,United States,USA,AK / Savoonga,702035
+1408,North and Central America,United States,USA,AK / Selawik,700197
+1409,North and Central America,United States,USA,AK / Seward,702770
+1410,North and Central America,United States,USA,AK / Shemya AFB,704140
+1411,North and Central America,United States,USA,AK / Shishmaref AWOS,701195
+1412,North and Central America,United States,USA,AK / Sitka-Japonski Island AP,703710
+1413,North and Central America,United States,USA,AK / Skagway AP,703620
+1414,North and Central America,United States,USA,AK / Sleetmute,703407
+1415,North and Central America,United States,USA,AK / Soldotna,702595
+1416,North and Central America,United States,USA,AK / St Paul Island,703080
+1417,North and Central America,United States,USA,AK / Summit,702640
+1418,North and Central America,United States,USA,AK / Talkeetna,702510
+1419,North and Central America,United States,USA,AK / Tanana-Ralph Calhoun AP,701780
+1420,North and Central America,United States,USA,AK / Togiak Village AWOS,703606
+1421,North and Central America,United States,USA,AK / Unalakleet Field,702070
+1422,North and Central America,United States,USA,AK / Unalaska-Dutch Harbor Field,704890
+1423,North and Central America,United States,USA,AK / Valdez-Pioneer Field,702756
+1424,North and Central America,United States,USA,AK / Valdez,702750
+1425,North and Central America,United States,USA,AK / Whittier,702757
+1426,North and Central America,United States,USA,AK / Wrangell,703870
+1427,North and Central America,United States,USA,AK / Yakutat,703610
+1428,North and Central America,United States,USA,AL / Anniston Metro AP,722287
+1429,North and Central America,United States,USA,AL / Auburn-Opelika AP,722284
+1430,North and Central America,United States,USA,AL / Birmingham,722280
+1431,North and Central America,United States,USA,AL / Dothan Muni AP,722268
+1432,North and Central America,United States,USA,AL / Fort Rucker-Cairns Field,722269
+1433,North and Central America,United States,USA,AL / Gadsen Muni AWOS,722285
+1434,North and Central America,United States,USA,AL / Huntsville,723230
+1435,North and Central America,United States,USA,AL / Maxwell AFB,722265
+1436,North and Central America,United States,USA,AL / Mobile-Downtown AP,722235
+1437,North and Central America,United States,USA,AL / Mobile-Rgnl AP,722230
+1438,North and Central America,United States,USA,AL / Montgomery-Dannelly Field,722260
+1439,North and Central America,United States,USA,AL / Muscle Shoals Rgnl AP,723235
+1440,North and Central America,United States,USA,AL / Troy Air Field,722267
+1441,North and Central America,United States,USA,AL / Tuscaloosa Muni AP,722286
+1442,North and Central America,United States,USA,AR / Batesville AWOS,723448
+1443,North and Central America,United States,USA,AR / Bentonville AWOS,723444
+1444,North and Central America,United States,USA,AR / El Dorado-Goodwin Field,723419
+1445,North and Central America,United States,USA,AR / Fayetteville-Drake Field,723445
+1446,North and Central America,United States,USA,AR / Flippin AWOS,723447
+1447,North and Central America,United States,USA,AR / Fort Smith,723440
+1448,North and Central America,United States,USA,AR / Harrison AP,723446
+1449,North and Central America,United States,USA,AR / Hot Springs Mem AP,723415
+1450,North and Central America,United States,USA,AR / Jonesboro Muni AP,723407
+1451,North and Central America,United States,USA,AR / Little Rock-Adams Field,723403
+1452,North and Central America,United States,USA,AR / Little Rock,723405
+1453,North and Central America,United States,USA,AR / Pine Bluff AP,723417
+1454,North and Central America,United States,USA,AR / Rogers AWOS,723449
+1455,North and Central America,United States,USA,AR / Siloam Spring AWOS,723443
+1456,North and Central America,United States,USA,AR / Springdale Muni AP,723434
+1457,North and Central America,United States,USA,AR / Stuttgart AWOS,723416
+1458,North and Central America,United States,USA,AR / Texarkana-Webb Field,723418
+1459,North and Central America,United States,USA,AR / Walnut Ridge AWOS,723406
+1460,North and Central America,United States,USA,AZ / Casa Grande AWOS,722748
+1461,North and Central America,United States,USA,AZ / Davis-Monthan AFB,722745
+1462,North and Central America,United States,USA,AZ / Douglas-Bisbee Douglas Intl AP,722735
+1463,North and Central America,United States,USA,AZ / Flagstaff-Pulliam AP,723755
+1464,North and Central America,United States,USA,AZ / Grand Canyon National Park AP,723783
+1465,North and Central America,United States,USA,AZ / Kingman AWOS,723700
+1466,North and Central America,United States,USA,AZ / Luke AFB,722785
+1467,North and Central America,United States,USA,AZ / Page Muni AWOS,723710
+1468,North and Central America,United States,USA,AZ / Phoenix-Deer Valley AP,722784
+1469,North and Central America,United States,USA,AZ / Phoenix-Sky Harbor Intl AP,722780
+1470,North and Central America,United States,USA,AZ / Prescott-Love Field,723723
+1471,North and Central America,United States,USA,AZ / Safford AWOS,722747
+1472,North and Central America,United States,USA,AZ / Scottsdale Muni AP,722789
+1473,North and Central America,United States,USA,AZ / Show Low Muni AP,723747
+1474,North and Central America,United States,USA,AZ / Tucson,722740
+1475,North and Central America,United States,USA,AZ / Winslow Muni AP,723740
+1476,North and Central America,United States,USA,AZ / Yuma Intl AP,722800
+1477,North and Central America,United States,USA,AZ / Yuma MCAS,699604
+1478,North and Central America,United States,USA,CA / Alturas,725958
+1479,North and Central America,United States,USA,CA / Arcata,725945
+1480,North and Central America,United States,USA,CA / Bakersfield-Meadows Field,723840
+1481,North and Central America,United States,USA,CA / Barstow-Daggett,723815
+1482,North and Central America,United States,USA,CA / Beale AFB,724837
+1483,North and Central America,United States,USA,CA / Bishop AP,724800
+1484,North and Central America,United States,USA,CA / Blue Canyon AP,725845
+1485,North and Central America,United States,USA,CA / Blythe-Riverside County AP,747188
+1486,North and Central America,United States,USA,CA / Burbank-Glendale-Passadena Bob Hope AP,722880
+1487,North and Central America,United States,USA,CA / Camarillo AWOS,723926
+1488,North and Central America,United States,USA,CA / Camp Pendleton MCAS,722926
+1489,North and Central America,United States,USA,CA / Carlsbad,722927
+1490,North and Central America,United States,USA,CA / China Lake NAF,746120
+1491,North and Central America,United States,USA,CA / Chino AP,722899
+1492,North and Central America,United States,USA,CA / Chula Vista-Brown Field Muni AP,722904
+1493,North and Central America,United States,USA,CA / Concord-Buchanan Field,724936
+1494,North and Central America,United States,USA,CA / Crescent City-Jack McNamara Field,725946
+1495,North and Central America,United States,USA,CA / Edwards AFB,723810
+1496,North and Central America,United States,USA,CA / El Toro MCAS,690140
+1497,North and Central America,United States,USA,CA / Fairfield-Travis AFB,745160
+1498,North and Central America,United States,USA,CA / Fresno,723890
+1499,North and Central America,United States,USA,CA / Fullerton Muni AP,722976
+1500,North and Central America,United States,USA,CA / Hawthorne-Jack Northrop Field,722956
+1501,North and Central America,United States,USA,CA / Hayward Air Terminal,724935
+1502,North and Central America,United States,USA,CA / Imperial County AP,747185
+1503,North and Central America,United States,USA,CA / Lancaster-Gen Wm Fox Field,723816
+1504,North and Central America,United States,USA,CA / Lemoore NAS,747020
+1505,North and Central America,United States,USA,CA / Livermore Muni AP,724927
+1506,North and Central America,United States,USA,CA / Lompoc AWOS,722895
+1507,North and Central America,United States,USA,CA / Long Beach-Daugherty Field,722970
+1508,North and Central America,United States,USA,CA / Los Angeles,722950
+1509,North and Central America,United States,USA,CA / March AFB,722860
+1510,North and Central America,United States,USA,CA / Merced-Macready Field,724815
+1511,North and Central America,United States,USA,CA / Modesto Muni AP,724926
+1512,North and Central America,United States,USA,CA / Montague-Siskiyou County AP,725955
+1513,North and Central America,United States,USA,CA / Monterey NAF,724915
+1514,North and Central America,United States,USA,CA / Mount Shasta,725957
+1515,North and Central America,United States,USA,CA / Mountain View-Moffett Field NAS,745090
+1516,North and Central America,United States,USA,CA / Napa County AP,724955
+1517,North and Central America,United States,USA,CA / Needles AP,723805
+1518,North and Central America,United States,USA,CA / Oakland Intl AP,724930
+1519,North and Central America,United States,USA,CA / Oxnard AP,723927
+1520,North and Central America,United States,USA,CA / Palm Springs-Thermal AP,747187
+1521,North and Central America,United States,USA,CA / Palm Springs Intl AP,722868
+1522,North and Central America,United States,USA,CA / Palmdale AP,723820
+1523,North and Central America,United States,USA,CA / Paso Robles Muni AP,723965
+1524,North and Central America,United States,USA,CA / Point Mugu NAS,723910
+1525,North and Central America,United States,USA,CA / Porterville AWOS,723895
+1526,North and Central America,United States,USA,CA / Red Bluff Muni AP,725910
+1527,North and Central America,United States,USA,CA / Redding Muni AP,725920
+1528,North and Central America,United States,USA,CA / Riverside Muni AP,722869
+1529,North and Central America,United States,USA,CA / Sacramento,724835
+1530,North and Central America,United States,USA,CA / Sacramento Exec AP,724830
+1531,North and Central America,United States,USA,CA / Sacramento Metro AP,724839
+1532,North and Central America,United States,USA,CA / Salinas Muni AP,724917
+1533,North and Central America,United States,USA,CA / San Diego-Lindbergh Field,722900
+1534,North and Central America,United States,USA,CA / San Diego-Miramar NAS,722930
+1535,North and Central America,United States,USA,CA / San Diego-Montgomery Field,722903
+1536,North and Central America,United States,USA,CA / San Diego-North Island NAS,722906
+1537,North and Central America,United States,USA,CA / San Francisco,724940
+1538,North and Central America,United States,USA,CA / San Jose Intl AP,724945
+1539,North and Central America,United States,USA,CA / San Luis Obispo AP,722897
+1540,North and Central America,United States,USA,CA / Sandberg,723830
+1541,North and Central America,United States,USA,CA / Santa Ana-John Wayne AP,722977
+1542,North and Central America,United States,USA,CA / Santa Barbara Muni AP,723925
+1543,North and Central America,United States,USA,CA / Santa Maria,723940
+1544,North and Central America,United States,USA,CA / Santa Monica Muni AP,722885
+1545,North and Central America,United States,USA,CA / Santa Rosa AWOS,724957
+1546,North and Central America,United States,USA,CA / South Lake Tahoe-Lake Tahoe AP,725847
+1547,North and Central America,United States,USA,CA / Stockton Metro AP,724920
+1548,North and Central America,United States,USA,CA / Truckee Tahoe AP,725846
+1549,North and Central America,United States,USA,CA / Twentynine Palms,690150
+1550,North and Central America,United States,USA,CA / Ukiah Muni AP,725905
+1551,North and Central America,United States,USA,CA / Van Nuys AP,722886
+1552,North and Central America,United States,USA,CA / Visalia Muni AWOS,723896
+1553,North and Central America,United States,USA,CA / Yuba County AP,724838
+1554,North and Central America,United States,USA,CO / Akron-Washington County AP,724698
+1555,North and Central America,United States,USA,CO / Alamosa,724620
+1556,North and Central America,United States,USA,CO / Aspen-Pitkin County-Sardy Field,724676
+1557,North and Central America,United States,USA,CO / Aurora-Buckley Field ANGB,724695
+1558,North and Central America,United States,USA,CO / Boulder-Broomfield-Jefferson County AP,724699
+1559,North and Central America,United States,USA,CO / Colorado Springs-Peterson Field,724660
+1560,North and Central America,United States,USA,CO / Cortez-Montezuma County AP,724767
+1561,North and Central America,United States,USA,CO / Craig Moffat AP,725700
+1562,North and Central America,United States,USA,CO / Denver-Stapleton,724690
+1563,North and Central America,United States,USA,CO / Denver Intl AP,725650
+1564,North and Central America,United States,USA,CO / Durango-La Plata County AP,724625
+1565,North and Central America,United States,USA,CO / Eagle,724675
+1566,North and Central America,United States,USA,CO / Fort Collins AWOS,724769
+1567,North and Central America,United States,USA,CO / Golden-NREL,724666
+1568,North and Central America,United States,USA,CO / Grand Junction-Walker Field,724760
+1569,North and Central America,United States,USA,CO / Greeley-Weld County AWOS,724768
+1570,North and Central America,United States,USA,CO / Gunnison County AWOS,724677
+1571,North and Central America,United States,USA,CO / Hayden-Yampa AWOS,725715
+1572,North and Central America,United States,USA,CO / La Junta Muni AP,724635
+1573,North and Central America,United States,USA,CO / Lamar Muni AP,724636
+1574,North and Central America,United States,USA,CO / Leadville-Lake County AP,724673
+1575,North and Central America,United States,USA,CO / Limon Muni AP,724665
+1576,North and Central America,United States,USA,CO / Montrose County AP,724765
+1577,North and Central America,United States,USA,CO / Pueblo,724640
+1578,North and Central America,United States,USA,CO / Rifle-Garfield County Rgnl AP,725717
+1579,North and Central America,United States,USA,CO / Trinidad-Las Animas County AP,724645
+1580,North and Central America,United States,USA,CT / Bridgeport-Sikorsky Mem AP,725040
+1581,North and Central America,United States,USA,CT / Danbury Muni AP,725086
+1582,North and Central America,United States,USA,CT / Groton-New London AP,725046
+1583,North and Central America,United States,USA,CT / Hartford-Bradley Intl AP,725080
+1584,North and Central America,United States,USA,CT / Hartford-Brainard Field,725087
+1585,North and Central America,United States,USA,CT / New Haven-Tweed AP,725045
+1586,North and Central America,United States,USA,CT / Oxford AWOS,725029
+1587,North and Central America,United States,USA,DE / Dover AFB,724088
+1588,North and Central America,United States,USA,DE / Wilmington-New Castle County AP,724089
+1589,North and Central America,United States,USA,FL / Apalachicola,722200
+1590,North and Central America,United States,USA,FL / Crestview-Bob Sikes AP,722215
+1591,North and Central America,United States,USA,FL / Daytona Beach,722056
+1592,North and Central America,United States,USA,FL / Fort Lauderdale Executive AP,722039
+1593,North and Central America,United States,USA,FL / Fort Lauderdale Intl AP,722025
+1594,North and Central America,United States,USA,FL / Fort Myers-Page Field,722106
+1595,North and Central America,United States,USA,FL / Fort Pierce-St Lucie County AP,722103
+1596,North and Central America,United States,USA,FL / Fort Walton Beach-Hurlburt Field,747770
+1597,North and Central America,United States,USA,FL / Gainesville Rgnl AP,722146
+1598,North and Central America,United States,USA,FL / Homestead AFB,722026
+1599,North and Central America,United States,USA,FL / Jacksonville-Craig Field,722068
+1600,North and Central America,United States,USA,FL / Jacksonville,722060
+1601,North and Central America,United States,USA,FL / Jacksonville NAS,722065
+1602,North and Central America,United States,USA,FL / Key West,722010
+1603,North and Central America,United States,USA,FL / Key West NAS,722015
+1604,North and Central America,United States,USA,FL / Lakeland Linder Rgnl AP,722119
+1605,North and Central America,United States,USA,FL / MacDill AFB,747880
+1606,North and Central America,United States,USA,FL / Marathon AP,722016
+1607,North and Central America,United States,USA,FL / Mayport NS,722066
+1608,North and Central America,United States,USA,FL / Melbourne Rgnl AP,722040
+1609,North and Central America,United States,USA,FL / Miami-Kendall-Tamiami Executive AP,722029
+1610,North and Central America,United States,USA,FL / Miami-Opa Locka AP,722024
+1611,North and Central America,United States,USA,FL / Miami,722020
+1612,North and Central America,United States,USA,FL / NASA Shuttle Landing Facility,747946
+1613,North and Central America,United States,USA,FL / Naples Muni AP,722038
+1614,North and Central America,United States,USA,FL / Ocala Muni AWOS,722055
+1615,North and Central America,United States,USA,FL / Orlando-Sanford AP,722057
+1616,North and Central America,United States,USA,FL / Orlando Executive AP,722053
+1617,North and Central America,United States,USA,FL / Orlando Intl AP,722050
+1618,North and Central America,United States,USA,FL / Panama City-Bay County AP,722245
+1619,North and Central America,United States,USA,FL / Pensacola-Forest Sherman NAS,722225
+1620,North and Central America,United States,USA,FL / Pensacola Rgnl AP,722223
+1621,North and Central America,United States,USA,FL / Sarasota-Bradenton Intl AP,722115
+1622,North and Central America,United States,USA,FL / Southwest Florida Intl AP,722108
+1623,North and Central America,United States,USA,FL / St Petersburg-Albert Whitted Station,722104
+1624,North and Central America,United States,USA,FL / St Petersburg-Clearwater Intl AP,722116
+1625,North and Central America,United States,USA,FL / Tallahassee,722140
+1626,North and Central America,United States,USA,FL / Tampa,722110
+1627,North and Central America,United States,USA,FL / Tyndall AFB,747750
+1628,North and Central America,United States,USA,FL / Valparaiso-Elgin AFB,722210
+1629,North and Central America,United States,USA,FL / Vero Beach Muni AP,722045
+1630,North and Central America,United States,USA,FL / West Palm Beach,722030
+1631,North and Central America,United States,USA,FL / Whiting Field NAS,722226
+1632,North and Central America,United States,USA,GA / Albany-Dougherty County AP,722160
+1633,North and Central America,United States,USA,GA / Alma-Bacon County AP,722135
+1634,North and Central America,United States,USA,GA / Athens-Ben Epps AP,723110
+1635,North and Central America,United States,USA,GA / Atlanta-Hartsfield-Jackson Intl AP,722190
+1636,North and Central America,United States,USA,GA / Augusta-Bush-Field,722180
+1637,North and Central America,United States,USA,GA / Brunswick-Golden Isles AP,722136
+1638,North and Central America,United States,USA,GA / Brunswick-Malcolm McKinnon AP,722137
+1639,North and Central America,United States,USA,GA / Columbus,722255
+1640,North and Central America,United States,USA,GA / Dekalb Peachtree AP,722196
+1641,North and Central America,United States,USA,GA / Fort Benning-Lawson Field,722250
+1642,North and Central America,United States,USA,GA / Fulton County AP,722195
+1643,North and Central America,United States,USA,GA / Macon-Middle Georgia Rgnl AP,722170
+1644,North and Central America,United States,USA,GA / Marietta-Dobbins AFB,722270
+1645,North and Central America,United States,USA,GA / Rome-Richard B Russell AP,723200
+1646,North and Central America,United States,USA,GA / Savannah-Hunter AAF,747804
+1647,North and Central America,United States,USA,GA / Savannah,722070
+1648,North and Central America,United States,USA,GA / Valdosta-Moody AFB,747810
+1649,North and Central America,United States,USA,GA / Valdosta Rgnl AP,722166
+1650,North and Central America,United States,USA,GA / Warner Robins AFB,722175
+1651,North and Central America,United States,USA,HI / Barbers Point NAS,911780
+1652,North and Central America,United States,USA,HI / Hilo,912850
+1653,North and Central America,United States,USA,HI / Honolulu,911820
+1654,North and Central America,United States,USA,HI / Kahului,911900
+1655,North and Central America,United States,USA,HI / Kailua-Kaneohe Bay MCAS,911760
+1656,North and Central America,United States,USA,HI / Kapalua-West Maui AP,911904
+1657,North and Central America,United States,USA,HI / Keahole-Kona Intl AP,911975
+1658,North and Central America,United States,USA,HI / Lanai AP,911905
+1659,North and Central America,United States,USA,HI / Lihue,911650
+1660,North and Central America,United States,USA,HI / Molokai AWOS,911860
+1661,North and Central America,United States,USA,IA / Algona Muni AP,725457
+1662,North and Central America,United States,USA,IA / Atlantic Muni AP,725453
+1663,North and Central America,United States,USA,IA / Boone Muni AP,725486
+1664,North and Central America,United States,USA,IA / Burlington Muni AP,725455
+1665,North and Central America,United States,USA,IA / Carroll Muni AP,725468
+1666,North and Central America,United States,USA,IA / Cedar Rapids Muni AP,725450
+1667,North and Central America,United States,USA,IA / Chariton Muni AP,725469
+1668,North and Central America,United States,USA,IA / Charles City Muni AP,725463
+1669,North and Central America,United States,USA,IA / Clarinda Muni AP,725479
+1670,North and Central America,United States,USA,IA / Clinton Muni AWOS,725473
+1671,North and Central America,United States,USA,IA / Council Bluffs Muni AP,725497
+1672,North and Central America,United States,USA,IA / Creston Muni AP,725474
+1673,North and Central America,United States,USA,IA / Decorah Muni AP,725476
+1674,North and Central America,United States,USA,IA / Denison Muni AP,725477
+1675,North and Central America,United States,USA,IA / Des Moines,725460
+1676,North and Central America,United States,USA,IA / Dubuque Rgnl AP,725470
+1677,North and Central America,United States,USA,IA / Estherville Muni AP,726499
+1678,North and Central America,United States,USA,IA / Fairfield Muni AP,726498
+1679,North and Central America,United States,USA,IA / Fort Dodge AWOS,725490
+1680,North and Central America,United States,USA,IA / Fort Madison Muni AP,725483
+1681,North and Central America,United States,USA,IA / Keokuk Muni AP,725456
+1682,North and Central America,United States,USA,IA / Knoxville Muni AP,725493
+1683,North and Central America,United States,USA,IA / Le Mars Muni AP,725484
+1684,North and Central America,United States,USA,IA / Mason City,725485
+1685,North and Central America,United States,USA,IA / Monticello Muni AP,725475
+1686,North and Central America,United States,USA,IA / Muscatine Muni AP,725487
+1687,North and Central America,United States,USA,IA / Newton Muni AP,725464
+1688,North and Central America,United States,USA,IA / Oelwein Muni AP,725488
+1689,North and Central America,United States,USA,IA / Orange City Muni AP,725489
+1690,North and Central America,United States,USA,IA / Ottumwa Industrial AP,725465
+1691,North and Central America,United States,USA,IA / Red Oak Muni AP,725494
+1692,North and Central America,United States,USA,IA / Sheldon Muni AP,725495
+1693,North and Central America,United States,USA,IA / Shenandoah Muni AP,725467
+1694,North and Central America,United States,USA,IA / Sioux City-Sioux Gateway AP,725570
+1695,North and Central America,United States,USA,IA / Spencer Muni AP,726500
+1696,North and Central America,United States,USA,IA / Storm Lake Muni AP,725496
+1697,North and Central America,United States,USA,IA / Washington Muni AP,725454
+1698,North and Central America,United States,USA,IA / Waterloo,725480
+1699,North and Central America,United States,USA,IA / Webster City Muni AP,725478
+1700,North and Central America,United States,USA,ID / Boise,726810
+1701,North and Central America,United States,USA,ID / Burley Muni AP,725867
+1702,North and Central America,United States,USA,ID / Caldwell AWOS,726813
+1703,North and Central America,United States,USA,ID / Coeur dAlene AWOS,727834
+1704,North and Central America,United States,USA,ID / Hailey-Sun Valley AP,725865
+1705,North and Central America,United States,USA,ID / Idaho Falls-Fanning Field,725785
+1706,North and Central America,United States,USA,ID / Lewiston-Nez Perce County AP,727830
+1707,North and Central America,United States,USA,ID / Malad City AP,725786
+1708,North and Central America,United States,USA,ID / Mountain Home AFB,726815
+1709,North and Central America,United States,USA,ID / Pocatello,725780
+1710,North and Central America,United States,USA,ID / Salmon-Lemhi AWOS,726865
+1711,North and Central America,United States,USA,ID / Soda Springs-Tigert AP,725868
+1712,North and Central America,United States,USA,ID / Twin Falls-Magic Valley Rgnl AP-Joslin Field,725866
+1713,North and Central America,United States,USA,IL / Aurora Muni AP,744655
+1714,North and Central America,United States,USA,IL / Belleville-Scott AFB,724338
+1715,North and Central America,United States,USA,IL / Bloomington Normal-Central Illinois Rgnl AP,724397
+1716,North and Central America,United States,USA,IL / Cahokia AP,725314
+1717,North and Central America,United States,USA,IL / Carbondale-Southern Illinois AP,724336
+1718,North and Central America,United States,USA,IL / Chicago-Midway AP,725340
+1719,North and Central America,United States,USA,IL / Chicago-OHare,725300
+1720,North and Central America,United States,USA,IL / Decatur AP,725316
+1721,North and Central America,United States,USA,IL / Du Page AP,725305
+1722,North and Central America,United States,USA,IL / Marion-Williamson County Rgnl AP,724339
+1723,North and Central America,United States,USA,IL / Moline-Quad City Intl AP,725440
+1724,North and Central America,United States,USA,IL / Mount Vernon AWOS,724335
+1725,North and Central America,United States,USA,IL / Peoria-Greater Peoria AP,725320
+1726,North and Central America,United States,USA,IL / Quincy Muni AP,724396
+1727,North and Central America,United States,USA,IL / Rockford-Greater Rockford AP,725430
+1728,North and Central America,United States,USA,IL / Springfield-Capital AP,724390
+1729,North and Central America,United States,USA,IL / Sterling-Rock Falls-Whiteside County AP,725326
+1730,North and Central America,United States,USA,IL / University of Illinois-Willard AP,725315
+1731,North and Central America,United States,USA,IL / Waukegan Rgnl AP,725347
+1732,North and Central America,United States,USA,IN / Delaware County-Johnson Field,725336
+1733,North and Central America,United States,USA,IN / Evansville,724320
+1734,North and Central America,United States,USA,IN / Fort Wayne,725330
+1735,North and Central America,United States,USA,IN / Grissom AFB,725335
+1736,North and Central America,United States,USA,IN / Huntingburg Muni AP,724365
+1737,North and Central America,United States,USA,IN / Indianapolis,724380
+1738,North and Central America,United States,USA,IN / Lafayette-Purdue University AP,724386
+1739,North and Central America,United States,USA,IN / Monroe County AP,724375
+1740,North and Central America,United States,USA,IN / South Bend-Michiana Rgnl AP,725350
+1741,North and Central America,United States,USA,IN / Terre Haute-Hulman Rgnl AP,724373
+1742,North and Central America,United States,USA,KS / Chanute-Martin Johnson AP,724507
+1743,North and Central America,United States,USA,KS / Concordia-Blosser Muni AP,724580
+1744,North and Central America,United States,USA,KS / Dodge City,724510
+1745,North and Central America,United States,USA,KS / Emporia Muni AP,724556
+1746,North and Central America,United States,USA,KS / Fort Riley-Marshall AAF,724550
+1747,North and Central America,United States,USA,KS / Garden City Muni AP,724515
+1748,North and Central America,United States,USA,KS / Goodland-Renner Field,724650
+1749,North and Central America,United States,USA,KS / Great Bend AWOS,724517
+1750,North and Central America,United States,USA,KS / Hays Muni AWOS,724518
+1751,North and Central America,United States,USA,KS / Hill City Muni AP,724655
+1752,North and Central America,United States,USA,KS / Hutchinson Muni AP,724506
+1753,North and Central America,United States,USA,KS / Liberal Muni AP,724516
+1754,North and Central America,United States,USA,KS / Manhattan Rgnl AP,724555
+1755,North and Central America,United States,USA,KS / Newton AWOS,724509
+1756,North and Central America,United States,USA,KS / Olathe-Johnson County Executive AP,724468
+1757,North and Central America,United States,USA,KS / Olathe-Johnson County Industrial AP,724475
+1758,North and Central America,United States,USA,KS / Russell Muni AP,724585
+1759,North and Central America,United States,USA,KS / Salina Muni AP,724586
+1760,North and Central America,United States,USA,KS / Topeka-Forbes AFB,724565
+1761,North and Central America,United States,USA,KS / Topeka-Phillip Billard Muni AP,724560
+1762,North and Central America,United States,USA,KS / Wichita-Col Jabara Field,724504
+1763,North and Central America,United States,USA,KS / Wichita-McConnell AFB,724505
+1764,North and Central America,United States,USA,KS / Wichita-Mid Continent AP,724500
+1765,North and Central America,United States,USA,KY / Bowling Green-Warren County AP,746716
+1766,North and Central America,United States,USA,KY / Cincinnati-Northern Kentucky AP,724210
+1767,North and Central America,United States,USA,KY / Fort Campbell AAF,746710
+1768,North and Central America,United States,USA,KY / Fort Knox-Godman AAF,724240
+1769,North and Central America,United States,USA,KY / Henderson City County AP,724238
+1770,North and Central America,United States,USA,KY / Jackson-Julian Carroll AP,724236
+1771,North and Central America,United States,USA,KY / Lexington-Bluegrass AP,724220
+1772,North and Central America,United States,USA,KY / London-Corbin-Magee Field,724243
+1773,North and Central America,United States,USA,KY / Louisville-Bowman Field,724235
+1774,North and Central America,United States,USA,KY / Louisville-Standiford Field,724230
+1775,North and Central America,United States,USA,KY / Paducah-Barkley Rgnl AP,724350
+1776,North and Central America,United States,USA,KY / Somerset-Pulaski County AWOS,724354
+1777,North and Central America,United States,USA,LA / Alexandria-England AFB,747540
+1778,North and Central America,United States,USA,LA / Alexandria-Esler Rgnl AP,722487
+1779,North and Central America,United States,USA,LA / Barksdale AFB,722485
+1780,North and Central America,United States,USA,LA / Baton Rouge-Ryan AP,722317
+1781,North and Central America,United States,USA,LA / Fort Polk,722390
+1782,North and Central America,United States,USA,LA / Houma-Terrebonne AP,722406
+1783,North and Central America,United States,USA,LA / Lafayette RgnlAP,722405
+1784,North and Central America,United States,USA,LA / Lake Charles,722400
+1785,North and Central America,United States,USA,LA / Lake Charles AP,722404
+1786,North and Central America,United States,USA,LA / Monroe Rgnl AP,722486
+1787,North and Central America,United States,USA,LA / New Iberia,722314
+1788,North and Central America,United States,USA,LA / New Orleans-Alvin Callender Field,722316
+1789,North and Central America,United States,USA,LA / New Orleans-Lakefront AP,722315
+1790,North and Central America,United States,USA,LA / New Orleans Intl AP,722310
+1791,North and Central America,United States,USA,LA / Patterson Mem AP,722329
+1792,North and Central America,United States,USA,LA / Shreveport,722480
+1793,North and Central America,United States,USA,LA / Shreveport Downtown,722484
+1794,North and Central America,United States,USA,MA / Barnstable-Boardman Poland AP,725067
+1795,North and Central America,United States,USA,MA / Beverly Muni AP,725088
+1796,North and Central America,United States,USA,MA / Boston-Logan,725090
+1797,North and Central America,United States,USA,MA / Chicopee Falls-Westover AFB,744910
+1798,North and Central America,United States,USA,MA / Lawrence Muni AP,744904
+1799,North and Central America,United States,USA,MA / Marthas Vineyard AP,725066
+1800,North and Central America,United States,USA,MA / Nantucket Mem AP,725063
+1801,North and Central America,United States,USA,MA / New Bedford Rgnl AP,725065
+1802,North and Central America,United States,USA,MA / North Adams AP,725075
+1803,North and Central America,United States,USA,MA / Norwood Mem AP,725098
+1804,North and Central America,United States,USA,MA / Otis ANGB,725060
+1805,North and Central America,United States,USA,MA / Plymouth Muni AP,725064
+1806,North and Central America,United States,USA,MA / Provincetown AWOS,725073
+1807,North and Central America,United States,USA,MA / Westfield-Barnes Muni AP,744915
+1808,North and Central America,United States,USA,MA / Worcester,725095
+1809,North and Central America,United States,USA,MD / Andrews AFB,745940
+1810,North and Central America,United States,USA,MD / Baltimore-Washington Intl AP,724060
+1811,North and Central America,United States,USA,MD / Hagerstown-Washington County Rgnl AP,724066
+1812,North and Central America,United States,USA,MD / Patuxent River NAS,724040
+1813,North and Central America,United States,USA,MD / Salisbury-Wicomico County Rgnl AP,724045
+1814,North and Central America,United States,USA,ME / Auburn-Lewiston Muni AP,726184
+1815,North and Central America,United States,USA,ME / Augusta AP,726185
+1816,North and Central America,United States,USA,ME / Bangor Intl AP,726088
+1817,North and Central America,United States,USA,ME / Bar Harbor AWOS,726077
+1818,North and Central America,United States,USA,ME / Brunswick NAS,743920
+1819,North and Central America,United States,USA,ME / Caribou,727120
+1820,North and Central America,United States,USA,ME / Edmundston-Northern Aroostook Rgnl AP,726083
+1821,North and Central America,United States,USA,ME / Houlton Intl AP,727033
+1822,North and Central America,United States,USA,ME / Millinocket Muni AP,726196
+1823,North and Central America,United States,USA,ME / Portland,726060
+1824,North and Central America,United States,USA,ME / Presque Isle Muni AP,727130
+1825,North and Central America,United States,USA,ME / Rockland-Knox AWOS,726079
+1826,North and Central America,United States,USA,ME / Sanford Muni AWOS,726064
+1827,North and Central America,United States,USA,ME / Waterville AWOS,726073
+1828,North and Central America,United States,USA,ME / Wiscasset AP,727135
+1829,North and Central America,United States,USA,MI / Alpena,726390
+1830,North and Central America,United States,USA,MI / Ann Arbor Muni AP,725374
+1831,North and Central America,United States,USA,MI / Battle Creek-Kellogg AP,725396
+1832,North and Central America,United States,USA,MI / Benton Harbor-Ross Field-Twin Cities AP,726355
+1833,North and Central America,United States,USA,MI / Cadillac-Wexford County AP,726384
+1834,North and Central America,United States,USA,MI / Chippewa County Intl AP,727344
+1835,North and Central America,United States,USA,MI / Detroit-City AP,725375
+1836,North and Central America,United States,USA,MI / Detroit-Metro AP,725370
+1837,North and Central America,United States,USA,MI / Detroit-Willow Run AP,725376
+1838,North and Central America,United States,USA,MI / Escanaba AWOS,726480
+1839,North and Central America,United States,USA,MI / Flint-Bishop Intl AP,726370
+1840,North and Central America,United States,USA,MI / Grand Rapids-Kent County Intl AP,726350
+1841,North and Central America,United States,USA,MI / Hancock-Houghton County AP,727440
+1842,North and Central America,United States,USA,MI / Houghton-Lake Roscommon County AP,726380
+1843,North and Central America,United States,USA,MI / Howell-Livingston County AP,725378
+1844,North and Central America,United States,USA,MI / Iron Mountain-Ford Field,727437
+1845,North and Central America,United States,USA,MI / Ironwood AWOS,727445
+1846,North and Central America,United States,USA,MI / Jackson-Reynolds Field,725395
+1847,North and Central America,United States,USA,MI / Kalamazoo-Battle Creek Intl AP,726357
+1848,North and Central America,United States,USA,MI / Lansing-Capital City AP,725390
+1849,North and Central America,United States,USA,MI / Manistee AWOS,726385
+1850,North and Central America,United States,USA,MI / Menominee AWOS,726487
+1851,North and Central America,United States,USA,MI / Mount Clemens-Selfridge ANGB,725377
+1852,North and Central America,United States,USA,MI / Muskegon,726360
+1853,North and Central America,United States,USA,MI / Oakland County Intl AP,726375
+1854,North and Central America,United States,USA,MI / Oscoda-Wurtsmith AFB,726395
+1855,North and Central America,United States,USA,MI / Pellston-Emmet County AP,727347
+1856,North and Central America,United States,USA,MI / Rhinelander-Oneida County AP,727415
+1857,North and Central America,United States,USA,MI / Saginaw-Tri City Intl AP,726379
+1858,North and Central America,United States,USA,MI / Sault Ste Marie-Sanderson Field,727340
+1859,North and Central America,United States,USA,MI / St Clair County Intl AP,725384
+1860,North and Central America,United States,USA,MI / Traverse City-Cherry Capital AP,726387
+1861,North and Central America,United States,USA,MN / Aitkin AWOS,727504
+1862,North and Central America,United States,USA,MN / Albert Lea AWOS,726589
+1863,North and Central America,United States,USA,MN / Alexandria Muni AP,726557
+1864,North and Central America,United States,USA,MN / Austin Muni AP,727566
+1865,North and Central America,United States,USA,MN / Baudette Intl AP,727476
+1866,North and Central America,United States,USA,MN / Bemidji Muni AP,727550
+1867,North and Central America,United States,USA,MN / Benson Muni AP,727507
+1868,North and Central America,United States,USA,MN / Brainerd-Crow Wing County AP,726555
+1869,North and Central America,United States,USA,MN / Cambridge Muni AP,727503
+1870,North and Central America,United States,USA,MN / Cloquet AWOS,726558
+1871,North and Central America,United States,USA,MN / Crane Lake AWOS,727473
+1872,North and Central America,United States,USA,MN / Crookston Muni Field,727452
+1873,North and Central America,United States,USA,MN / Detroit Lakes AWOS,727457
+1874,North and Central America,United States,USA,MN / Duluth,727450
+1875,North and Central America,United States,USA,MN / Edin Prairie-Flying Cloud AP,726579
+1876,North and Central America,United States,USA,MN / Ely Muni AP,727459
+1877,North and Central America,United States,USA,MN / Eveleth Muni AWOS,727474
+1878,North and Central America,United States,USA,MN / Fairmont Muni AWOS,726586
+1879,North and Central America,United States,USA,MN / Faribault Muni AWOS,726563
+1880,North and Central America,United States,USA,MN / Fergus Falls AWOS,726560
+1881,North and Central America,United States,USA,MN / Fosston AWOS,727505
+1882,North and Central America,United States,USA,MN / Glenwood AWOS,726547
+1883,North and Central America,United States,USA,MN / Grand Rapids AWOS,727458
+1884,North and Central America,United States,USA,MN / Hallock,727478
+1885,North and Central America,United States,USA,MN / Hibbing-Chisholm Hibbing AP,727455
+1886,North and Central America,United States,USA,MN / Hutchinson AWOS,726569
+1887,North and Central America,United States,USA,MN / International Falls,727470
+1888,North and Central America,United States,USA,MN / Litchfield Muni AP,726583
+1889,North and Central America,United States,USA,MN / Little Falls AWOS,726578
+1890,North and Central America,United States,USA,MN / Mankato AWOS,726585
+1891,North and Central America,United States,USA,MN / Marshall Muni-Ryan Field AWOS,726559
+1892,North and Central America,United States,USA,MN / Minneapolis-Crystal AP,726575
+1893,North and Central America,United States,USA,MN / Minneapolis-St Paul,726580
+1894,North and Central America,United States,USA,MN / Mora Muni AWOS,727475
+1895,North and Central America,United States,USA,MN / Morris Muni AWOS,726565
+1896,North and Central America,United States,USA,MN / New Ulm Muni AWOS,726567
+1897,North and Central America,United States,USA,MN / Orr Rgnl AP,726544
+1898,North and Central America,United States,USA,MN / Owatonna AWOS,726568
+1899,North and Central America,United States,USA,MN / Park Rapids Muni AP,727453
+1900,North and Central America,United States,USA,MN / Pipestone AWOS,726566
+1901,North and Central America,United States,USA,MN / Red Wing Muni AP,726564
+1902,North and Central America,United States,USA,MN / Redwood Falls Muni AP,726556
+1903,North and Central America,United States,USA,MN / Rochester,726440
+1904,North and Central America,United States,USA,MN / Roseau Muni AWOS,727477
+1905,North and Central America,United States,USA,MN / Saint Cloud,726550
+1906,North and Central America,United States,USA,MN / Silver Bay Muni AP,727556
+1907,North and Central America,United States,USA,MN / South St Paul Muni AP,726603
+1908,North and Central America,United States,USA,MN / St Paul-Downtown AP,726584
+1909,North and Central America,United States,USA,MN / Thief River AWOS,727555
+1910,North and Central America,United States,USA,MN / Two Harbors Muni AP,727444
+1911,North and Central America,United States,USA,MN / Wheaton AWOS,727533
+1912,North and Central America,United States,USA,MN / Willmar Muni AP,726576
+1913,North and Central America,United States,USA,MN / Winona Muni AWOS,726588
+1914,North and Central America,United States,USA,MN / Worthington AWOS,726587
+1915,North and Central America,United States,USA,MO / Cape Girardeau Muni AP,723489
+1916,North and Central America,United States,USA,MO / Columbia,724450
+1917,North and Central America,United States,USA,MO / Farmington Rgnl AP,724454
+1918,North and Central America,United States,USA,MO / Fort Leonard Wood-Forney AAF,724457
+1919,North and Central America,United States,USA,MO / Jefferson City Mem AP,724458
+1920,North and Central America,United States,USA,MO / Joplin Muni AP,723495
+1921,North and Central America,United States,USA,MO / Kaiser-Lee Fine Mem AWOS,724459
+1922,North and Central America,United States,USA,MO / Kansas City,724460
+1923,North and Central America,United States,USA,MO / Kansas City Downtown AP,724463
+1924,North and Central America,United States,USA,MO / Kirksville Muni AP,724455
+1925,North and Central America,United States,USA,MO / Poplar Bluff AWOS,723300
+1926,North and Central America,United States,USA,MO / Rolla National AP,724456
+1927,North and Central America,United States,USA,MO / Springfield,724400
+1928,North and Central America,United States,USA,MO / St Joseph-Rosecrans Mem AP,724490
+1929,North and Central America,United States,USA,MO / St Louis-Lambert Intl AP,724340
+1930,North and Central America,United States,USA,MO / St Louis-Spirit of St Louis AP,724345
+1931,North and Central America,United States,USA,MO / Whiteman AFB,724467
+1932,North and Central America,United States,USA,MS / Biloxi-Keesler AFB,747686
+1933,North and Central America,United States,USA,MS / Columbus AFB,723306
+1934,North and Central America,United States,USA,MS / Golden Triangle Rgnl AWOS,723307
+1935,North and Central America,United States,USA,MS / Greenville Muni AP,722356
+1936,North and Central America,United States,USA,MS / Greenwood-Leflore AP,722359
+1937,North and Central America,United States,USA,MS / Gulfport-Biloxi Intl AP,747685
+1938,North and Central America,United States,USA,MS / Hattiesburg-Laurel AP,722348
+1939,North and Central America,United States,USA,MS / Jackson,722350
+1940,North and Central America,United States,USA,MS / McComb-Pike Co AP,722358
+1941,North and Central America,United States,USA,MS / Meridian-Key Field,722340
+1942,North and Central America,United States,USA,MS / Meridian NAS,722345
+1943,North and Central America,United States,USA,MS / Natchez-Hardy Anders Field,722357
+1944,North and Central America,United States,USA,MS / Tupelo Muni-C D Lemons AP,723320
+1945,North and Central America,United States,USA,MT / Billings-Logan Intl AP,726770
+1946,North and Central America,United States,USA,MT / Bozeman-Gallatin Field,726797
+1947,North and Central America,United States,USA,MT / Butte-Bert Mooney AP,726785
+1948,North and Central America,United States,USA,MT / Cut Bank,727796
+1949,North and Central America,United States,USA,MT / Dillon,726796
+1950,North and Central America,United States,USA,MT / Glasgow,727680
+1951,North and Central America,United States,USA,MT / Glendive AWOS,726676
+1952,North and Central America,United States,USA,MT / Great Falls,727755
+1953,North and Central America,United States,USA,MT / Great Falls Intl AP,727750
+1954,North and Central America,United States,USA,MT / Havre City-County AP,727770
+1955,North and Central America,United States,USA,MT / Helena,727720
+1956,North and Central America,United States,USA,MT / Kalispell-Glacier Park Intl AP,727790
+1957,North and Central America,United States,USA,MT / Lewistown,726776
+1958,North and Central America,United States,USA,MT / Livingston-Mission Field,726798
+1959,North and Central America,United States,USA,MT / Miles City,742300
+1960,North and Central America,United States,USA,MT / Missoula,727730
+1961,North and Central America,United States,USA,MT / Sidney-Richland Muni AP,727687
+1962,North and Central America,United States,USA,MT / Wolf Point Intl AP,727686
+1963,North and Central America,United States,USA,NC / Asheville,723150
+1964,North and Central America,United States,USA,NC / Cape Hatteras,723040
+1965,North and Central America,United States,USA,NC / Charlotte-Douglas Intl AP,723140
+1966,North and Central America,United States,USA,NC / Cherry Point MCAS,723090
+1967,North and Central America,United States,USA,NC / Elizabeth City CGAS,746943
+1968,North and Central America,United States,USA,NC / Fayetteville-Pope AFB,723030
+1969,North and Central America,United States,USA,NC / Fayetteville Muni AP,723035
+1970,North and Central America,United States,USA,NC / Fort Bragg-Simmons AAF,746930
+1971,North and Central America,United States,USA,NC / Goldsboro-Seymour Johnson AFB,723066
+1972,North and Central America,United States,USA,NC / Greensboro-Piedmont Triad Intl AP,723170
+1973,North and Central America,United States,USA,NC / Hickory Rgnl AP,723145
+1974,North and Central America,United States,USA,NC / Jacksonville AWOS,723069
+1975,North and Central America,United States,USA,NC / Kinston Stallings AFB,723067
+1976,North and Central America,United States,USA,NC / Manteo-Dare County Rgnl AP,723046
+1977,North and Central America,United States,USA,NC / New Bern-Craven County Rgnl AP,723095
+1978,North and Central America,United States,USA,NC / New River MCAS,723096
+1979,North and Central America,United States,USA,NC / Pitt Greenville AP,723065
+1980,North and Central America,United States,USA,NC / Raleigh-Durham,723060
+1981,North and Central America,United States,USA,NC / Rocky Mount-Wilson AP,723068
+1982,North and Central America,United States,USA,NC / Southern Pines-Moore County AP,723143
+1983,North and Central America,United States,USA,NC / Wilmington,723013
+1984,North and Central America,United States,USA,NC / Winston Salem-Smith Reynolds AP,723193
+1985,North and Central America,United States,USA,ND / Bismarck,727640
+1986,North and Central America,United States,USA,ND / Devils Lake AWOS,727573
+1987,North and Central America,United States,USA,ND / Dickinson Muni AP,727645
+1988,North and Central America,United States,USA,ND / Fargo-Hector Intl AP,727530
+1989,North and Central America,United States,USA,ND / Grand Forks AFB,727575
+1990,North and Central America,United States,USA,ND / Grand Forks Intl AP,727576
+1991,North and Central America,United States,USA,ND / Jamestown Muni AP,727535
+1992,North and Central America,United States,USA,ND / Minot,727676
+1993,North and Central America,United States,USA,ND / Minot AFB,727675
+1994,North and Central America,United States,USA,ND / Williston-Sloulin Field Intl AP,727670
+1995,North and Central America,United States,USA,NE / Ainsworth Muni AP,725556
+1996,North and Central America,United States,USA,NE / Alliance Muni AP,725635
+1997,North and Central America,United States,USA,NE / Beatrice Muni AP,725515
+1998,North and Central America,United States,USA,NE / Bellevue-Offutt AFB,725540
+1999,North and Central America,United States,USA,NE / Broken Bow Muni AP,725555
+2000,North and Central America,United States,USA,NE / Chadron Muni AP,725636
+2001,North and Central America,United States,USA,NE / Columbus Muni AP,725565
+2002,North and Central America,United States,USA,NE / Falls City-Brenner Field,725533
+2003,North and Central America,United States,USA,NE / Fremont Muni AP,725564
+2004,North and Central America,United States,USA,NE / Grand Island-Central Nebraska Rgnl AP,725520
+2005,North and Central America,United States,USA,NE / Hastings Muni AP,725525
+2006,North and Central America,United States,USA,NE / Holdrege-Brewster Field,725628
+2007,North and Central America,United States,USA,NE / Imperial Muni AP,725626
+2008,North and Central America,United States,USA,NE / Kearney Muni AWOS,725526
+2009,North and Central America,United States,USA,NE / Lincoln Muni AP,725510
+2010,North and Central America,United States,USA,NE / McCook Muni AP,725625
+2011,North and Central America,United States,USA,NE / Norfolk-Karl Stefan Mem AP,725560
+2012,North and Central America,United States,USA,NE / North Platte,725620
+2013,North and Central America,United States,USA,NE / ONeill-Baker Field,725566
+2014,North and Central America,United States,USA,NE / Omaha-Eppley Airfield,725500
+2015,North and Central America,United States,USA,NE / Omaha WSFO,725530
+2016,North and Central America,United States,USA,NE / Ord-Sharp Field,725524
+2017,North and Central America,United States,USA,NE / Scottsbluff-W B Heilig Field,725660
+2018,North and Central America,United States,USA,NE / Sidney Muni AP,725610
+2019,North and Central America,United States,USA,NE / Tekamah AWOS,725527
+2020,North and Central America,United States,USA,NE / Valentine-Miller Field,725670
+2021,North and Central America,United States,USA,NH / Berlin Muni AP,726160
+2022,North and Central America,United States,USA,NH / Concord,726050
+2023,North and Central America,United States,USA,NH / Keene-Dillant Hopkins AP,726165
+2024,North and Central America,United States,USA,NH / Laconia Muni AWOS,726155
+2025,North and Central America,United States,USA,NH / Lebanon Muni AP,726116
+2026,North and Central America,United States,USA,NH / Manchester Muni AP,743945
+2027,North and Central America,United States,USA,NH / Mount Washington,726130
+2028,North and Central America,United States,USA,NH / Pease Intl Tradeport,726055
+2029,North and Central America,United States,USA,NJ / Atlantic City,724070
+2030,North and Central America,United States,USA,NJ / Belmar-Monmouth County AP,724084
+2031,North and Central America,United States,USA,NJ / Caldwell-Essex County AP,724094
+2032,North and Central America,United States,USA,NJ / Cape May County AP,745966
+2033,North and Central America,United States,USA,NJ / McGuire AFB,724096
+2034,North and Central America,United States,USA,NJ / Millville Muni AP,724075
+2035,North and Central America,United States,USA,NJ / Newark,725020
+2036,North and Central America,United States,USA,NJ / Teterboro AP,725025
+2037,North and Central America,United States,USA,NJ / Trenton-Mercer County AP,724095
+2038,North and Central America,United States,USA,NM / Albuquerque,723650
+2039,North and Central America,United States,USA,NM / Carlsbad Cavern City Air Terminal,722687
+2040,North and Central America,United States,USA,NM / Clayton Muni AP,723600
+2041,North and Central America,United States,USA,NM / Clovis-Cannon AFB,722686
+2042,North and Central America,United States,USA,NM / Clovis Muni AWOS,722689
+2043,North and Central America,United States,USA,NM / Deming Muni AP,722725
+2044,North and Central America,United States,USA,NM / Farmington-Four Corners Rgnl AP,723658
+2045,North and Central America,United States,USA,NM / Gallup-Sen Clarke Field,723627
+2046,North and Central America,United States,USA,NM / Holloman AFB,747320
+2047,North and Central America,United States,USA,NM / Las Cruces Intl AP,722695
+2048,North and Central America,United States,USA,NM / Las Vegas-Muni AP,723677
+2049,North and Central America,United States,USA,NM / Los Alamos,723654
+2050,North and Central America,United States,USA,NM / Roswell Industrial Air Park,722680
+2051,North and Central America,United States,USA,NM / Ruidoso-Sierra Blanca Rgnl AP,722683
+2052,North and Central America,United States,USA,NM / Santa Fe County Muni AP,723656
+2053,North and Central America,United States,USA,NM / Taos Muni AP,723663
+2054,North and Central America,United States,USA,NM / Truth or Consequences Muni AP,722710
+2055,North and Central America,United States,USA,NM / Tucumcari,723676
+2056,North and Central America,United States,USA,NV / Elko,725825
+2057,North and Central America,United States,USA,NV / Ely-Yelland Field,724860
+2058,North and Central America,United States,USA,NV / Fallon NAS,724885
+2059,North and Central America,United States,USA,NV / Las Vegas-McCarran Intl AP,723860
+2060,North and Central America,United States,USA,NV / Lovelock-Derby Field,725805
+2061,North and Central America,United States,USA,NV / Mercury-Desert Rock AP,723870
+2062,North and Central America,United States,USA,NV / Nellis AFB,723865
+2063,North and Central America,United States,USA,NV / Reno-Tahoe Intl AP,724880
+2064,North and Central America,United States,USA,NV / Tonopah,724855
+2065,North and Central America,United States,USA,NV / Winnemucca,725830
+2066,North and Central America,United States,USA,NV / Yucca Flats,723850
+2067,North and Central America,United States,USA,NY / Albany,725180
+2068,North and Central America,United States,USA,NY / Binghamton-Edwin A Link Field,725150
+2069,North and Central America,United States,USA,NY / Buffalo-Greater Buffalo Intl AP,725280
+2070,North and Central America,United States,USA,NY / Elmira Rgnl AP,725156
+2071,North and Central America,United States,USA,NY / Fort Drum-Wheeler Sack AAF,743700
+2072,North and Central America,United States,USA,NY / Glens Falls-Bennett Mem AP,725185
+2073,North and Central America,United States,USA,NY / Islip-Long Island MacArthur AP,725035
+2074,North and Central America,United States,USA,NY / Jamestown AWOS,725235
+2075,North and Central America,United States,USA,NY / Massena,726223
+2076,North and Central America,United States,USA,NY / Monticello AWOS,725145
+2077,North and Central America,United States,USA,NY / New York-Central Park,725033
+2078,North and Central America,United States,USA,NY / New York-J F Kennedy Intl AP,744860
+2079,North and Central America,United States,USA,NY / New York-LaGuardia AP,725030
+2080,North and Central America,United States,USA,NY / New York City-Central Park,94728
+2081,North and Central America,United States,USA,NY / Newburgh-Stewart Intl AP,725038
+2082,North and Central America,United States,USA,NY / Niagara Falls Intl AP,725287
+2083,North and Central America,United States,USA,NY / Poughkeepsie-Dutchess County AP,725036
+2084,North and Central America,United States,USA,NY / Republic AP,744864
+2085,North and Central America,United States,USA,NY / Rochester-Greater Rochester Intl AP,725290
+2086,North and Central America,United States,USA,NY / Saranac Lake-Adirondack Rgnl AP,726228
+2087,North and Central America,United States,USA,NY / Syracuse-Hancock Intl AP,725190
+2088,North and Central America,United States,USA,NY / Utica-Oneida County AP,725197
+2089,North and Central America,United States,USA,NY / Watertown AP,726227
+2090,North and Central America,United States,USA,NY / Westhampton-Suffolk County AP,744865
+2091,North and Central America,United States,USA,NY / White Plains-Westchester County AP,725037
+2092,North and Central America,United States,USA,OH / Akron,725210
+2093,North and Central America,United States,USA,OH / Cincinnati Muni AP-Lunken Field,724297
+2094,North and Central America,United States,USA,OH / Cleveland-Burke Lakefront AP,725245
+2095,North and Central America,United States,USA,OH / Cleveland-Hopkins Intl AP,725240
+2096,North and Central America,United States,USA,OH / Columbus-Port Columbus Intl AP,724280
+2097,North and Central America,United States,USA,OH / Dayton-Wright Patterson AFB,745700
+2098,North and Central America,United States,USA,OH / Dayton Intl AP,724290
+2099,North and Central America,United States,USA,OH / Findlay AP,725366
+2100,North and Central America,United States,USA,OH / Mansfield-Lahm Muni AP,725246
+2101,North and Central America,United States,USA,OH / Ohio State University AP,724288
+2102,North and Central America,United States,USA,OH / Toledo,725360
+2103,North and Central America,United States,USA,OH / Youngstown,725250
+2104,North and Central America,United States,USA,OH / Zanesville Muni AP,724286
+2105,North and Central America,United States,USA,OK / Altus AFB,723520
+2106,North and Central America,United States,USA,OK / Bartlesville-Phillips Field,723565
+2107,North and Central America,United States,USA,OK / Clinton Sherman AP,723526
+2108,North and Central America,United States,USA,OK / Fort Sill-Henry Post AAF,723550
+2109,North and Central America,United States,USA,OK / Gage AP,723527
+2110,North and Central America,United States,USA,OK / Hobart Muni AP,723525
+2111,North and Central America,United States,USA,OK / Lawton Muni AP,723575
+2112,North and Central America,United States,USA,OK / McAlester Rgnl AP,723566
+2113,North and Central America,United States,USA,OK / Oklahoma City-Tinker AFB,723540
+2114,North and Central America,United States,USA,OK / Oklahoma City-Wiley Post Field,723544
+2115,North and Central America,United States,USA,OK / Oklahoma City-Will Rogers World AP,723530
+2116,North and Central America,United States,USA,OK / Ponca City Muni AP,723546
+2117,North and Central America,United States,USA,OK / Stillwater Rgnl AP,723545
+2118,North and Central America,United States,USA,OK / Tulsa,723560
+2119,North and Central America,United States,USA,OK / Vance AFB,723535
+2120,North and Central America,United States,USA,OR / Astoria,727910
+2121,North and Central America,United States,USA,OR / Aurora State AP,726959
+2122,North and Central America,United States,USA,OR / Baker Muni AP,726886
+2123,North and Central America,United States,USA,OR / Burns,726830
+2124,North and Central America,United States,USA,OR / Corvallis Muni AP,726945
+2125,North and Central America,United States,USA,OR / Eugene-Mahlon Sweet AP,726930
+2126,North and Central America,United States,USA,OR / Klamath Falls Intl AP,725895
+2127,North and Central America,United States,USA,OR / La Grande Muni AP,726884
+2128,North and Central America,United States,USA,OR / Lakeview AWOS,725976
+2129,North and Central America,United States,USA,OR / Medford-Rogue Valley Intl AP,725970
+2130,North and Central America,United States,USA,OR / North Bend,726917
+2131,North and Central America,United States,USA,OR / Pendleton-Eastern Oregon Rgnl AP,726880
+2132,North and Central America,United States,USA,OR / Portland-Hillsboro AP,726986
+2133,North and Central America,United States,USA,OR / Portland-Troutdale AP,726985
+2134,North and Central America,United States,USA,OR / Portland,726980
+2135,North and Central America,United States,USA,OR / Redmond-Roberts Field,726835
+2136,North and Central America,United States,USA,OR / Roseburg Rgnl AP,726904
+2137,North and Central America,United States,USA,OR / Salem-McNary Field,726940
+2138,North and Central America,United States,USA,OR / Sexton Summit,725975
+2139,North and Central America,United States,USA,PA / Allentown-Lehigh Valley Intl AP,725170
+2140,North and Central America,United States,USA,PA / Altoona-Blair County AP,725126
+2141,North and Central America,United States,USA,PA / Bradford,725266
+2142,North and Central America,United States,USA,PA / Butler County AWOS,725124
+2143,North and Central America,United States,USA,PA / DuBois-Jefferson County AP,725125
+2144,North and Central America,United States,USA,PA / Erie,725260
+2145,North and Central America,United States,USA,PA / Franklin-Chess Lemberton AP,725267
+2146,North and Central America,United States,USA,PA / Harrisburg-Capital City AP,725118
+2147,North and Central America,United States,USA,PA / Harrisburg,725115
+2148,North and Central America,United States,USA,PA / Johnstown-Cambria County AP,725127
+2149,North and Central America,United States,USA,PA / Lancaster AP,725116
+2150,North and Central America,United States,USA,PA / Philadelphia-NE Philadelphia AP,724085
+2151,North and Central America,United States,USA,PA / Philadelphia,724086
+2152,North and Central America,United States,USA,PA / Philadelphia Intl AP,724080
+2153,North and Central America,United States,USA,PA / Pittsburgh-Allegheny County AP,725205
+2154,North and Central America,United States,USA,PA / Pittsburgh,725200
+2155,North and Central America,United States,USA,PA / Reading Mem AP-Spaatz Field,725103
+2156,North and Central America,United States,USA,PA / State College-Penn State University,725128
+2157,North and Central America,United States,USA,PA / Washington AWOS,725117
+2158,North and Central America,United States,USA,PA / Wilkes-Barre-Scranton Intl AP,725130
+2159,North and Central America,United States,USA,PA / Williamsport,725140
+2160,North and Central America,United States,USA,RI / Block Island State AP,725058
+2161,North and Central America,United States,USA,RI / Pawtucket AWOS,725054
+2162,North and Central America,United States,USA,RI / Providence-T F Green State AP,725070
+2163,North and Central America,United States,USA,SC / Anderson County AP,723125
+2164,North and Central America,United States,USA,SC / Beaufort MCAS,722085
+2165,North and Central America,United States,USA,SC / Charleston,722080
+2166,North and Central America,United States,USA,SC / Columbia,723100
+2167,North and Central America,United States,USA,SC / Florence Rgnl AP,723106
+2168,North and Central America,United States,USA,SC / Greenville-Downtown AP,723119
+2169,North and Central America,United States,USA,SC / Greenville-Spartanburg,723120
+2170,North and Central America,United States,USA,SC / Myrtle Beach AFB,747910
+2171,North and Central America,United States,USA,SC / North Myrtle Beach-Grand Strand Field,747915
+2172,North and Central America,United States,USA,SC / Shaw AFB,747900
+2173,North and Central America,United States,USA,SD / Aberdeen Rgnl AP,726590
+2174,North and Central America,United States,USA,SD / Brookings AWOS,726515
+2175,North and Central America,United States,USA,SD / Ellsworth AFB,726625
+2176,North and Central America,United States,USA,SD / Huron,726540
+2177,North and Central America,United States,USA,SD / Mitchell AWOS,726545
+2178,North and Central America,United States,USA,SD / Mobridge Muni AP,726685
+2179,North and Central America,United States,USA,SD / Pierre,726686
+2180,North and Central America,United States,USA,SD / Rapid City,726620
+2181,North and Central America,United States,USA,SD / Sioux Falls-Foss Field,726510
+2182,North and Central America,United States,USA,SD / Watertown Muni AP,726546
+2183,North and Central America,United States,USA,SD / Yankton-Chan Gurney Muni AP,726525
+2184,North and Central America,United States,USA,TN / Bristol-TriCities Rgnl AP,723183
+2185,North and Central America,United States,USA,TN / Chattanooga-Lovell Field AP,723240
+2186,North and Central America,United States,USA,TN / Crossville Mem AP,723265
+2187,North and Central America,United States,USA,TN / Dyersburg Muni AP,723347
+2188,North and Central America,United States,USA,TN / Jackson-McKellar Sipes Rgnl AP,723346
+2189,North and Central America,United States,USA,TN / Knoxville-McGhee Tyson AP,723260
+2190,North and Central America,United States,USA,TN / Memphis,723340
+2191,North and Central America,United States,USA,TN / Nashville,723270
+2192,North and Central America,United States,USA,TX / Abilene-Dyess AFB,690190
+2193,North and Central America,United States,USA,TX / Abilene,722660
+2194,North and Central America,United States,USA,TX / Alice Intl AP,722517
+2195,North and Central America,United States,USA,TX / Amarillo,723630
+2196,North and Central America,United States,USA,TX / Austin-Camp Mabry,722544
+2197,North and Central America,United States,USA,TX / Austin-Mueller Muni AP,722540
+2198,North and Central America,United States,USA,TX / Beaumont-Port Arthur,722410
+2199,North and Central America,United States,USA,TX / Brownsville-South Padre Island AP,722500
+2200,North and Central America,United States,USA,TX / Childress Muni AP,723604
+2201,North and Central America,United States,USA,TX / College Station-Easterwood Field,722445
+2202,North and Central America,United States,USA,TX / Corpus Christi,722510
+2203,North and Central America,United States,USA,TX / Corpus Christi NAS,722515
+2204,North and Central America,United States,USA,TX / Cotulla AP,722526
+2205,North and Central America,United States,USA,TX / Cox Field,722587
+2206,North and Central America,United States,USA,TX / Dalhart Muni AP,722636
+2207,North and Central America,United States,USA,TX / Dallas-Addison AP,722598
+2208,North and Central America,United States,USA,TX / Dallas-Fort Worth Intl AP,722590
+2209,North and Central America,United States,USA,TX / Dallas-Love Field,722583
+2210,North and Central America,United States,USA,TX / Dallas-Redbird AP,722599
+2211,North and Central America,United States,USA,TX / Del Rio-Laughlin AFB,722615
+2212,North and Central America,United States,USA,TX / Del Rio,722610
+2213,North and Central America,United States,USA,TX / Draughon-Miller Central Texas AP,722577
+2214,North and Central America,United States,USA,TX / El Paso,722700
+2215,North and Central America,United States,USA,TX / Fort Hood,722570
+2216,North and Central America,United States,USA,TX / Fort Worth-Alliance AP,722594
+2217,North and Central America,United States,USA,TX / Fort Worth-Meacham AP,722596
+2218,North and Central America,United States,USA,TX / Fort Worth-Stephenville-Clark Field,722600
+2219,North and Central America,United States,USA,TX / Fort Worth NAS,722595
+2220,North and Central America,United States,USA,TX / Galveston,722420
+2221,North and Central America,United States,USA,TX / Georgetown AWOS,722547
+2222,North and Central America,United States,USA,TX / Greenville Muni AP,722588
+2223,North and Central America,United States,USA,TX / Harlingen-Valley Intl AP,722505
+2224,North and Central America,United States,USA,TX / Hondo Muni AP,722533
+2225,North and Central America,United States,USA,TX / Houston-Bush Intercontinental AP,722430
+2226,North and Central America,United States,USA,TX / Houston-D W Hooks AP,722429
+2227,North and Central America,United States,USA,TX / Houston-Ellington AFB,722436
+2228,North and Central America,United States,USA,TX / Houston-William P Hobby AP,722435
+2229,North and Central America,United States,USA,TX / Killeen-Fort Hood Rgnl AP,722576
+2230,North and Central America,United States,USA,TX / Killeen Muni AWOS,722575
+2231,North and Central America,United States,USA,TX / Kingsville,722516
+2232,North and Central America,United States,USA,TX / Laredo Intl AP,722520
+2233,North and Central America,United States,USA,TX / Longview-Gregg County AP,722470
+2234,North and Central America,United States,USA,TX / Lubbock,722670
+2235,North and Central America,United States,USA,TX / Lufkin-Angelina Co AP,722446
+2236,North and Central America,United States,USA,TX / Marfa AP,722640
+2237,North and Central America,United States,USA,TX / McAllen-Miller Intl AP,722506
+2238,North and Central America,United States,USA,TX / McGregor AWOS,722563
+2239,North and Central America,United States,USA,TX / Midland-Odessa,722650
+2240,North and Central America,United States,USA,TX / Mineral Wells Muni AP,722597
+2241,North and Central America,United States,USA,TX / Nacogdoches AWOS,722499
+2242,North and Central America,United States,USA,TX / Palacios Muni AP,722555
+2243,North and Central America,United States,USA,TX / Randolph AFB,722536
+2244,North and Central America,United States,USA,TX / Rockport-Aransas Co AP,722524
+2245,North and Central America,United States,USA,TX / San Angelo-Mathis AP,722630
+2246,North and Central America,United States,USA,TX / San Antonio-Kelly AFB,722535
+2247,North and Central America,United States,USA,TX / San Antonio-Stinson AP,722523
+2248,North and Central America,United States,USA,TX / San Antonio Intl AP,722530
+2249,North and Central America,United States,USA,TX / Sherman-Perrin AFB,722541
+2250,North and Central America,United States,USA,TX / Tyler-Pounds Field,722448
+2251,North and Central America,United States,USA,TX / Victoria,722550
+2252,North and Central America,United States,USA,TX / Waco,722560
+2253,North and Central America,United States,USA,TX / Wichita Falls,723510
+2254,North and Central America,United States,USA,TX / Wink-Winkler County AP,722656
+2255,North and Central America,United States,USA,UT / Blanding Muni AP,724723
+2256,North and Central America,United States,USA,UT / Bryce Canyon AP,724756
+2257,North and Central America,United States,USA,UT / Cedar City,724755
+2258,North and Central America,United States,USA,UT / Delta Muni AP,724795
+2259,North and Central America,United States,USA,UT / Hanksville AP,724735
+2260,North and Central America,United States,USA,UT / Moab-Canyonlands Field,724776
+2261,North and Central America,United States,USA,UT / Ogden-Hill AFB,725755
+2262,North and Central America,United States,USA,UT / Ogden-Hinkley AP,725750
+2263,North and Central America,United States,USA,UT / Provo Muni AWOS,725724
+2264,North and Central America,United States,USA,UT / Saint George AWOS,724754
+2265,North and Central America,United States,USA,UT / Salt Lake City,725720
+2266,North and Central America,United States,USA,UT / Vernal AP,725705
+2267,North and Central America,United States,USA,UT / Wendover USAF Auxiliary Field,725810
+2268,North and Central America,United States,USA,VA / Abingdon-Virgina Highlands AP,724058
+2269,North and Central America,United States,USA,VA / Arlington-Ronald Reagan Washington Natl AP,724050
+2270,North and Central America,United States,USA,VA / Blacksburg-Virginia Tech AP,724113
+2271,North and Central America,United States,USA,VA / Charlottesville-Albemarle County AP,724016
+2272,North and Central America,United States,USA,VA / Danville Rgnl AP,724106
+2273,North and Central America,United States,USA,VA / Davison AAF,724037
+2274,North and Central America,United States,USA,VA / Farmville Muni AP,724017
+2275,North and Central America,United States,USA,VA / Franklin Muni AP,723083
+2276,North and Central America,United States,USA,VA / Fredericksburg-Shannon AP,724033
+2277,North and Central America,United States,USA,VA / Hillsville-Twin County AP,724107
+2278,North and Central America,United States,USA,VA / Hot Springs-Ingalls Field,724115
+2279,North and Central America,United States,USA,VA / Langley AFB,745980
+2280,North and Central America,United States,USA,VA / Leesburg Muni AP-Godfrey Field,724055
+2281,North and Central America,United States,USA,VA / Lynchburg,724100
+2282,North and Central America,United States,USA,VA / Manassas Muni AWOS,724036
+2283,North and Central America,United States,USA,VA / Marion-Wytheville-Mountain Empire AP,724056
+2284,North and Central America,United States,USA,VA / Martinsville-Blue Ridge AP,745985
+2285,North and Central America,United States,USA,VA / Melfa-Accomack County AP,724026
+2286,North and Central America,United States,USA,VA / Newport News,723086
+2287,North and Central America,United States,USA,VA / Norfolk,723080
+2288,North and Central America,United States,USA,VA / Norfolk NAS,723085
+2289,North and Central America,United States,USA,VA / Oceana NAS,723075
+2290,North and Central America,United States,USA,VA / Petersburg Muni AP,724014
+2291,North and Central America,United States,USA,VA / Pulaski-New River Valley AP,724116
+2292,North and Central America,United States,USA,VA / Quantico MCAS,724035
+2293,North and Central America,United States,USA,VA / Richmond,724010
+2294,North and Central America,United States,USA,VA / Roanoke,724110
+2295,North and Central America,United States,USA,VA / Staunton-Shenandoah Valley Rgnl AP,724105
+2296,North and Central America,United States,USA,VA / Sterling-Washington Dulles,724030
+2297,North and Central America,United States,USA,VA / Winchester Rgnl AP,724053
+2298,North and Central America,United States,USA,VA / Wise-Lonesome Pine AP,724117
+2299,North and Central America,United States,USA,VT / Burlington,726170
+2300,North and Central America,United States,USA,VT / Montpelier AP,726145
+2301,North and Central America,United States,USA,VT / Rutland State AP,725165
+2302,North and Central America,United States,USA,VT / Springfield-Hartnes State AP,726115
+2303,North and Central America,United States,USA,WA / Bellingham Intl AP,727976
+2304,North and Central America,United States,USA,WA / Bremerton National AP,727928
+2305,North and Central America,United States,USA,WA / Ephrata Muni AP,727826
+2306,North and Central America,United States,USA,WA / Fairchild AFB,727855
+2307,North and Central America,United States,USA,WA / Fort Lewis-Gray AAF,742070
+2308,North and Central America,United States,USA,WA / Hanford,727840
+2309,North and Central America,United States,USA,WA / Hoquiam AP,727923
+2310,North and Central America,United States,USA,WA / Kelso AP,727924
+2311,North and Central America,United States,USA,WA / Moses Lake-Grant County AP,727827
+2312,North and Central America,United States,USA,WA / Olympia,727920
+2313,North and Central America,United States,USA,WA / Pasco-Tri Cities AP,727845
+2314,North and Central America,United States,USA,WA / Port Angeles-William R Fairchild Intl AP,727885
+2315,North and Central America,United States,USA,WA / Pullman-Moscow Rgnl AP,727857
+2316,North and Central America,United States,USA,WA / Quillayute,727970
+2317,North and Central America,United States,USA,WA / Renton Muni AP,727934
+2318,North and Central America,United States,USA,WA / Seattle-Boeing Field,727935
+2319,North and Central America,United States,USA,WA / Seattle-Tacoma,727930
+2320,North and Central America,United States,USA,WA / Snohomish County AP,727937
+2321,North and Central America,United States,USA,WA / Spokane-Felts Field,727856
+2322,North and Central America,United States,USA,WA / Spokane Intl AP,727850
+2323,North and Central America,United States,USA,WA / Stampede Pass,727815
+2324,North and Central America,United States,USA,WA / Tacoma-McChord AFB,742060
+2325,North and Central America,United States,USA,WA / Tacoma Narrows AP,727938
+2326,North and Central America,United States,USA,WA / The Dalles Muni AP,726988
+2327,North and Central America,United States,USA,WA / Toledo-Winlock-Ed Carlson Mem AP,727926
+2328,North and Central America,United States,USA,WA / Walla Walla City-County AP,727846
+2329,North and Central America,United States,USA,WA / Wenatchee-Pangborn Mem AP,727825
+2330,North and Central America,United States,USA,WA / Whidbey Island NAS,690230
+2331,North and Central America,United States,USA,WA / Yakima,727810
+2332,North and Central America,United States,USA,WI / Appleton-Outagamie County AP,726457
+2333,North and Central America,United States,USA,WI / Eau Claire,726435
+2334,North and Central America,United States,USA,WI / Ephraim AWOS,726626
+2335,North and Central America,United States,USA,WI / Green Bay-Austin Straubel Intl AP,726450
+2336,North and Central America,United States,USA,WI / Janesville-Rock County AP,726415
+2337,North and Central America,United States,USA,WI / La Crosse,726430
+2338,North and Central America,United States,USA,WI / Lone Rock AP,726416
+2339,North and Central America,United States,USA,WI / Madison-Dane County Rgnl AP,726410
+2340,North and Central America,United States,USA,WI / Manitowac Muni AWOS,726455
+2341,North and Central America,United States,USA,WI / Marshfield Muni AP,726574
+2342,North and Central America,United States,USA,WI / Milwaukee-Mitchell Intl AP,726400
+2343,North and Central America,United States,USA,WI / Minocqua-Woodruff-Lee Field,726404
+2344,North and Central America,United States,USA,WI / Mosinee-Central Wisconsin AP,726465
+2345,North and Central America,United States,USA,WI / Phillips-Price County AP,726468
+2346,North and Central America,United States,USA,WI / Rice Lake Muni AP,726467
+2347,North and Central America,United States,USA,WI / Sturgeon Bay-Door County AP,726458
+2348,North and Central America,United States,USA,WI / Watertown Muni AP,726464
+2349,North and Central America,United States,USA,WI / Wausau Muni AP,726463
+2350,North and Central America,United States,USA,WI / Wittman Rgnl AP,726456
+2351,North and Central America,United States,USA,WV / Beckley-Raleigh County Mem AP,724120
+2352,North and Central America,United States,USA,WV / Bluefield-Mercer County AP,724125
+2353,North and Central America,United States,USA,WV / Charleston-Yeager AP,724140
+2354,North and Central America,United States,USA,WV / Clarksburg-Harrison Marion Rgnl AP,724175
+2355,North and Central America,United States,USA,WV / Elkins-Randolph County AP,724170
+2356,North and Central America,United States,USA,WV / Huntington-Tri State Walker Long Field,724250
+2357,North and Central America,United States,USA,WV / Lewisburg-Greenbrier Valley AP,724127
+2358,North and Central America,United States,USA,WV / Martinsburg-Eastern WV Rgnl AP,724177
+2359,North and Central America,United States,USA,WV / Morgantown Muni-Hart Field,724176
+2360,North and Central America,United States,USA,WV / Parkersburg-Wood County-Gill Robb Wilson AP,724273
+2361,North and Central America,United States,USA,WV / Wheeling-Ohio County AP,724275
+2362,North and Central America,United States,USA,WY / Casper-Natrona County Intl AP,725690
+2363,North and Central America,United States,USA,WY / Cheyenne,725640
+2364,North and Central America,United States,USA,WY / Cody Muni AWOS,726700
+2365,North and Central America,United States,USA,WY / Evanston-Uinta County AP-Burns Field,725775
+2366,North and Central America,United States,USA,WY / Gillette-Gillette County AP,726650
+2367,North and Central America,United States,USA,WY / Green River-Greater Green River Intergalactic Spaceport,725744
+2368,North and Central America,United States,USA,WY / Jackson Hole AP,725776
+2369,North and Central America,United States,USA,WY / Lander-Hunt Field,725760
+2370,North and Central America,United States,USA,WY / Laramie-General Brees Field,725645
+2371,North and Central America,United States,USA,WY / Rawlins Muni AP,725745
+2372,North and Central America,United States,USA,WY / Riverton Rgnl AP,725765
+2373,North and Central America,United States,USA,WY / Sheridan,726660
+2374,North and Central America,United States,USA,WY / Worland Muni AP,726665

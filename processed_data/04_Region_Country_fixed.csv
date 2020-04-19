@@ -1,0 +1,102 @@
+,Region,Country,Rep
+0,Africa,Algeria,DZA
+1,Africa,Egypt,EGY   
+2,Africa,Ethiopia,ETH  
+3,Africa,Ghana,GHA 
+4,Africa,Kenya,KEN
+5,Africa,Libyan Arab Jamahiriya,LBY   
+6,Africa,Morocco,MAR   
+7,Africa,Madagascar,MDG   
+8,Africa,Senegal,SEN  
+9,Africa,Tunisia,TUN   
+10,Africa,South Africa,ZAF  
+11,Africa,Zimbabwe,ZWE   
+12,Asia,United Arab Emirates,ARE  
+13,Asia,Bangladesh,BGD
+14,Asia,China,CHN 
+15,Asia,India,IND
+16,Asia,Islamic Republic of Iran,IRN
+17,Asia,Japan,JPN
+18,Asia,Kazakhstan,KAZ
+19,Asia,Korea,KOR 
+20,Asia,Kuwait,KWT
+21,Asia,Sri Lanka,LKA
+22,Asia,Macau,MAC
+23,Asia,Maldives,MDV
+24,Asia,Mongolia,MNG
+25,Asia,Nepal,NPL
+26,Asia,Pakistan,PAK
+27,Asia,Korea,PRK
+28,Asia,Russia,RUS
+29,Asia,Saudi Arabia,SAU
+30,Asia,Thailand,THA
+31,Asia,Taiwan,TWN
+32,Asia,Uzbekistan,UZB
+33,Asia,Vietnam,VNM
+34,South America,Argentina,ARG  
+35,South America,Bolivia,BOL  
+36,South America,Brazil,BRA  
+37,South America,Chile,CHL   
+38,South America,Colombia,COL 
+39,South America,Ecuador,ECU   
+40,South America,Peru,PER  
+41,South America,Paraguay,PRY  
+42,South America,Uruguay,URY
+43,South America,Venezuela,VEN   
+44,North and Central America,Belize,BLZ
+45,North and Central America,Canada,CAN  
+46,North and Central America,Cuba,CUB
+47,North and Central America,Guatemala,GTM  
+48,North and Central America,Honduras,HND  
+49,North and Central America,Mexico,MEX  
+50,North and Central America,Martinique,MTQ  
+51,North and Central America,Nicaragua,NIC 
+52,North and Central America,Puerto Rico,PRI  
+53,North and Central America,El Salvador,SLV  
+54,North and Central America,United States,USA  
+55,North and Central America,Virgin Islands (U.S.),VIR  
+56,Southwest Pacific,Australia,AUS 
+57,Southwest Pacific,Brunei Darussalam,BRN 
+58,Southwest Pacific,Fiji,FJI
+59,Southwest Pacific,Guam,GUM
+60,Southwest Pacific,Marshall Islands,MHL
+61,Southwest Pacific,Malaysia,MYS
+62,Southwest Pacific,New Zealand,NZL
+63,Southwest Pacific,Philippines,PHL
+64,Southwest Pacific,Palau,PLW
+65,Southwest Pacific,Singapore,SGP
+66,Southwest Pacific,United States Minor Outlying Islands,UMI 
+67,Europe,Austria,AUT 
+68,Europe,Belgium,BEL 
+69,Europe,Bulgaria,BGR
+70,Europe,Bosnia and Herzegovina,BIH
+71,Europe,Belarus,BLR
+72,Europe,Switzerland,CHE
+73,Europe,Cyprus,CYP
+74,Europe,Czech Republic,CZE
+75,Europe,Germany,DEU
+76,Europe,Denmark,DNK
+77,Europe,Spain,ESP
+78,Europe,Finland,FIN
+79,Europe,France,FRA
+80,Europe,United Kingdom,GBR
+81,Europe,Greece,GRC
+82,Europe,Hungary,HUN
+83,Europe,Ireland,IRL
+84,Europe,Iceland,ISL
+85,Europe,Israel,ISR
+86,Europe,Italy,ITA
+87,Europe,Lithuania,LTU
+88,Europe,Netherlands,NLD
+89,Europe,Norway,NOR
+90,Europe,Poland,POL
+91,Europe,Portugal,PRT
+92,Europe,Romania,ROU
+93,Europe,Russia,RUS
+94,Europe,Serbia,SRB
+95,Europe,Slovakia,SVK
+96,Europe,Slovenia,SVN
+97,Europe,Sweden,SWE
+98,Europe,Syria,SYR
+99,Europe,Turkey,TUR
+100,Europe,Ukraine,UKR
