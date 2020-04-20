@@ -1,0 +1,120 @@
+,Unnamed: 0,Country,GDP,PPP,population density,lat lng,Tertiary Education,flights,daily cases,Weather
+1,1,Albania,True,True,True,True,True,True,,
+7,7,Argentina,True,True,True,True,True,True,,True
+8,8,Armenia,True,True,True,True,True,True,,
+9,9,Aruba,True,True,True,True,True,True,,
+10,10,Australia,True,True,True,True,True,True,True,True
+11,11,Austria,True,True,True,True,True,True,,True
+12,12,Azerbaijan,True,True,True,True,True,True,,
+13,13,Bahrain,True,True,True,True,True,True,,
+14,14,Bangladesh,True,True,True,True,,True,,True
+16,16,Belarus,True,True,True,True,True,,,True
+17,17,Belgium,True,True,True,True,True,True,True,True
+18,18,Belize,True,True,True,True,True,True,,True
+24,24,Bosnia and Herzegovina,True,True,True,,True,True,,True
+25,25,Botswana,True,True,True,True,True,True,,
+26,26,Brazil,True,True,True,True,True,True,True,True
+27,27,Brunei Darussalam,True,True,True,True,True,True,,True
+28,28,Bulgaria,True,True,True,True,True,,,True
+29,29,Burkina Faso,True,True,True,True,True,True,,
+31,31,Burundi,True,True,True,True,True,True,,
+35,35,Canada,True,True,True,True,,True,True,True
+39,39,Chile,True,True,True,True,True,True,,True
+40,40,China,True,True,True,True,True,True,True,True
+41,41,Colombia,True,True,True,True,True,True,True,True
+44,44,Costa Rica,True,True,True,True,True,True,,
+48,48,Cyprus,True,True,True,True,True,True,,True
+52,52,Denmark,True,True,True,True,True,,,True
+56,56,Ecuador,True,True,True,True,True,True,,True
+57,57,Egypt,True,True,True,True,True,True,,True
+58,58,El Salvador,True,True,True,True,True,True,,True
+63,63,Ethiopia,True,True,True,True,,True,,True
+66,66,Fiji,True,True,True,True,,True,,True
+67,67,Finland,True,True,True,True,True,,True,True
+68,68,France,True,True,True,True,True,True,True,True
+72,72,Georgia,True,True,True,True,True,True,,
+73,73,Germany,True,True,True,True,True,True,True,True
+74,74,Ghana,True,True,True,True,True,True,,True
+76,76,Greece,True,True,True,True,True,True,,True
+81,81,Guatemala,True,True,True,True,True,True,,True
+86,86,Honduras,True,True,True,True,True,True,,True
+87,87,Hong Kong SAR,True,True,,True,True,True,True,
+88,88,Hungary,True,True,True,True,True,True,,True
+89,89,Iceland,True,True,True,True,,True,,True
+90,90,India,True,True,True,True,True,True,True,True
+91,91,Indonesia,True,True,True,True,True,True,,
+93,93,Ireland,True,True,True,True,True,,,True
+94,94,Islamic Republic of Iran,True,True,,True,True,,,True
+96,96,Israel,True,True,True,True,True,True,,True
+97,97,Italy,True,True,True,True,True,True,True,True
+99,99,Jamaica,True,True,True,True,True,True,,
+100,100,Japan,True,True,True,True,True,True,True,True
+102,102,Kazakhstan,True,True,True,True,True,True,,True
+103,103,Kenya,True,True,True,True,,True,,True
+105,105,Korea,True,True,,,,,,True
+106,105,Korea,True,True,,,,,,True
+107,106,"Korea, North",,,,True,,,,
+108,107,"Korea, South",,,,True,,,,
+110,109,Kuwait,True,True,True,True,True,True,,True
+113,112,Latvia,True,True,True,True,True,True,,
+114,113,Lebanon,True,True,True,True,True,True,,
+115,114,Lesotho,True,True,True,True,True,True,,
+116,115,Liberia,True,True,True,True,,True,,
+117,116,Libya,True,True,True,True,,True,,
+119,118,Lithuania,True,True,True,True,True,True,,True
+123,122,Madagascar,True,True,True,True,True,True,,True
+125,124,Malaysia,True,True,True,True,True,True,True,True
+126,125,Maldives,True,True,True,True,,True,,True
+128,127,Malta,True,True,True,True,True,True,,
+129,128,Marshall Islands,True,True,True,True,,True,,True
+131,130,Mauritania,True,True,True,True,True,True,,
+132,131,Mauritius,True,True,True,True,True,True,,
+134,133,Mexico,True,True,True,True,True,True,True,True
+138,137,Mongolia,True,True,True,True,True,True,,True
+140,139,Morocco,True,True,True,True,True,True,,True
+141,140,Mozambique,True,True,True,True,True,True,,
+145,144,Nepal,True,True,True,True,True,True,True,True
+148,147,New Zealand,True,True,True,True,True,True,,True
+149,148,Nicaragua,True,True,True,True,,True,,True
+154,153,Norway,True,True,True,True,True,,,True
+156,155,Pakistan,True,True,True,True,True,True,,True
+157,156,Palau,True,True,True,True,True,,,True
+158,157,Panama,True,True,True,True,True,True,,
+160,159,Paraguay,True,True,True,True,,True,,True
+161,160,Peru,True,True,True,True,,True,,True
+162,161,Philippines,True,True,True,True,True,True,True,True
+163,162,Poland,True,True,True,True,True,True,,True
+164,163,Portugal,True,True,True,True,True,,,True
+165,164,Puerto Rico,True,True,True,True,True,True,,True
+166,165,Qatar,True,True,True,True,True,True,,
+169,168,Romania,True,True,True,True,True,True,,True
+170,169,Russia,True,True,,True,True,,True,True
+171,169,Russia,True,True,,True,True,,True,True
+172,170,Rwanda,True,True,True,True,True,True,,
+180,178,Saudi Arabia,True,True,True,True,True,True,,True
+181,179,Senegal,True,True,True,True,,True,,True
+182,180,Serbia,True,True,True,True,True,,,True
+183,181,Seychelles,True,True,True,True,True,True,,
+185,183,Singapore,True,True,True,True,,True,True,True
+189,187,Slovenia,True,True,True,True,True,,,True
+192,190,South Africa,True,True,True,True,True,True,,True
+196,194,Spain,True,True,True,True,True,,True,True
+197,195,Sri Lanka,True,True,True,True,True,True,True,True
+201,199,Sudan,True,True,True,True,True,True,,
+204,202,Sweden,True,True,True,True,True,,True,True
+205,203,Switzerland,True,True,True,True,True,,,True
+208,206,Taiwan,,,,True,,True,True,True
+209,207,Taiwan Province of China,True,True,,,,,,
+210,208,Tajikistan,True,True,True,True,True,True,,
+212,210,Thailand,True,True,True,True,True,True,True,True
+220,218,Tunisia,True,True,True,True,True,True,,True
+221,219,Turkey,True,True,True,True,True,True,,True
+226,224,Ukraine,True,True,True,True,True,True,,True
+227,225,United Arab Emirates,True,True,True,True,True,True,True,True
+228,226,United Kingdom,True,True,True,True,True,True,True,True
+229,227,United States,True,True,True,True,True,True,True,True
+230,228,Uruguay,True,True,True,True,,True,,True
+231,229,Uzbekistan,True,True,True,True,,True,,True
+233,231,Venezuela,True,True,True,True,,True,,True
+234,232,Vietnam,True,True,True,True,True,,True,True
+239,237,Zimbabwe,True,True,True,True,True,True,,True
