@@ -60,7 +60,7 @@ Albania,Fier,40.73,19.573
 Albania,Gjirokastër,40.079,20.149
 Albania,Durrës,41.3178,19.4482
 Albania,Lezhë,41.788,19.654
-Albania,Sarandë,39.877,20.0
+Albania,Sarandë,39.877,20
 Albania,Peshkopi,41.6833,20.4333
 Albania,Bajram Curri,42.3333,20.0833
 Albania,Përmet,40.234,20.352
@@ -176,7 +176,7 @@ Angola,Luanda,-8.8383,13.2344
 Angola,Dundo,-7.38,20.83
 Angola,Ambriz,-7.855,13.125
 Angola,Dondo,-9.69,14.43
-Angola,Luiana,-17.3695,23.0
+Angola,Luiana,-17.3695,23
 Angola,Camabatela,-8.1896,15.37
 Angola,Mucusso,-18.0195,21.43
 Angola,Uacu Cungo,-11.3595,15.12
@@ -194,7 +194,7 @@ Argentina,Pergamino,-33.8996,-60.57
 Argentina,Rodeo,-30.2156,-69.14
 Argentina,Pampa del Infierno,-26.5166,-61.1666
 Argentina,Rafaela,-31.25,-61.5
-Argentina,Viedma,-40.8,-63.0
+Argentina,Viedma,-40.8,-63
 Argentina,Lobos,-35.1849,-59.0947
 Argentina,Charata,-27.2163,-61.2
 Argentina,General Conesa,-40.1,-64.4333
@@ -246,7 +246,7 @@ Argentina,El Maitén,-42.05,-71.1666
 Argentina,Corrientes,-27.49,-58.81
 Argentina,Balcarce,-37.8333,-58.25
 Argentina,Reconquista,-29.1395,-59.65
-Argentina,Mar del Plata,-38.0,-57.58
+Argentina,Mar del Plata,-38,-57.58
 Argentina,Villa María,-32.41,-63.26
 Argentina,Zapala,-38.9,-70.0667
 Argentina,Buenos Aires,-34.6025,-58.3975
@@ -361,7 +361,7 @@ Australia,Three Springs,-29.5333,115.75
 Australia,Yamba,-29.423,153.3533
 Australia,Ouyen,-35.0662,142.3167
 Australia,Kingston South East,-36.8328,139.8501
-Australia,Morawa,-29.2163,116.0
+Australia,Morawa,-29.2163,116
 Australia,Newman,-23.3666,119.7333
 Australia,McMinns Lagoon,-12.5329,131.05
 Australia,Cloncurry,-20.7,140.5
@@ -549,7 +549,7 @@ Australia,Bicheno,-41.8784,148.2886
 Australia,Meningie,-35.6995,139.3333
 Australia,Burketown,-17.7161,139.5666
 Australia,Eidsvold,-25.3662,151.1333
-Australia,Thargomindah,-28.0,143.8167
+Australia,Thargomindah,-28,143.8167
 Australia,Karumba,-17.4833,140.8334
 Australia,Ceduna,-32.0991,133.6623
 Australia,Windorah,-25.4332,142.6502
@@ -668,7 +668,7 @@ Bangladesh,Tāngāil,24.25,89.92
 Bangladesh,Barisāl,22.7004,90.375
 Bangladesh,Khulna,22.84,89.56
 Bangladesh,Comilla,23.4704,91.17
-Bangladesh,Saidpur,25.8004,89.0
+Bangladesh,Saidpur,25.8004,89
 Bangladesh,Dhaka,23.7231,90.4086
 Bangladesh,Chittagong,22.33,91.8
 Barbados,Bridgetown,13.102,-59.6165
@@ -681,7 +681,7 @@ Belarus,Brest,52.1,23.7
 Belarus,Pinsk,52.1279,26.0941
 Belarus,Polatsk,55.4894,28.786
 Belarus,Maladzyechna,54.3188,26.8653
-Belarus,Homyel’,52.43,31.0
+Belarus,Homyel’,52.43,31
 Belarus,Babruysk,53.1266,29.1928
 Belarus,Mazyr,52.046,29.2722
 Belarus,Orsha,54.5153,30.4215
@@ -807,12 +807,12 @@ Bolivia,Ascensión,-15.6996,-63.08
 Bolivia,San Lorenzo,-21.4799,-64.77
 Bolivia,Punata,-17.55,-65.84
 Bolivia,Viacha,-16.65,-68.3
-Bosnia And Herzegovina,Banja Luka,44.7804,17.18
-Bosnia And Herzegovina,Zenica,44.22,17.92
-Bosnia And Herzegovina,Sarajevo,43.85,18.383
-Bosnia And Herzegovina,Prijedor,44.9804,16.7
-Bosnia And Herzegovina,Brčko,44.87,18.8101
-Bosnia And Herzegovina,Mostar,43.3505,17.82
+Bosnia and Herzegovina,Banja Luka,44.7804,17.18
+Bosnia and Herzegovina,Zenica,44.22,17.92
+Bosnia and Herzegovina,Sarajevo,43.85,18.383
+Bosnia and Herzegovina,Prijedor,44.9804,16.7
+Bosnia and Herzegovina,Brčko,44.87,18.8101
+Bosnia and Herzegovina,Mostar,43.3505,17.82
 Bosnia And Herzegovina,Tuzla,44.5505,18.68
 Botswana,Muhembo,-18.2996,21.8
 Botswana,Lokwabe,-24.1696,21.83
@@ -889,7 +889,7 @@ Brazil,Guajará-Mirim,-10.8,-65.3499
 Brazil,Paragominas,-2.9596,-47.49
 Brazil,Castro,-24.79,-50.01
 Brazil,Macapá,0.033,-51.05
-Brazil,Manaus,-3.1,-60.0
+Brazil,Manaus,-3.1,-60
 Brazil,Brumado,-14.21,-41.67
 Brazil,Muriaé,-21.13,-42.39
 Brazil,Gurupi,-11.7196,-49.06
@@ -949,7 +949,7 @@ Brazil,Aquidauana,-20.4696,-55.79
 Brazil,Picos,-7.08,-41.44
 Brazil,Grajaú,-5.81,-46.15
 Brazil,Pôrto União,-26.2396,-51.08
-Brazil,Goiana,-7.5596,-35.0
+Brazil,Goiana,-7.5596,-35
 Brazil,Salinópolis,-0.6095,-47.34
 Brazil,Timbaúba,-7.4996,-35.32
 Brazil,Ariquemes,-9.9396,-63.08
@@ -984,7 +984,7 @@ Brazil,Santa Maria,-29.6833,-53.8
 Brazil,Estância,-11.2696,-37.45
 Brazil,Campos,-21.75,-41.32
 Brazil,Camaquã,-30.8396,-51.81
-Brazil,Palmas,-26.48,-52.0
+Brazil,Palmas,-26.48,-52
 Brazil,Cachoeira do Sul,-30.03,-52.91
 Brazil,Fortaleza,-3.75,-38.58
 Brazil,Coari,-4.08,-63.13
@@ -1008,7 +1008,7 @@ Brazil,Itapetinga,-15.25,-40.25
 Brazil,Caratinga,-19.79,-42.14
 Brazil,Aripuanã,-9.17,-60.64
 Brazil,Pirapora,-17.33,-44.93
-Brazil,Viana,-3.2096,-45.0
+Brazil,Viana,-3.2096,-45
 Brazil,Juazeiro do Norte,-7.21,-39.32
 Brazil,Santa Cruz Cabrália,-16.28,-39.03
 Brazil,Ponte Nova,-20.4096,-42.9
@@ -1055,7 +1055,7 @@ Brazil,São Mateus,-18.7296,-39.86
 Brazil,Araguari,-18.64,-48.2
 Brazil,Parintins,-2.61,-56.74
 Brazil,Rio Largo,-9.48,-35.84
-Brazil,Barreiras,-12.14,-45.0
+Brazil,Barreiras,-12.14,-45
 Brazil,Almenara,-16.17,-40.7
 Brazil,Joinvile,-26.32,-48.8399
 Brazil,Jaraguá do Sul,-26.48,-49.1
@@ -1116,7 +1116,7 @@ Brazil,Barras,-4.25,-42.3
 Brazil,Santo Agostinho,-8.29,-35.03
 Brazil,Jequié,-13.85,-40.08
 Brazil,Portel,-1.95,-50.82
-Brazil,Olinda,-8.0,-34.85
+Brazil,Olinda,-8,-34.85
 Brazil,Itupiranga,-5.12,-49.3
 Brazil,Catanduva,-21.14,-48.98
 Brazil,Paracuru,-3.3995,-39.04
@@ -1141,7 +1141,7 @@ Brazil,Pimenta Bueno,-11.64,-61.21
 Brazil,Lapa,-25.76,-49.73
 Brazil,São José dos Campos,-23.2,-45.8799
 Brazil,São Lourenço do Sul,-31.37,-51.98
-Brazil,Vila Bela da Santíssima Trindade,-15.0,-59.95
+Brazil,Vila Bela da Santíssima Trindade,-15,-59.95
 Brazil,Colinas,-6.0395,-44.24
 Brazil,Apucarana,-23.55,-51.47
 Brazil,Pires do Rio,-17.2995,-48.28
@@ -1367,7 +1367,7 @@ Cabo Verde,João Teves,15.0669,-23.5892
 Cabo Verde,Tarrafal,16.5658,-24.3558
 Cabo Verde,Igreja,15.0339,-24.325
 Cabo Verde,Porto Inglês,15.1378,-23.2111
-Cabo Verde,Mindelo,16.8838,-25.0
+Cabo Verde,Mindelo,16.8838,-25
 Cabo Verde,Nova Sintra,14.8714,-24.6956
 Cambodia,Sihanoukville,10.6359,103.5017
 Cambodia,Banlung,13.7394,106.9873
@@ -1445,7 +1445,7 @@ Canada,Prince Albert,53.2,-105.75
 Canada,Kamloops,50.6667,-120.3333
 Canada,Saskatoon,52.17,-106.67
 Canada,Sarnia,42.9666,-82.4
-Canada,Saint-Jérôme,45.7666,-74.0
+Canada,Saint-Jérôme,45.7666,-74
 Canada,Yellowknife,62.442,-114.397
 Canada,Moncton,46.0833,-64.7667
 Canada,Lethbridge,49.7005,-112.8333
@@ -1463,7 +1463,7 @@ Canada,North Bay,46.3,-79.45
 Canada,Moose Jaw,50.4,-105.55
 Canada,Orangeville,43.9171,-80.0833
 Canada,Joliette,46.0333,-73.4333
-Canada,Courtenay,49.6833,-125.0
+Canada,Courtenay,49.6833,-125
 Canada,Brockville,44.5893,-75.6953
 Canada,Campbell River,50.0171,-125.25
 Canada,Chicoutimi,48.4333,-71.0667
@@ -1491,7 +1491,7 @@ Canada,Ennadai,61.1333,-100.8833
 Canada,Windsor,44.9806,-64.1291
 Canada,Baie-du-Poste,50.4171,-73.8666
 Canada,Gillam,56.35,-94.7
-Canada,Gimli,50.6333,-97.0
+Canada,Gimli,50.6333,-97
 Canada,Thompson,55.7499,-97.8666
 Canada,Quesnel,52.9837,-122.4833
 Canada,Chesterfield Inlet,63.3383,-90.7001
@@ -1546,7 +1546,7 @@ Canada,Fort Good Hope,66.2666,-128.6333
 Canada,Cartwright,53.7014,-57.0121
 Canada,Arctic Bay,73.0333,-85.1666
 Canada,Natashquan,50.1913,-61.8107
-Canada,Fort Smith,60.0,-111.8833
+Canada,Fort Smith,60,-111.8833
 Canada,Délįne,65.1833,-123.4167
 Canada,Buchans,48.817,-56.8666
 Canada,Sandspit,53.2404,-131.8333
@@ -1630,7 +1630,7 @@ Canada,Atikokan,48.7504,-91.6166
 Canada,Gander,48.95,-54.55
 Canada,Grise Fiord,76.4417,-82.95
 Canada,Shelburne,43.7656,-65.3194
-Canada,Burwash Landing,61.3504,-139.0
+Canada,Burwash Landing,61.3504,-139
 Canada,Peace River,56.2333,-117.2833
 Canada,Inuvik,68.35,-133.7
 Canada,Saint-Augustin,51.2423,-58.647
@@ -1682,7 +1682,7 @@ Central African Republic,Bozoum,6.317,16.3833
 Central African Republic,Bambari,5.762,20.6672
 Central African Republic,Berbérati,4.25,15.78
 Central African Republic,Bossembele,5.267,17.65
-Central African Republic,Mbaïki,3.8704,18.0
+Central African Republic,Mbaïki,3.8704,18
 Central African Republic,Bossangoa,6.4837,17.45
 Central African Republic,Nola,3.5337,16.0666
 Central African Republic,Bimbo,4.329,18.5284
@@ -1777,7 +1777,7 @@ Chile,Salamanca,-31.7796,-70.98
 Chile,La Serena,-29.9,-71.25
 Chile,Coquimbo,-29.9529,-71.3436
 Chile,La Unión,-40.29,-73.09
-Chile,Pichilemu,-34.38,-72.0
+Chile,Pichilemu,-34.38,-72
 Chile,Caldera,-27.0696,-70.83
 Chile,Lota,-37.0896,-73.16
 Chile,Puerto Natales,-51.7183,-72.5117
@@ -1785,7 +1785,7 @@ Chile,San Fernando,-34.58,-70.99
 Chile,Iquique,-20.25,-70.13
 Chile,Curicó,-34.98,-71.24
 Chile,San Felipe,-32.75,-70.72
-Chile,Combarbalá,-31.18,-71.0
+Chile,Combarbalá,-31.18,-71
 Chile,Coronel,-37.03,-73.16
 Chile,Puerto Varas,-41.33,-72.99
 Chile,Mejillones,-23.1,-70.45
@@ -1901,7 +1901,7 @@ China,Jieshou,33.2504,115.35
 China,Altay,47.8666,88.1166
 China,Huangshi,30.22,115.1
 China,Bengbu,32.95,117.33
-China,Zalantun,48.0,122.72
+China,Zalantun,48,122.72
 China,Dali,25.7,100.18
 China,Anda,46.4,125.32
 China,Yibin,28.77,104.57
@@ -1922,12 +1922,12 @@ China,Nong’an,44.4304,125.1701
 China,Dandong,40.1436,124.3936
 China,Cangzhou,38.3204,116.87
 China,Kaifeng Chengguanzhen,34.85,114.35
-China,Ji’an,27.1304,115.0
+China,Ji’an,27.1304,115
 China,Linjiang,41.8363,126.936
 China,Yangjiang,21.8504,111.97
 China,Nagqu,31.48,92.05
 China,Shashi,30.32,112.23
-China,Guangshui,31.6204,114.0
+China,Guangshui,31.6204,114
 China,Huangyan,28.65,121.25
 China,Xiaoxita,30.7,111.28
 China,Beian,48.239,126.482
@@ -1969,7 +1969,7 @@ China,Jiaozuo,35.25,113.22
 China,Jiexiu,37.04,111.9
 China,Qinggang,46.69,126.1
 China,Beihai,21.4804,109.1
-China,Dingzhou,38.5004,115.0
+China,Dingzhou,38.5004,115
 China,Kailu,43.5837,121.2
 China,Wuwei,37.928,102.641
 China,Yunxian Chengguanzhen,32.8082,110.8136
@@ -2016,7 +2016,7 @@ China,Nanning,22.82,108.32
 China,Wuyuan,41.0896,108.2722
 China,Longyan,25.1804,117.03
 China,Jingling,30.6501,113.16
-China,Daqing,46.58,125.0
+China,Daqing,46.58,125
 China,Lu’an,31.7503,116.48
 China,Dezhou,37.4504,116.3
 China,Neijiang,29.5804,105.05
@@ -2148,7 +2148,7 @@ China,Shaowu,27.3004,117.5
 China,Beipiao,41.81,120.76
 China,Xianyang,34.3456,108.7147
 China,Yulin,22.63,110.15
-China,Tangdukou,27.0,111.2001
+China,Tangdukou,27,111.2001
 China,Jiangjiafan,31.0304,112.1
 China,Jining,35.4004,116.55
 China,Karamay,45.5899,84.8599
@@ -2285,7 +2285,7 @@ Costa Rica,San José,9.935,-84.0841
 Costa Rica,Ciudad Cortés,8.9604,-83.53
 Costa Rica,Cañas,10.43,-85.1
 Costa Rica,Sixaola,9.5204,-82.62
-Costa Rica,Puerto Limón,10.0,-83.0333
+Costa Rica,Puerto Limón,10,-83.0333
 Costa Rica,La Cruz,11.0704,-85.63
 Costa Rica,Puntarenas,9.9702,-84.8336
 Costa Rica,Liberia,10.6338,-85.4333
@@ -2298,7 +2298,7 @@ Croatia,Pazin,45.2403,13.9367
 Croatia,Varaždin,46.3044,16.3378
 Croatia,Rijeka,45.33,14.45
 Croatia,Dubrovnik,42.6609,18.0914
-Croatia,Zagreb,45.8,16.0
+Croatia,Zagreb,45.8,16
 Croatia,Virovitica,45.8319,17.3839
 Croatia,Sisak,45.4661,16.3783
 Croatia,Šibenik,43.7272,15.9058
@@ -2396,7 +2396,7 @@ Democratic Republic of the Congo,Buta,2.82,24.74
 Democratic Republic of the Congo,Yangambi,0.7704,24.43
 Democratic Republic of the Congo,Kikwit,-5.03,18.85
 Democratic Republic of the Congo,Ikela,-1.1829,23.2666
-Democratic Republic of the Congo,Mwene-Ditu,-7.0,23.44
+Democratic Republic of the Congo,Mwene-Ditu,-7,23.44
 Democratic Republic of the Congo,Nyunzu,-5.9496,28.0167
 Democratic Republic of the Congo,Butembo,0.13,29.28
 Democratic Republic of the Congo,Kampene,-3.5995,26.67
@@ -2449,7 +2449,7 @@ Democratic Republic of the Congo,Mbuji-Mayi,-6.15,23.6
 Democratic Republic of the Congo,Kipushi,-11.7596,27.25
 Democratic Republic of the Congo,Ilebo,-4.3196,20.61
 Democratic Republic of the Congo,Basoko,1.2404,23.59
-Democratic Republic of the Congo,Kahemba,-7.2829,19.0
+Democratic Republic of the Congo,Kahemba,-7.2829,19
 Democratic Republic of the Congo,Bandundu,-3.31,17.38
 Democratic Republic of the Congo,Bukavu,-2.51,28.84
 Democratic Republic of the Congo,Lubutu,-0.7329,26.5833
@@ -2533,7 +2533,7 @@ Ecuador,Ibarra,0.3604,-78.13
 Ecuador,Milagro,-2.1796,-79.6
 Ecuador,Guayaquil,-2.22,-79.92
 Ecuador,Riobamba,-1.67,-78.65
-Ecuador,Cuenca,-2.9,-79.0
+Ecuador,Cuenca,-2.9,-79
 Ecuador,Zamora,-4.0696,-78.97
 Ecuador,Puerto Villamil,-0.9333,-91.0167
 Ecuador,Santa Elena,-2.2262,-80.8587
@@ -2575,7 +2575,7 @@ Egypt,Marsá Maţrūḩ,31.3504,27.23
 Egypt,Rosetta,31.4604,30.39
 Egypt,Jirjā,26.3304,31.88
 Egypt,As Sallūm,31.567,25.15
-Egypt,Ţanţā,30.7904,31.0
+Egypt,Ţanţā,30.7904,31
 Egypt,Mallawī,27.7304,30.84
 Egypt,Aţ Ţūr,28.2394,33.6148
 Egypt,Kafr ash Shaykh,31.109,30.936
@@ -2740,7 +2740,7 @@ Finland,Kemijärvi,66.6667,27.4167
 Finland,Kuopio,62.8943,27.6949
 Finland,Lappeenranta,61.0671,28.1833
 Finland,Jyväskylä,62.2603,25.75
-Finland,Oulu,65.0,25.47
+Finland,Oulu,65,25.47
 Finland,Vaasa,63.1,21.6
 Finland,Lahti,60.9939,25.6649
 Finland,Sodankylä,67.4171,26.6
@@ -2817,7 +2817,7 @@ French Guiana,Cayenne,4.933,-52.33
 French Polynesia,Papeete,-17.5334,-149.5667
 Gabon,Makokou,0.5671,12.8666
 Gabon,Libreville,0.3854,9.458
-Gabon,Gamba,-2.65,10.0
+Gabon,Gamba,-2.65,10
 Gabon,Moanda,-1.5655,13.2
 Gabon,Tchibanga,-2.857,11.027
 Gabon,Mékambo,1.0171,13.9333
@@ -2870,11 +2870,11 @@ Germany,Regensburg,49.0204,12.12
 Germany,Hannover,52.367,9.7167
 Germany,Flensburg,54.7837,9.4333
 Germany,Ingolstadt,48.7704,11.45
-Germany,Fürth,49.47,11.0
+Germany,Fürth,49.47,11
 Germany,Göttingen,51.5204,9.92
 Germany,Oldenburg,53.13,8.22
 Germany,Chemnitz,50.83,12.92
-Germany,Karlsruhe,49.0,8.4
+Germany,Karlsruhe,49,8.4
 Germany,Düsseldorf,51.2204,6.78
 Germany,Koblenz,50.3505,7.6
 Germany,Heidelberg,49.42,8.7
@@ -2894,9 +2894,9 @@ Germany,Lübeck,53.8704,10.67
 Germany,Wiesbaden,50.0804,8.25
 Germany,Mainz,49.9825,8.2732
 Germany,Gießen,50.5837,8.65
-Germany,Ulm,48.4004,10.0
+Germany,Ulm,48.4004,10
 Germany,Dresden,51.05,13.75
-Germany,Hamburg,53.55,10.0
+Germany,Hamburg,53.55,10
 Germany,Stralsund,54.3004,13.1
 Germany,Essen,51.45,7.0166
 Germany,Bremen,53.08,8.8
@@ -2987,7 +2987,7 @@ Greenland,Paamiut,62.0041,-49.6351
 Grenada,Saint George’s,12.0526,-61.7416
 Guadeloupe,Lasserre,16.2304,-61.44
 Guadeloupe,Pointe-à-Pitre,16.2415,-61.533
-Guadeloupe,Basse-Terre,16.0,-61.7167
+Guadeloupe,Basse-Terre,16,-61.7167
 Guam,Maina,13.4692,144.7332
 Guam,Hagåtña,13.4745,144.7504
 Guatemala,Lívingston,15.8307,-88.7562
@@ -3142,7 +3142,7 @@ India,Dehra Dūn,30.3204,78.05
 India,Port Blair,11.667,92.736
 India,Vishākhapatnam,17.73,83.305
 India,Jaipur,26.9211,75.81
-India,Sonīpat,29.0,77.02
+India,Sonīpat,29,77.02
 India,Gangtok,27.3333,88.6166
 India,Rāichūr,16.2104,77.355
 India,Nāgpur,21.17,79.09
@@ -3204,7 +3204,7 @@ India,Burhānpur,21.3004,76.13
 India,Jalandhar,31.3349,75.569
 India,Indore,22.7151,75.865
 India,Kumbakonam,10.9805,79.4
-India,Dindigul,10.38,78.0
+India,Dindigul,10.38,78
 India,Kohima,25.667,94.1166
 India,Machilīpatnam,16.2004,81.18
 India,Thiruvananthapuram,8.5,76.95
@@ -3229,7 +3229,7 @@ India,Rājapālaiyam,9.4204,77.58
 India,Alīgarh,27.8922,78.0618
 India,Akola,20.71,77.01
 India,Patna,25.625,85.13
-India,Coimbatore,11.0,76.95
+India,Coimbatore,11,76.95
 India,Dhūlia,20.9,74.77
 India,Ambāla,30.32,76.82
 India,Bareilly,28.3454,79.42
@@ -3269,7 +3269,7 @@ India,Mathura,27.5,77.67
 India,Ahmadnagar,19.1104,74.75
 India,Hāpur,28.7437,77.7628
 India,Sāngli,16.8604,74.575
-India,Gaya,24.8,85.0
+India,Gaya,24.8,85
 India,Dibrugarh,27.4833,94.9
 India,Kolkata,22.495,88.3247
 India,Panaji,15.492,73.818
@@ -3335,7 +3335,7 @@ India,Bhīlwāra,25.3504,74.635
 India,Bilāspur,22.0904,82.16
 India,Bīdar,17.9229,77.5175
 India,Aurangābād,24.7704,84.38
-India,Vārānasi,25.33,83.0
+India,Vārānasi,25.33,83
 India,Budaun,28.03,79.09
 India,Hisar,29.17,75.725
 India,Gorakhpur,26.7504,83.38
@@ -3438,7 +3438,7 @@ Indonesia,Singaraja,-8.1152,115.0944
 Indonesia,Magelang,-7.4696,110.18
 Indonesia,Poso,-1.3896,120.76
 Indonesia,Banyuwangi,-8.195,114.3696
-Indonesia,Kediri,-7.7896,112.0
+Indonesia,Kediri,-7.7896,112
 Indonesia,Tebingtinggi,3.3304,99.13
 Indonesia,Sawahlunto,-0.6663,100.7833
 Indonesia,Mojokerto,-7.4696,112.43
@@ -3451,7 +3451,7 @@ Indonesia,Lahat,-3.8,103.5333
 Indonesia,Tanjungpinang,0.9168,104.4714
 Indonesia,Padangsidempuan,1.3887,99.2734
 Indonesia,Palembang,-2.98,104.75
-Iraq,Dahūk,36.8667,43.0
+Iraq,Dahūk,36.8667,43
 Iraq,Kirkuk,35.4722,44.3923
 Iraq,Ar Ruţbah,33.0385,40.2845
 Iraq,Al ‘Amārah,31.8416,47.1512
@@ -3521,7 +3521,7 @@ Islamic Republic of Iran,Bam,29.1077,58.362
 Islamic Republic of Iran,Shahreẕā,32.0115,51.8597
 Islamic Republic of Iran,Khomeynī Shahr,32.7004,51.47
 Islamic Republic of Iran,Bīrjand,32.88,59.2199
-Islamic Republic of Iran,Qazvīn,36.27,50.0
+Islamic Republic of Iran,Qazvīn,36.27,50
 Islamic Republic of Iran,Bandar-e Būshehr,28.92,50.83
 Islamic Republic of Iran,Īlām,33.6374,46.4227
 Islamic Republic of Iran,Varāmīn,35.3166,51.6466
@@ -3545,7 +3545,7 @@ Islamic Republic of Iran,Kāshmar,35.1814,58.4515
 Islamic Republic of Iran,Neyshābūr,36.22,58.82
 Islamic Republic of Iran,Ahvāz,31.28,48.72
 Islamic Republic of Iran,Qom,34.65,50.95
-Islamic Republic of Iran,Orūmīyeh,37.53,45.0
+Islamic Republic of Iran,Orūmīyeh,37.53,45
 Islamic Republic of Iran,Shahr-e Kord,32.321,50.854
 Islamic Republic of Iran,Borūjerd,33.92,48.8
 Islamic Republic of Iran,Bījār,35.8741,47.5937
@@ -3680,7 +3680,7 @@ Japan,Kawagoe,35.9177,139.4911
 Japan,Kōfu,35.6504,138.5833
 Japan,Kumamoto,32.8009,130.7006
 Japan,Yokohama,35.32,139.58
-Japan,Takaoka,36.67,137.0
+Japan,Takaoka,36.67,137
 Japan,Shizuoka,34.9858,138.3854
 Japan,Tamuramachi-moriyama,37.41,140.38
 Japan,Muroran,42.35,140.98
@@ -3790,7 +3790,7 @@ Kazakhstan,Shīeli,44.167,66.75
 Kazakhstan,Qarataū,43.1854,70.46
 Kazakhstan,Aral,46.8,61.6666
 Kazakhstan,Shongzhy,43.5421,79.4703
-Kazakhstan,Taldyqorghan,45.0,78.4
+Kazakhstan,Taldyqorghan,45,78.4
 Kazakhstan,Temirtaū,50.065,72.965
 Kazakhstan,Zhosaly,45.4877,64.078
 Kazakhstan,Qulsary,46.9833,54.0165
@@ -3927,37 +3927,37 @@ Kiribati,Tarawa,1.3382,173.0176
 "Korea, North",Changyŏn,38.2517,125.1021
 "Korea, North",Sariwŏn,38.507,125.762
 "Korea, North",Haeju,38.0394,125.7144
-"Korea, South",Gwangju,35.171,126.9104
-"Korea, South",Cheongju,36.6439,127.5012
-"Korea, South",Goyang,37.6527,126.8372
-"Korea, South",Bucheon,37.4989,126.7831
-"Korea, South",Daegu,35.8668,128.607
-"Korea, South",Yeosu,34.7368,127.7458
-"Korea, South",Jeonju,35.8314,127.1404
-"Korea, South",Sejong,36.6092,127.2919
-"Korea, South",Sŏngnam,37.4386,127.1378
-"Korea, South",Ansan,37.3481,126.8595
-"Korea, South",Iksan,35.941,126.9454
-"Korea, South",Chuncheon,37.8747,127.7342
-"Korea, South",Daejeon,36.3355,127.425
-"Korea, South",Jeju,33.5101,126.5219
-"Korea, South",Eumseong,36.9353,127.6897
-"Korea, South",Wŏnju,37.3551,127.9396
-"Korea, South",Muan,34.9897,126.4714
-"Korea, South",Hongseong,36.6009,126.665
-"Korea, South",Andong,36.5659,128.725
-"Korea, South",Gangneung,37.7559,128.8962
-"Korea, South",Seoul,37.5663,126.9997
-"Korea, South",Changwon,35.2191,128.5836
-"Korea, South",Pohang,36.0209,129.3715
-"Korea, South",Suwon,37.2578,127.0109
-"Korea, South",Ulsan,35.5467,129.317
-"Korea, South",Kunsan,35.9818,126.716
-"Korea, South",Busan,35.0951,129.01
-"Korea, South",Mokpo,34.8068,126.3958
-"Korea, South",Sokcho,38.2087,128.5912
-"Korea, South",Kyŏngju,35.8428,129.2117
-"Korea, South",Incheon,37.4761,126.6422
+Korea,Gwangju,35.171,126.9104
+Korea,Cheongju,36.6439,127.5012
+Korea,Goyang,37.6527,126.8372
+Korea,Bucheon,37.4989,126.7831
+Korea,Daegu,35.8668,128.607
+Korea,Yeosu,34.7368,127.7458
+Korea,Jeonju,35.8314,127.1404
+Korea,Sejong,36.6092,127.2919
+Korea,Sŏngnam,37.4386,127.1378
+Korea,Ansan,37.3481,126.8595
+Korea,Iksan,35.941,126.9454
+Korea,Chuncheon,37.8747,127.7342
+Korea,Daejeon,36.3355,127.425
+Korea,Jeju,33.5101,126.5219
+Korea,Eumseong,36.9353,127.6897
+Korea,Wŏnju,37.3551,127.9396
+Korea,Muan,34.9897,126.4714
+Korea,Hongseong,36.6009,126.665
+Korea,Andong,36.5659,128.725
+Korea,Gangneung,37.7559,128.8962
+Korea,Seoul,37.5663,126.9997
+Korea,Changwon,35.2191,128.5836
+Korea,Pohang,36.0209,129.3715
+Korea,Suwon,37.2578,127.0109
+Korea,Ulsan,35.5467,129.317
+Korea,Kunsan,35.9818,126.716
+Korea,Busan,35.0951,129.01
+Korea,Mokpo,34.8068,126.3958
+Korea,Sokcho,38.2087,128.5912
+Korea,Kyŏngju,35.8428,129.2117
+Korea,Incheon,37.4761,126.6422
 Kosovo,Ferizaj,42.3706,21.1553
 Kosovo,Junik,42.4758,20.2772
 Kosovo,Gjilan,42.4689,21.4633
@@ -4309,7 +4309,7 @@ Macedonia,Kruševo,41.3694,21.2483
 Macedonia,Delčevo,41.9654,22.7763
 Macedonia,Gevgelija,41.1417,22.5014
 Macedonia,Novo Selo,41.4149,22.8816
-Macedonia,Skopje,42.0,21.4335
+Macedonia,Skopje,42,21.4335
 Macedonia,Sveti Nikole,41.8667,21.9411
 Macedonia,Sopište,41.9547,21.4275
 Macedonia,Valandovo,41.3174,22.56
@@ -4503,7 +4503,7 @@ Mali,Timbuktu,16.7666,-3.0166
 Mali,San,13.3004,-4.9
 Mali,Ségou,13.44,-6.26
 Mali,Markala,13.6704,-6.07
-Mali,Bamako,12.65,-8.0
+Mali,Bamako,12.65,-8
 Mali,Yélimané,15.1337,-10.5666
 Mali,Goundam,16.417,-3.6666
 Mali,Kita,13.0504,-9.4833
@@ -4617,7 +4617,7 @@ Mexico,Guasave,25.5705,-108.47
 Mexico,Chilpancingo,17.55,-99.5
 Mexico,Mérida,20.9666,-89.6166
 Mexico,Salina Cruz,16.1671,-95.2
-Mexico,Cárdenas,22.0,-99.67
+Mexico,Cárdenas,22,-99.67
 Mexico,Santiago Tuxtla,18.4704,-95.3
 Mexico,Ciudad Tula,23.0004,-99.72
 Mexico,Querétaro,20.63,-100.38
@@ -4648,7 +4648,7 @@ Mexico,Compostela,21.2304,-104.9
 Mexico,La Barca,20.2804,-102.56
 Mexico,Montemorelos,25.19,-99.84
 Mexico,Santo Domingo Tehuantepec,16.33,-95.23
-Mexico,Villahermosa,18.0,-92.9
+Mexico,Villahermosa,18,-92.9
 Mexico,León de los Aldama,21.15,-101.7
 Mexico,Celaya,20.53,-100.8
 Mexico,Zacatecas,22.7704,-102.58
@@ -4691,7 +4691,7 @@ Mexico,Zamora,19.9804,-102.28
 Mexico,Monclova,26.9,-101.42
 Mexico,Ciudad de Atlixco,18.9,-98.45
 Mexico,Técpan de Galeana,17.25,-100.68
-Mexico,Los Mochis,25.79,-109.0
+Mexico,Los Mochis,25.79,-109
 Mexico,Colima,19.23,-103.72
 Mexico,Ciudad de Huajuapam de León,17.8104,-97.79
 Mexico,Esperanza,27.58,-109.93
@@ -4709,7 +4709,7 @@ Mexico,San Miguel de Papasquiaro,24.8304,-105.34
 Mexico,Hermosillo,29.0989,-110.9541
 Mexico,Canatlán,24.52,-104.78
 Mexico,Lagos de Moreno,21.3704,-101.93
-Mexico,San Luis Potosí,22.17,-101.0
+Mexico,San Luis Potosí,22.17,-101
 Mexico,Toluca,19.3304,-99.67
 Mexico,Valparaíso,22.7704,-103.57
 Mexico,Heroica Caborca,30.7161,-112.1642
@@ -4742,7 +4742,7 @@ Mexico,San Pablo Villa de Mitla,16.917,-96.4
 Mexico,Cozumel,20.51,-86.95
 Mexico,Tecax,20.2,-89.28
 Mexico,Tuxpan,21.9304,-105.27
-Mexico,San Juan del Río,20.38,-100.0
+Mexico,San Juan del Río,20.38,-100
 Mexico,Magdalena de Kino,30.6166,-111.05
 Mexico,Nuevo Casas Grandes,30.4185,-107.9119
 Mexico,Ciudad Lázaro Cárdenas,17.9587,-102.2
@@ -4909,7 +4909,7 @@ Morocco,El Jadid,33.2604,-8.51
 Morocco,Tangier,35.7473,-5.8327
 Morocco,Meknès,33.9004,-5.56
 Morocco,Casablanca,33.6,-7.6164
-Morocco,Marrakech,31.63,-8.0
+Morocco,Marrakech,31.63,-8
 Mozambique,Vilankulo,-21.9995,35.3166
 Mozambique,Dondo,-19.6196,34.73
 Mozambique,Beira,-19.82,34.87
@@ -4928,7 +4928,7 @@ Mozambique,Chiramba,-16.8921,34.6559
 Mozambique,Ligonha,-15.1757,37.74
 Mozambique,Quelimane,-17.88,36.89
 Mozambique,Matola,-25.9696,32.46
-Mozambique,Montepuez,-13.1196,39.0
+Mozambique,Montepuez,-13.1196,39
 Mozambique,Xai-Xai,-25.04,33.64
 Mozambique,Lichinga,-13.3,35.24
 Mozambique,Mocuba,-16.8496,38.26
@@ -5002,7 +5002,7 @@ Netherlands,Groningen,53.2204,6.58
 Netherlands,Haarlem,52.3804,4.63
 Netherlands,Middelburg,51.502,3.61
 Netherlands,The Hague,52.08,4.27
-Netherlands,Assen,53.0,6.55
+Netherlands,Assen,53,6.55
 Netherlands,Arnhem,51.988,5.923
 Netherlands,Amsterdam,52.35,4.9166
 Netherlands,Eindhoven,51.43,5.5
@@ -5025,7 +5025,7 @@ New Zealand,Glencoe,-46.0947,168.9604
 New Zealand,Wanaka,-44.698,169.1449
 New Zealand,Christchurch,-43.535,172.63
 New Zealand,Renwick,-41.2805,174.0166
-New Zealand,Manukau City,-37.0,174.885
+New Zealand,Manukau City,-37,174.885
 New Zealand,Dunedin,-45.8854,170.491
 New Zealand,Lower Hutt,-41.2037,174.9123
 New Zealand,Pukekohe East,-37.2015,174.9033
@@ -5072,13 +5072,13 @@ Nicaragua,San Carlos,11.2,-84.8333
 Nicaragua,Juigalpa,12.11,-85.38
 Nicaragua,Bilwi,14.0333,-83.3834
 Nicaragua,San Juan del Sur,11.25,-85.86
-Nicaragua,Bluefields,12.0,-83.7649
+Nicaragua,Bluefields,12,-83.7649
 Nicaragua,Masaya,11.969,-86.095
 Nicaragua,Ocotal,13.63,-86.473
 Nicaragua,Greytown,10.9204,-83.7
 Nicaragua,Chinandega,12.6304,-87.13
 Nicaragua,Matagalpa,12.9171,-85.9167
-Nicaragua,Jinotega,13.091,-86.0
+Nicaragua,Jinotega,13.091,-86
 Nicaragua,Rivas,11.4404,-85.82
 Nicaragua,Somoto,13.476,-86.583
 Nicaragua,Boaco,12.47,-85.66
@@ -5124,7 +5124,7 @@ Nigeria,Mubi,10.2703,13.27
 Nigeria,Jos,9.93,8.89
 Nigeria,Lokoja,7.8004,6.7399
 Nigeria,Ijebu-Ode,6.8204,3.92
-Nigeria,Kano,12.0,8.52
+Nigeria,Kano,12,8.52
 Nigeria,Gusau,12.1704,6.66
 Nigeria,Ikare,7.5304,5.76
 Nigeria,Gashua,12.8705,11.04
@@ -5199,7 +5199,7 @@ Norway,Mo i Rana,66.3166,14.1667
 Norway,Rørvik,64.868,11.2053
 Norway,Haugesund,59.4119,5.2775
 Norway,Sandnes,58.8454,5.69
-Norway,Kristiansand,58.1666,8.0
+Norway,Kristiansand,58.1666,8
 Norway,Namsos,64.4833,11.5
 Norway,Molde,62.7483,7.1833
 Norway,Trondheim,63.4167,10.4167
@@ -5387,7 +5387,7 @@ Peru,Tarma,-11.41,-75.73
 Peru,Sicuani,-14.2896,-71.23
 Peru,Tumbes,-3.57,-80.46
 Peru,Satipo,-11.26,-74.69
-Peru,Tacna,-18.0,-70.25
+Peru,Tacna,-18,-70.25
 Peru,Cajamarca,-7.15,-78.53
 Peru,Güeppí,-0.1166,-75.23
 Peru,Chancay,-11.5596,-77.27
@@ -5450,7 +5450,7 @@ Philippines,Olongapo,14.8296,120.2828
 Philippines,Dipolog,8.5883,123.3409
 Philippines,Bontoc,17.0899,120.978
 Philippines,Bacolod,10.6317,122.9817
-Philippines,Pasay City,14.5504,121.0
+Philippines,Pasay City,14.5504,121
 Philippines,Mambajao,9.2504,124.7156
 Philippines,San Juan,14.6,121.0333
 Philippines,Marawi City,8.0034,124.2839
@@ -5460,7 +5460,7 @@ Philippines,Koronadal,6.2541,124.9922
 Philippines,Caloocan City,14.6492,120.9826
 Philippines,Tarlac City,15.4838,120.5834
 Philippines,Bangued,17.5982,120.6155
-Philippines,Tacloban,11.2504,125.0
+Philippines,Tacloban,11.2504,125
 Philippines,Iligan,8.1712,124.2154
 Philippines,Cotabato,7.2169,124.2484
 Philippines,Cabadbaran,9.1236,125.5344
@@ -5566,7 +5566,7 @@ Poland,Olsztyn,53.8,20.48
 Poland,Zielona Góra,51.9504,15.5
 Poland,Ełk,53.8337,22.35
 Poland,Grudziądz,53.4804,18.75
-Poland,Warsaw,52.25,21.0
+Poland,Warsaw,52.25,21
 Poland,Katowice,50.2604,19.02
 Poland,Lublin,51.2504,22.5727
 Poland,Gdynia,54.5204,18.53
@@ -5580,7 +5580,7 @@ Poland,Kielce,50.8904,20.66
 Poland,Poznań,52.4058,16.8999
 Poland,Białystok,53.1504,23.17
 Poland,Wrocław,51.1104,17.03
-Poland,Rzeszów,50.0705,22.0
+Poland,Rzeszów,50.0705,22
 Poland,Inowrocław,52.7799,18.25
 Poland,Koszalin,54.2,16.1833
 Poland,Szczecin,53.4204,14.53
@@ -5926,7 +5926,7 @@ Russia,Omchak,61.6333,147.9167
 Russia,Trofimovsk,72.5997,127.0337
 Russia,Sagastyr,73.3779,126.5924
 Russia,Utkholok,57.5504,157.2333
-Russia,Kiselëvsk,54.0,86.64
+Russia,Kiselëvsk,54,86.64
 Russia,Siglan,59.0337,152.4166
 Russia,Ust’-Kuyga,70.0171,135.6
 Russia,Topki,55.2802,85.6108
@@ -5983,7 +5983,7 @@ Russia,Progress,49.7504,129.6167
 Russia,Tyumen’,57.14,65.53
 Russia,Noyabr’sk,63.1665,75.6165
 Russia,Rostov,57.1892,39.4043
-Russia,Obluch’ye,49.0,131.0833
+Russia,Obluch’ye,49,131.0833
 Russia,Artëmovsk,54.3487,93.4355
 Russia,Ust’-Kamchatsk,56.2135,162.435
 Russia,Olëkminsk,60.5032,120.3926
@@ -6015,13 +6015,13 @@ Russia,Ussuriysk,43.8,132.02
 Russia,Tuapse,44.1148,39.0644
 Russia,Manily,62.55,165.3
 Russia,Ust’-Nera,64.5666,143.2
-Russia,Zhilinda,70.1337,114.0
+Russia,Zhilinda,70.1337,114
 Russia,Klyuchi,56.3,160.85
 Russia,Buynaksk,42.8335,47.113
 Russia,Omutninsk,58.6589,52.1592
 Russia,Saranpaul’,64.2505,60.97
 Russia,Dikson,73.507,80.5451
-Russia,Penza,53.18,45.0
+Russia,Penza,53.18,45
 Russia,Chapayevsk,52.9743,49.7243
 Russia,Ust’-Olenëk,72.9978,119.7729
 Russia,Kudymkar,59.0162,54.633
@@ -6073,7 +6073,7 @@ Russia,Udachnyy,66.4232,112.3965
 Russia,Verkhnevilyuysk,63.4457,120.3167
 Russia,Salekhard,66.535,66.61
 Russia,Vyazemskiy,47.5328,134.7475
-Russia,Krasnodar,45.02,39.0
+Russia,Krasnodar,45.02,39
 Russia,Parma,65.923,57.403
 Russia,Lesnoy,58.6436,59.7983
 Russia,Nizhniy Tagil,57.92,59.975
@@ -6168,7 +6168,7 @@ Russia,Sibay,52.7091,58.6387
 Russia,Taksimo,56.3315,114.89
 Russia,Aleysk,52.4918,82.7777
 Russia,Magas,43.1667,44.8
-Russia,Perm’,58.0,56.25
+Russia,Perm’,58,56.25
 Russia,Igarka,67.4671,86.5833
 Russia,Artëmovskiy,57.3652,61.8698
 Russia,Tulun,54.5653,100.5654
@@ -6320,7 +6320,7 @@ Rwanda,Cyangugu,-2.4796,28.9
 "Saint Helena, Ascension, And Tristan Da Cunha",Georgetown,-7.9286,-14.4119
 "Saint Helena, Ascension, And Tristan Da Cunha",Edinburgh of the Seven Seas,-37.0675,-12.3105
 Saint Kitts And Nevis,Basseterre,17.302,-62.717
-Saint Lucia,Castries,14.002,-61.0
+Saint Lucia,Castries,14.002,-61
 Saint Vincent And The Grenadines,Kingstown,13.1483,-61.2121
 Samoa,Saleaula,-13.4489,-172.3352
 Samoa,Lufilufi,-13.8745,-171.5986
@@ -6352,7 +6352,7 @@ Sao Tome And Principe,São Tomé,0.3334,6.7333
 Sao Tome And Principe,Santo António,1.6386,7.4206
 Sao Tome And Principe,Neves,0.3586,6.5525
 Saudi Arabia,Dhahran,26.2914,50.1583
-Saudi Arabia,Sakākā,30.0,40.1333
+Saudi Arabia,Sakākā,30,40.1333
 Saudi Arabia,Al Jubayl,27.0046,49.646
 Saudi Arabia,Qal‘at Bīshah,20.0087,42.5987
 Saudi Arabia,Riyadh,24.6408,46.7727
@@ -6845,7 +6845,7 @@ South Africa,Port Shepstone,-30.7195,30.46
 South Africa,Worcester,-33.64,19.4399
 South Africa,Hermanus,-34.4096,19.2299
 South Africa,Springbok,-29.6667,17.8833
-South Africa,De Aar,-30.65,24.0
+South Africa,De Aar,-30.65,24
 South Africa,Bloemhof,-27.6496,25.59
 South Africa,Pietermaritzburg,-29.61,30.39
 South Africa,Queenstown,-31.8996,26.88
@@ -7014,7 +7014,7 @@ Suriname,Onverwacht,5.6,-55.2
 Swaziland,Siteki,-26.455,31.952
 Swaziland,Mbabane,-26.3167,31.1333
 Swaziland,Nhlangano,-27.1122,31.1983
-Swaziland,Hlatikulu,-27.0,31.4167
+Swaziland,Hlatikulu,-27,31.4167
 Swaziland,Lobamba,-26.4667,31.2
 Swaziland,Manzini,-26.495,31.388
 Swaziland,Piggs Peak,-25.961,31.247
@@ -7045,7 +7045,7 @@ Sweden,Skellefteå,64.7721,20.95
 Sweden,Nyköping,58.764,17.015
 Sweden,Mariestad,58.705,13.828
 Sweden,Karlstad,59.3671,13.4999
-Sweden,Göteborg,57.75,12.0
+Sweden,Göteborg,57.75,12
 Sweden,Borås,57.7304,12.92
 Sweden,Borlänge,60.4833,15.4167
 Sweden,Gävle,60.667,17.1666
@@ -7116,7 +7116,7 @@ Taiwan,Pozi,23.4611,120.2419
 Taiwan,Taibao,23.45,120.3333
 Taiwan,Keelung,25.1333,121.7333
 Taiwan,Jincheng,24.4341,118.3171
-Taiwan,Tainan,23.0,120.2
+Taiwan,Tainan,23,120.2
 Taiwan,Zhongli,24.965,121.2168
 Taiwan,Nangan,26.1504,119.9328
 Taiwan,Yilan,24.75,121.75
@@ -7143,7 +7143,7 @@ Tajikistan,Dushanbe,38.56,68.7739
 Tajikistan,Kŭlob,37.9212,69.7757
 Tajikistan,Khŭjand,40.29,69.6199
 Tanzania,Oldeani,-3.3496,35.55
-Tanzania,Lindi,-10.0,39.7
+Tanzania,Lindi,-10,39.7
 Tanzania,Mkokotoni,-5.879,39.26
 Tanzania,Bagamoyo,-6.4396,38.89
 Tanzania,Manyoni,-5.7796,34.9
@@ -7246,7 +7246,7 @@ Thailand,Phayao,19.1707,99.9083
 Thailand,Sing Buri,14.887,100.401
 Thailand,Hat Yai,6.9964,100.4714
 Thailand,Suphan Buri,14.471,100.129
-Thailand,Nakhon Ratchasima,15.0,102.1
+Thailand,Nakhon Ratchasima,15,102.1
 Thailand,Bangkok,13.75,100.5166
 Thailand,Buri Ram,15.0004,103.1166
 Thailand,Rayong,12.6718,101.2815
@@ -7263,7 +7263,7 @@ Thailand,Pattani,6.864,101.25
 Thailand,Samut Prakan,13.6069,100.6115
 Thailand,Phetchabun,16.419,101.159
 Thailand,Hua Hin,12.5697,99.9443
-Thailand,Chon Buri,13.4004,101.0
+Thailand,Chon Buri,13.4004,101
 Thailand,Phitsanulok,16.8283,100.2729
 Thailand,Tak,16.8847,99.1293
 Thailand,Songkhla,7.21,100.56
@@ -7351,7 +7351,7 @@ Tunisia,Sfax,34.75,10.72
 Tunisia,Manouba,36.8101,10.0956
 Tunisia,Gabès,33.9004,10.1
 Tunisia,Bizerte,37.2904,9.855
-Tunisia,Tataouine,33.0,10.4667
+Tunisia,Tataouine,33,10.4667
 Tunisia,Medenine,33.4,10.4167
 Tunisia,Béja,36.7304,9.19
 Tunisia,Tunis,36.8028,10.1797
@@ -7599,7 +7599,7 @@ Uganda,Kagadi,0.9378,30.8089
 Uganda,Jinja,0.4404,33.1999
 Ukraine,Kramators’k,48.7194,37.5344
 Ukraine,Lysychans’k,48.9204,38.4274
-Ukraine,Kharkiv,50.0,36.25
+Ukraine,Kharkiv,50,36.25
 Ukraine,Izmayil,45.3503,28.8374
 Ukraine,Chernihiv,51.5049,31.3015
 Ukraine,Drohobych,49.3444,23.4994
@@ -7609,7 +7609,7 @@ Ukraine,Chornomors’k,46.3,30.6666
 Ukraine,Luts’k,50.7472,25.3334
 Ukraine,Konotop,51.2424,33.209
 Ukraine,L’viv,49.835,24.03
-Ukraine,Dnipro,48.48,35.0
+Ukraine,Dnipro,48.48,35
 Ukraine,Berdyans’k,46.7568,36.7868
 Ukraine,Shostka,51.8734,33.4797
 Ukraine,Poltava,49.574,34.5703
@@ -7645,7 +7645,7 @@ Ukraine,Rivne,50.6166,26.2528
 Ukraine,Nizhyn,51.0541,31.8903
 Ukraine,Simferopol’,44.9572,34.1108
 Ukraine,Kyiv,50.4334,30.5166
-Ukraine,Donets’k,48.0,37.83
+Ukraine,Donets’k,48,37.83
 Ukraine,Makiyivka,48.0297,37.9746
 Ukraine,Mariupol’,47.0962,37.5562
 United Arab Emirates,Umm al Qaywayn,25.5653,55.5533
@@ -7723,13 +7723,13 @@ United Kingdom,Lochgilphead,56.0333,-5.4167
 United Kingdom,Grays,51.4833,0.3333
 United Kingdom,Craigavon,54.4497,-6.3646
 United Kingdom,Ballymena,54.8612,-6.2763
-United Kingdom,Dundee,56.4704,-3.0
+United Kingdom,Dundee,56.4704,-3
 United Kingdom,Pont-y-pŵl,51.7011,-3.0444
 United Kingdom,Forfar,56.65,-2.8833
 United Kingdom,Rhuthun,53.1167,-3.3
 United Kingdom,Wolverhampton,52.5833,-2.1333
 United Kingdom,Stockton-on-Tees,54.5833,-1.4167
-United Kingdom,Walsall,52.6,-2.0
+United Kingdom,Walsall,52.6,-2
 United Kingdom,Hertford,51.8,-0.0667
 United Kingdom,Portsmouth,50.8003,-1.08
 United Kingdom,Cambridge,52.2004,0.1166
@@ -7772,7 +7772,7 @@ United Kingdom,Hounslow,51.4667,-0.35
 United Kingdom,Newtown Saint Boswells,55.5833,-2.6833
 United Kingdom,Clydach Vale,51.6267,-3.4761
 United Kingdom,Armagh,54.3481,-6.6496
-United Kingdom,Wrecsam,53.05,-3.0
+United Kingdom,Wrecsam,53.05,-3
 United Kingdom,Nottingham,52.9703,-1.17
 United Kingdom,Dudley,52.5,-2.0833
 United Kingdom,Matlock,53.1333,-1.5333
@@ -7811,16 +7811,16 @@ United Kingdom,Hereford,52.05,-2.7167
 United Kingdom,Liverpool,53.416,-2.918
 United Kingdom,Peterborough,52.5804,-0.25
 United Kingdom,Sandbach,53.1333,-2.3667
-United Kingdom,Falkirk,56.0,-3.7667
+United Kingdom,Falkirk,56,-3.7667
 United Kingdom,Swindon,51.5167,-1.7833
 United Kingdom,Livingston,55.8833,-3.5333
 United Kingdom,Warwick,52.2833,-1.5833
-United Kingdom,Motherwell,55.7833,-4.0
+United Kingdom,Motherwell,55.7833,-4
 United Kingdom,Glenrothes,56.2,-3.1833
 United Kingdom,Telford,52.6333,-2.5
 United Kingdom,Aylesbury,51.8167,-0.8
 United Kingdom,Grimsby,53.5333,-0.05
-United Kingdom,Southport,53.6667,-3.0
+United Kingdom,Southport,53.6667,-3
 United Kingdom,Slough,51.5,-0.5833
 United Kingdom,Reading,51.47,-0.98
 United Kingdom,Ebbw Vale,51.7833,-3.2
@@ -7863,7 +7863,7 @@ United Kingdom,Stafford,52.8,-2.1
 United Kingdom,Newry,54.178,-6.3381
 United Kingdom,Torquay,50.45,-3.5
 United Kingdom,Bexleyheath,51.45,0.15
-United Kingdom,Poole,50.7167,-2.0
+United Kingdom,Poole,50.7167,-2
 United Kingdom,Antrim,54.7129,-6.2085
 United Kingdom,Strabane,54.8224,-7.4684
 United Kingdom,Romford,51.5833,0.2
@@ -15246,7 +15246,7 @@ Uruguay,José Batlle y Ordóñez,-33.47,-55.12
 Uruguay,Canelones,-34.538,-56.284
 Uruguay,La Paloma,-34.67,-54.17
 Uzbekistan,Nukus,42.47,59.615
-Uzbekistan,Namangan,41.0,71.67
+Uzbekistan,Namangan,41,71.67
 Uzbekistan,Samarkand,39.67,66.945
 Uzbekistan,Andijon,40.79,72.34
 Uzbekistan,Farg‘ona,40.39,71.78
@@ -15369,7 +15369,7 @@ Vietnam,Vị Thanh,9.7845,105.4701
 Vietnam,Đà Lạt,11.9359,108.4429
 Vietnam,Đồng Xoài,11.5349,106.8832
 Vietnam,Trà Vinh,9.934,106.334
-Vietnam,Pleiku,13.9833,108.0
+Vietnam,Pleiku,13.9833,108
 Vietnam,Ninh Bình,20.2543,105.975
 Vietnam,Điện Biên Phủ,21.3854,103.0161
 Vietnam,Cam Ranh,11.902,109.2207
@@ -15473,7 +15473,7 @@ Zimbabwe,Bulawayo,-20.17,28.58
 Zimbabwe,Harare,-17.8178,31.0447
 Zimbabwe,Victoria Falls,-17.9296,25.84
 Zimbabwe,Chiredzi,-21.0496,31.66
-Zimbabwe,Chitungwiza,-18.0,31.1
+Zimbabwe,Chitungwiza,-18,31.1
 Zimbabwe,Beitbridge,-22.2096,29.99
 Zimbabwe,Gweru,-19.45,29.82
 Zimbabwe,Kadoma,-18.33,29.9099
