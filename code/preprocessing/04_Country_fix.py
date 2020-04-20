@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import re
 import os
 
+'''
 df1 = pd.read_csv("04_Region_Country.csv")
 df1["Country"].replace({"Iran": "Islamic Republic of Iran", "Viet Nam": "Vietnam", \
                        "Columbia": "Colombia", "USA": "United States", \
@@ -28,9 +29,23 @@ df1.to_csv('04_Region_Country_fixed.csv', index=True, header=True)
 df2.to_csv('04_Weather_Station_fixed.csv', index=True, header=True)
 df3.to_csv('04_Weather_fixed.csv', index=True, header=True)
 
+'''
 
-
-
+df_file = pd.read_csv("../../processed_data/00_Country_test.csv")
+df = pd.read_csv("../../processed_data/04_Region_Country_fixed.csv")
+df_country = df[['Country']].copy()
+lst = []
+for i in range(len(df_country)):
+    lst.append('True')
+df_country.insert(1, "Weather", lst)
+#print(df_country)
+#mergedDf = df_file.merge(df_country, on='Country')
+result = pd.merge(df_file,
+                 df_country[['Country', 'Weather']],
+                 on='Country',
+                 how='left')
+print(result)
+result.to_csv("../../processed_data/00_Country_test.csv")
 '''
 not found
 Africa,Libyan Arab Jamahiriya,LBY
