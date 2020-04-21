@@ -27,6 +27,20 @@ def main():
     df["daily cases max"] = grouped["max"]
     df.fillna(0, inplace=True)
 
+    daily_cases2 = pd.read_csv("../../processed_data/05_daily_cases2.csv", index_col=0)
+    daily_cases2 = daily_cases[["mean", "max"]]
+    daily_cases2.fillna(0, inplace=True)
+    grouped2 = daily_cases2.groupby(daily_cases2.index).mean()
+    df["daily cases2 mean"] = grouped2["mean"]
+    grouped2 = daily_cases2.groupby(daily_cases2.index).max()
+    df["daily cases2 max"] = grouped2["max"]
+    df.fillna(0, inplace=True)
+    df["outbreak"] = df["daily cases2 max"].apply(lambda x: True if x>10 else False)
+
+    df.pop("daily cases2 mean")
+    df.pop("daily cases2 max")
+
+
     lat_lng = pd.read_csv("../../processed_data/06_lat_lng.csv", index_col=0)
     lat_lng = lat_lng.groupby(lat_lng.index).mean()
     df["lat"] = lat_lng["lat"]
@@ -52,6 +66,11 @@ def main():
     weather = weather.rename(columns={"T": "Mean_Weather"})
     # print("weather mean:\n", weather)
     df = pd.merge(df, weather[['Country', 'Mean_Weather']], on='Country', how='left')
+
+    #remove all with nan data
+    df.dropna(inplace=True)
+    df.reset_index(inplace=True)
+    df.pop("index")
     print(df)
 
     df.to_csv("../../processed_data/ZZ_final_processed_data.csv")
