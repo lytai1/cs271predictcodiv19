@@ -7,23 +7,24 @@ import re
 import os
 
 '''
-df1 = pd.read_csv("04_Region_Country.csv")
+df1 = pd.read_csv("../../processed_data/04_Region_Country.csv")
 df1["Country"].replace({"Iran": "Islamic Republic of Iran", "Viet Nam": "Vietnam", \
                        "Columbia": "Colombia", "USA": "United States", \
                        "Bosnia and Herzegowina": "Bosnia and Herzegovina", "Russian Federation": "Russia", \
                        "Slovakia (Slovak Republic)": "Slovakia", "Syrian Arab Republic": "Syria"}, inplace=True)
 
-df2 = pd.read_csv("04_Weather_Station.csv")
+df2 = pd.read_csv("../../processed_data/04_Weather_Station.csv")
 df2["Country"].replace({"Iran": "Islamic Republic of Iran", "Viet Nam": "Vietnam", \
                        "Columbia": "Colombia", "USA": "United States", \
                        "Bosnia and Herzegowina": "Bosnia and Herzegovina", "Russian Federation": "Russia", \
                        "Slovakia (Slovak Republic)": "Slovakia", "Syrian Arab Republic": "Syria"}, inplace=True)
 
-df3 = pd.read_csv("04_Weather.csv")
+df3 = pd.read_csv("../../processed_data/04_Weather.csv")
 df3["Country"].replace({"Iran": "Islamic Republic of Iran", "Viet Nam": "Vietnam", \
                        "Columbia": "Colombia", "USA": "United States", \
                        "Bosnia and Herzegowina": "Bosnia and Herzegovina", "Russian Federation": "Russia", \
                        "Slovakia (Slovak Republic)": "Slovakia", "Syrian Arab Republic": "Syria"}, inplace=True)
+
 
 df1.to_csv('04_Region_Country_fixed.csv', index=True, header=True)
 df2.to_csv('04_Weather_Station_fixed.csv', index=True, header=True)
@@ -42,8 +43,9 @@ result = pd.merge(df_file,
                  df_country[['Country', 'Weather']],
                  on='Country',
                  how='left')
-print(result)
-result.to_csv("../../processed_data/00_Country.csv")
+#print(result)
+#result.to_csv("../../processed_data/00_Country.csv")
+
 
 '''
 not found
