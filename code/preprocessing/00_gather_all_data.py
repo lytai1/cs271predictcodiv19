@@ -67,13 +67,16 @@ def main():
     # print("weather mean:\n", weather)
     df = pd.merge(df, weather[['Country', 'Mean_Weather']], on='Country', how='left')
 
+    df.to_csv("../../processed_data/ZZ_final_processed_data.csv")
+
     #remove all with nan data
     df.dropna(inplace=True)
     df.reset_index(inplace=True)
     df.pop("index")
     print(df)
 
-    df.to_csv("../../processed_data/ZZ_final_processed_data.csv")
+    df.to_csv("../../processed_data/ZZ_final_processed_data_no_nan.csv")
+
     
 
 main()
