@@ -17,13 +17,6 @@ def main():
     population = pd.read_csv("../../processed_data/03_World_Population_density.csv", index_col=0)
     df["Population"] = population["PopTotal"]
     df["Population density"] = population["PopDensity"]
-    
-    # weather = pd.read_csv("../../processed_data/04_Weather_fixed.csv", index_col=0)
-    # weather.set_index(keys='Country', inplace=True)
-    # weather = weather[["Date","T","SLP","H","PP","VV","V","VM","VG","RA","SN","TS"]]
-    # weather = weather[weather["Date"] == "01-01-2020"]
-    # weather = weather.groupby(weather.index).mean()
-    # print(weather)
 
     daily_cases = pd.read_csv("../../processed_data/05_daily_cases.csv", index_col=0)
     daily_cases = daily_cases[["mean", "max"]]
@@ -48,6 +41,17 @@ def main():
     df["national flights"] = flights["National flights"]
     df["international flights"] = flights["international flights"]
 
+    weather = pd.read_csv("../../processed_data/04_Weather_fixed.csv", index_col=0)
+    weather = weather[['Country', 'Location', 'Date', 'T']]
+    pd.set_option('display.max_rows', None)  # display all rows
+    indexNames = weather[weather['T'] == '-'].index  # Delete these row indexes from dataFrame
+    weather.drop(indexNames, inplace=True)
+    weather = weather.dropna()
+    weather['T'] = weather['T'].astype(float)
+    weather = weather.groupby('Country', as_index=False)['T'].mean()
+    weather = weather.rename(columns={"T": "Mean_Weather"})
+    # print("weather mean:\n", weather)
+    df = pd.merge(df, weather[['Country', 'Mean_Weather']], on='Country', how='left')
     print(df)
 
     df.to_csv("../../processed_data/ZZ_final_processed_data.csv")
