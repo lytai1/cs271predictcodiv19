@@ -8,6 +8,7 @@ from matplotlib import pyplot as plt
 def f_importances(coef, features, top=-1):
     imp = coef
     imp, features = zip(*sorted(zip(imp, features)))
+    print()
     if top == -1:
         top = len(features)
 
@@ -20,15 +21,15 @@ df = pd.read_csv('../../processed_data/ZZ_final_processed_data_no_nan.csv', inde
 print(df)
 
 # TO_DO: 12 features, put outbreak 2nd column
-features = list(df.drop(['outbreak'], axis = 1).columns[1:])             # to fix [2:]
+features = list(df.drop(['outbreak'], axis = 1).drop(['daily cases mean'], axis = 1).drop(['daily cases max'], axis = 1).columns[1:])             # to fix [2:]
 labels = ['outbreak', 'non-outbreak']
-data = df[df.drop(['outbreak'], axis = 1).columns[1:]].values.tolist()   # to fix [2:]
+data = df[df.drop(['outbreak'], axis = 1).drop(['daily cases mean'], axis = 1).drop(['daily cases max'], axis = 1).columns[1:]].values.tolist()   # to fix [2:]
 target = list(df['outbreak'])
 print(len(features), "Features: ", features)
 print(len(data), 'Data: ', data)
 print(len(target), 'Target: ', target)
 
-X_train, X_test, y_train, y_test = train_test_split(data, target, test_size = 0.8)
+X_train, X_test, y_train, y_test = train_test_split(data, target, test_size = 0.2)
 clf = svm.SVC(kernel='linear')
 clf.fit(X_train, y_train)
 y_pred = clf.predict(X_test)
