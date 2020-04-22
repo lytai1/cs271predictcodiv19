@@ -2,6 +2,18 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn import svm
 from sklearn import metrics
+from matplotlib import pyplot as plt
+
+
+def f_importances(coef, features, top=-1):
+    imp = coef
+    imp, features = zip(*sorted(zip(imp, features)))
+    if top == -1:
+        top = len(features)
+
+    plt.barh(range(top), imp[::-1][0:top], align='center')
+    plt.yticks(range(top), features[::-1][0:top])
+    plt.show()
 
 
 df = pd.read_csv('../../processed_data/ZZ_final_processed_data_no_nan.csv', index_col=0)
@@ -21,5 +33,6 @@ clf = svm.SVC(kernel='linear')
 clf.fit(X_train, y_train)
 y_pred = clf.predict(X_test)
 print("Accuracy: ", metrics.accuracy_score(y_test, y_pred))
-#print("Precision: ",metrics.precision_score(y_test, y_pred))
-#print("Recall:",metrics.recall_score(y_test, y_pred))
+
+#f_importances(clf.coef_, features)
+f_importances(abs(clf.coef_[0]), features)
