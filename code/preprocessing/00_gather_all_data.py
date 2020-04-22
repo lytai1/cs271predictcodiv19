@@ -67,6 +67,11 @@ def main():
     # print("weather mean:\n", weather)
     df = pd.merge(df, weather[['Country', 'Mean_Weather']], on='Country', how='left')
 
+    #add data
+    df.at['Taiwan', 'education level'] = df.at['Taiwan', 'education level'] #use china data
+    df.at['Singapore', 'education level'] = 6.47805976867676            #add old data
+    df.at['Hong Kong SAR', 'education level'] = 67.2759170532227            #add missing data
+
     df.to_csv("../../processed_data/ZZ_final_processed_data.csv")
 
     #remove all with nan data
