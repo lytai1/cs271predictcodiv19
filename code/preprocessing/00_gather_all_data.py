@@ -66,18 +66,22 @@ def main():
     weather = weather.rename(columns={"T": "Mean_Weather"})
     # print("weather mean:\n", weather)
     df = pd.merge(df, weather[['Country', 'Mean_Weather']], on='Country', how='left')
+    df.set_index('Country', inplace=True)
 
-    #add data
-    df.at['Taiwan', 'education level'] = df.at['Taiwan', 'education level'] #use china data
-    df.at['Singapore', 'education level'] = 6.47805976867676            #add old data
+    #add data for positive results
+    df.at['Taiwan', 'education level'] = df.at['China', 'education level']  #use china data
+    df.at['Singapore', 'education level'] = 6.47805976867676                #add old data
     df.at['Hong Kong SAR', 'education level'] = 67.2759170532227            #add missing data
-
+    df.at['Hong Kong SAR', 'Mean_Weather'] = 18.7                           #add missing data
+    print(df)
+    print(df[df["outbreak"]])
     df.to_csv("../../processed_data/ZZ_final_processed_data.csv")
 
     #remove all with nan data
     df.dropna(inplace=True)
-    df.reset_index(inplace=True)
-    df.pop("index")
+    df.sort_index(inplace=True)
+    print(df[df["outbreak"]])
+
     print(df)
 
     df.to_csv("../../processed_data/ZZ_final_processed_data_no_nan.csv")

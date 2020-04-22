@@ -4,6 +4,8 @@ from sklearn import svm
 from sklearn import metrics
 from matplotlib import pyplot as plt
 from sklearn.svm import SVR
+from sklearn.metrics import roc_auc_score, roc_curve
+import numpy as np
 
 
 def f_importances(coef, features, top=-1):
@@ -46,13 +48,39 @@ X_train, X_test, y_train, y_test = train_test_split(data, target, test_size = 0.
 # print(svm_search.best_params_)
 # #{'shrinking': False, 'gamma': 0.01, 'degree': 6, 'C': 1}
 
-clf = svm.SVC(kernel='linear', shrinking=False, gamma=0.01, degree=6, C=1)
-# clf.fit(X_train, y_train)
-# y_pred = clf.predict(X_test)
-# print("Accuracy: ", metrics.accuracy_score(y_test, y_pred))
-
-scores = cross_val_score(clf, data, target, cv=5)
-print(scores)
+clf = svm.SVC(kernel='linear', shrinking=False, gamma=0.01, degree=6, C=1, probability=True)
+clf.fit(X_train, y_train)
+y_pred = clf.predict(X_test)
+print("Accuracy: ", metrics.accuracy_score(y_test, y_pred))
 
 #f_importances(clf.coef_, features)
-# f_importances(abs(clf.coef_[0]), features)
+f_importances(abs(clf.coef_[0]), features)
+
+# # predict probabilities
+# svc_probs = clf.predict_proba(data)
+svc_probs = clf.predict_proba(X_test)
+
+# keep probabilities for the positive outcome only
+svc_probs = svc_probs[:, 1]
+# calculate scores
+svc_auc = roc_auc_score(target, svc_probs)
+# svc_auc = roc_auc_score(X_test, svc_probs)
+# summarize scores
+print('svc: ROC AUC=%.3f' % (svc_auc))
+# calculate roc curves
+svc_fpr, svc_tpr, _ = roc_curve(target, svc_probs)
+# svc_fpr, svc_tpr, _ = roc_curve(X_test, svc_probs)
+
+# plot the roc curve for the model
+plt.plot(svc_fpr, svc_tpr, marker='.', label='svc')
+# axis labels
+plt.xlabel('False Positive Rate')
+plt.ylabel('True Positive Rate')
+# show the legend
+plt.legend()
+# show the plot
+plt.show()
+
+#cross fold validation
+scores = cross_val_score(clf, data, target, cv=5)
+print(scores)
