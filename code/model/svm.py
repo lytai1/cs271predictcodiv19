@@ -57,8 +57,8 @@ print("Accuracy: ", metrics.accuracy_score(y_test, y_pred))
 f_importances(abs(clf.coef_[0]), features)
 
 # # predict probabilities
-# svc_probs = clf.predict_proba(data)
-svc_probs = clf.predict_proba(X_test)
+svc_probs = clf.predict_proba(data)
+# svc_probs = clf.predict_proba(X_test)
 
 # keep probabilities for the positive outcome only
 svc_probs = svc_probs[:, 1]
