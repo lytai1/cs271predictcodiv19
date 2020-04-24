@@ -29,7 +29,7 @@ feature_imp = pd.Series(clf.feature_importances_,index=features).sort_values(asc
 # Creating a bar plot
 sns.barplot(x=feature_imp, y=feature_imp.index)
 
-# Add labels to your graph
+# Add labels to graph
 plt.xlabel('Feature Importance Score by Random Forest')
 plt.ylabel('Features')
 plt.legend()
