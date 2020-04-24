@@ -75,7 +75,7 @@ def main():
     df.at['Hong Kong SAR', 'Mean_Weather'] = 18.7                           #add missing data
     print(df)
     print(df[df["outbreak"]])
-    df.to_csv("../../processed_data/ZZ_final_processed_data.csv")
+    #df.to_csv("../../processed_data/ZZ_final_processed_data.csv")
 
     #remove all with nan data
     df.dropna(inplace=True)
@@ -84,7 +84,7 @@ def main():
 
     print(df)
 
-    df.to_csv("../../processed_data/ZZ_final_processed_data_no_nan.csv")
+    #df.to_csv("../../processed_data/ZZ_final_processed_data_no_nan.csv")
 
     
 
