@@ -1,23 +1,17 @@
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import RandomizedSearchCV, cross_val_score, train_test_split
-from sklearn import svm
+from sklearn.model_selection import train_test_split
 from sklearn import metrics
 from matplotlib import pyplot as plt
-from sklearn.svm import SVR
-from sklearn.metrics import roc_auc_score, roc_curve
-import numpy as np
 import seaborn as sns
 
 
 df = pd.read_csv('../../processed_data/ZZ_final_processed_data_no_nan.csv')
 print(df)
 
-# TO_DO: 12 features, put outbreak 2nd column
-features = list(df.drop(['outbreak','daily cases mean','daily cases max'], axis = 1).columns[1:])             # to fix [2:]
+features = list(df.drop(['outbreak','daily cases mean','daily cases max'], axis = 1).columns[1:])
 labels = ['outbreak', 'non-outbreak']
-data = df[df.drop(['outbreak','daily cases mean','daily cases max'], axis = 1).columns[1:]].values.tolist()   # to fix [2:]
-#target = list(df['outbreak'])
+data = df[df.drop(['outbreak','daily cases mean','daily cases max'], axis = 1).columns[1:]].values.tolist()
 target = list(df['outbreak'].map({True:1, False:0}))
 print(len(features), "Features: ", features)
 print(len(data), 'Data: ', data)
