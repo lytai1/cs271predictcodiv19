@@ -12,6 +12,7 @@ def f_importances(coef, features, top=-1):
     imp = coef
     imp, features = zip(*sorted(zip(imp, features)))
     print(coef)
+    print(features)
     if top == -1:
         top = len(features)
 
@@ -24,18 +25,40 @@ df = pd.read_csv('../../processed_data/ZZ_final_processed_data_no_nan.csv')
 print(df)
 
 # TO_DO: 12 features, put outbreak 2nd column
-features = list(df.drop(['outbreak','daily cases mean','daily cases max'], axis = 1).columns[1:])             # to fix [2:]
+features = list(df.drop(['outbreak'], axis = 1).columns[1:])             # with daily cases
+# features = list(df.drop(['outbreak','daily cases mean','daily cases max'], axis = 1).columns[1:])             # to fix [2:]
 labels = ['outbreak', 'non-outbreak']
-data = df[df.drop(['outbreak','daily cases mean','daily cases max'], axis = 1).columns[1:]].values.tolist()   # to fix [2:]
-#target = list(df['outbreak'])
+data = df[df.drop(['outbreak'], axis = 1).columns[1:]].values.tolist()   # with daily cases
+# data = df[df.drop(['outbreak','daily cases mean','daily cases max'], axis = 1).columns[1:]].values.tolist()   # to fix [2:]
 target = list(df['outbreak'].map({True:1, False:0}))
 print(len(features), "Features: ", features)
 print(len(data), 'Data: ', data)
 print(len(target), 'Target: ', target)
 
 X_train, X_test, y_train, y_test = train_test_split(data, target, test_size = 0.2)
-clf = svm.SVC(kernel='linear')
-#clf = svm.SVC(kernel='linear', shrinking=False, gamma=0.01, degree=6, C=1, probability=True)
+
+'''
+# use this to find the optimal parameters for SVM
+c = [0.01, 0.1, 1]
+gamma = [0.01, 0.1, 1]
+shrinking = [True, False]
+degree = [3, 4, 5, 6, 7]
+
+svm_grid = {'C': c, 'gamma' : gamma, 'shrinking' : shrinking, 'degree': degree}
+
+svm1 = svm.SVC(kernel='linear')
+svm_search = RandomizedSearchCV(svm1, svm_grid, scoring='neg_mean_squared_error', cv=3, return_train_score=True, n_jobs=-1, n_iter=30, verbose=1)
+svm_search.fit(X_train, y_train)
+
+print(svm_search.best_params_)
+# result with daily cases:
+# {'shrinking': True, 'gamma': 0.01, 'degree': 4, 'C': 1}
+# result without daily cases:
+#{'shrinking': True, 'gamma': 1, 'degree': 6, 'C': 0.1}
+
+'''
+clf = svm.SVC(shrinking=True, kernel='linear', gamma=0.01, degree=4, C=1, probability=True) #svc setting for data with daily cases
+# clf = svm.SVC(shrinking=True, kernel='linear', gamma=1, degree=6, C=0.1, probability=True) #svc setting for data with daily cases
 clf.fit(X_train, y_train)
 y_pred = clf.predict(X_test)
 print("Accuracy: ", metrics.accuracy_score(y_test, y_pred))
@@ -44,20 +67,6 @@ print("Accuracy: ", metrics.accuracy_score(y_test, y_pred))
 f_importances(abs(clf.coef_[0]), features)
 
 
-# # use this to find the optimal parameters for SVR
-# c = [0.01, 0.1, 1]
-# gamma = [0.01, 0.1, 1]
-# shrinking = [True, False]
-# degree = [3, 4, 5, 6, 7]
-
-# svm_grid = {'C': c, 'gamma' : gamma, 'shrinking' : shrinking, 'degree': degree}
-
-# svm1 = svm.SVC(kernel='linear')
-# svm_search = RandomizedSearchCV(svm1, svm_grid, scoring='neg_mean_squared_error', cv=3, return_train_score=True, n_jobs=-1, n_iter=30, verbose=1)
-# svm_search.fit(X_train, y_train)
-
-# print(svm_search.best_params_)
-# #{'shrinking': False, 'gamma': 0.01, 'degree': 6, 'C': 1}
 
 
 '''
@@ -88,5 +97,6 @@ plt.show()
 
 #cross fold validation
 scores = cross_val_score(clf, data, target, cv=5)
-#print(scores)
+print(scores)
+
 '''

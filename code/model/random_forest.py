@@ -2,6 +2,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
+from sklearn.metrics import plot_roc_curve, roc_auc_score, roc_curve
 from matplotlib import pyplot as plt
 import seaborn as sns
 
@@ -33,4 +34,16 @@ sns.barplot(x=feature_imp, y=feature_imp.index)
 plt.xlabel('Feature Importance Score by Random Forest')
 plt.ylabel('Features')
 plt.legend()
+plt.show()
+
+# Predict probabilities for the test data.
+probs = clf.predict_proba(data)
+# Keep Probabilities of the positive class only.
+probs = probs[:, 1]
+# Compute the AUC Score.
+auc = roc_auc_score(target, probs)
+print('AUC: %.2f' % auc)
+
+# fpr, tpr, thresholds = roc_curve(y_test, probs)
+plot_roc_curve(clf, data, target)
 plt.show()

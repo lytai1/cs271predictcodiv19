@@ -46,10 +46,8 @@ def main():
 
     # print(svm_search.best_params_)
     # #{'shrinking': True, 'kernel': 'poly', 'gamma': 0.01, 'epsilon': 0.01, 'C': 10}
-    # #{'shrinking': False, 'gamma': 0.01, 'epsilon': 0.1, 'C': 10} # with rbf
 
     svm_confirmed = SVR(shrinking=True, kernel='poly', gamma=0.01, epsilon=0.01, C=10)
-    # svm_confirmed = SVR(shrinking=False, kernel='rbf', gamma=0.01, epsilon=0.1, C=10)
     svm_confirmed.fit(X_train_confirmed, y_train_confirmed)
     days_in_future = 10
     day_count = (end - start).days +1
@@ -66,14 +64,15 @@ def main():
     print('MSE:',mean_squared_error(svm_test_pred, y_test_confirmed))
 
     
-    actual_date, actual_confirm =  pull_data(start, end + timedelta(days=days_in_future), path, "Confirmed")
+    actual_date, actual_confirm =  pull_data(end, end + timedelta(days=days_in_future), path, "Confirmed")
     plt.figure(figsize=(20, 12))
-    plt.plot(actual_date, actual_confirm)
+    plt.plot(date_from, confirm)
     plt.plot(future_forcast, svm_pred, linestyle='dashed', color='purple')
+    plt.plot(actual_date + day_count-1, actual_confirm, color='red') #future actual data
     plt.title('Number of Coronavirus Cases Over Time', size=30)
     plt.xlabel('Days Since 1/22/2020', size=30)
     plt.ylabel('Number of Cases', size=30)
-    plt.legend(['Confirmed Cases', 'SVM predictions'])
+    plt.legend(['Confirmed Cases', 'SVM predictions', 'Actural confirm cases after 3/15'])
     plt.xticks(size=15)
     plt.yticks(size=15)
     plt.show()
